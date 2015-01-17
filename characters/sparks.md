@@ -1,11 +1,11 @@
 # Sparks
 
-Class & Level: Level 1 Sorcerer
-Race: Dragonborn
-Background: Err...custom 'shamed, exiled pyromaniac?`
-Alignment: Neutral
-Player Name: Evan
-Experience Points: Nope
+* Class & Level: Level 1 Sorcerer
+* Race: Dragonborn
+* Background: Err...custom 'shamed, exiled pyromaniac?`
+* Alignment: Neutral
+* Player Name: Evan
+* Experience Points: Nope
 
 Str | Dex | Const | Int | Wis | Char
 --: | --: | ----: | --: | --: | ---:
