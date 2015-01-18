@@ -2,12 +2,12 @@
 
 ## Stats and Specs
 
-* Class & Level: Level 1 Sorcerer
-* Race: Dragonborn
-* Background: Err...custom "disgraced, exiled pyromaniac?"
-* Alignment: Neutral
-* Player Name: Evan
-* Experience Points: Nope
+* **Class & Level**: Level 1 Sorcerer
+* **Race**: Dragonborn
+* **Background**: Err...custom "disgraced, exiled pyromaniac?"
+* **Alignment**: Neutral
+* **Player Name**: Evan
+* **Experience Points**: Nope
 
 Str | Dex | Const | Int | Wis | Char
 --: | --: | ----: | --: | --: | ---:
