@@ -43,14 +43,14 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 * Breath Attack: 2d6 Fire, 5' x 30' Area
 
-#  | Equipment
----: | ---------
-1 | Light Crossbow
-20 | Crossbow Bolts
-1 | Dungoneers Pack
-1 | Arcane Focus
-2 | Daggers
-1 | Playing Card Set
+\#  | Equipment
+--: | ---------
+1   | Light Crossbow
+20  | Crossbow Bolts
+1   | Dungoneers Pack
+1   | Arcane Focus
+2   | Daggers
+1   | Playing Card Set
 
 ## Background
 
