@@ -52,6 +52,24 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 2   | Daggers
 1   | Playing Card Set
 
+## Spells
+
+Spellcasting Ability | Spell Save DC | Spell Attack Bonus
+-------------------- | ------------: | -----------------:
+Charisma             | 13            | 5
+
+### Cantrips
+
+* Fire Bolt
+* Light (Sounds useful, but I'm just guessing. Suggestions?)
+* Mage Hand (Do we need this with Rinn as a trickster?)
+* Minor Illusion (Do we need this with Rinn as a trickster?)
+
+### Level 1
+
+Burning Hands
+Detect Magic (Sounds useful, but I'm just guessing. Suggestions?)
+
 ## Background
 
 Sparks was a troublesome child, manifesting sorcerous powers at an early age. He would frequently manifest fire magiks when his mother held him, leading to more than his share of dropping incidents.
