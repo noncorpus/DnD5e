@@ -87,3 +87,12 @@ Sparks has brass scales rimmed in shades of fiery metallic red. He likes to thin
 Stretching for a book on the top shelp on his twentieth birthday, Sparks realized that an adult Dragonborn would have earned an adult name by his age -- but no one ever came back for him. Abandoned by family and clan, Sparks decided to leave his exile and find a name on his own. He's ready to travel the world, see exotic places and discover ancient wonders. Along the way, he hopes to find himself.
 
 P.S. what do ancient wonders look like in flames?
+
+Age | Height | Weight  | Eyes | Skin          | Hair
+--: | -----: | ------: | ---- | ------------- | ----
+20  | 6'3"   | 274 lbs | Red  | Brass and red | Nope
+
+* **Personality Traits**. Socially awkward. Kinda crazy. REALLY likes fire.
+* **Ideals**. Good and evil are stupid. Let's go find things that burn.
+* **Bonds**. Likes the idea of people in general. (Obivously doesn't know any.)
+* **Flaws**. Naive. Insecure (but hides it with charm and stunning good looks). Tries to be funny.
