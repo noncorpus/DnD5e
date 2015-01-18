@@ -4,7 +4,7 @@
 
 * Class & Level: Level 1 Sorcerer
 * Race: Dragonborn
-* Background: Err...custom 'shamed, exiled pyromaniac?`
+* Background: Err...custom "disgraced, exiled pyromaniac?"
 * Alignment: Neutral
 * Player Name: Evan
 * Experience Points: Nope
