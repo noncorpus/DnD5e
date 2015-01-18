@@ -2,7 +2,7 @@
 
 ## Sparks ##
 
-Sparks' story
+[Sparks' story](sparks.md#background)
 
 ## Riardon "Rinn" Am-Tyro ##
 
