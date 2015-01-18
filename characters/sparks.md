@@ -67,8 +67,8 @@ Charisma             | 13            | 5
 
 ### Level 1
 
-Burning Hands
-Detect Magic (Sounds useful, but I'm just guessing. Suggestions?)
+* Burning Hands
+* Detect Magic (Sounds useful, but I'm just guessing. Suggestions?)
 
 ## Background
 
