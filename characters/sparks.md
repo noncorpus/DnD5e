@@ -41,7 +41,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
   * Draconic Resiliance: Unarmored AC = 13 + Dex Bonus
   * One bonus hit point per level
 
-* Breath Attack: 2d6 Fire, 5' x 30' Line
+* Breath Attack: 2d6 Fire, 5' x 30' Line, DC = 12 (8 + Constitution + Profficiency)
 
 \#  | Equipment
 --: | ---------
@@ -60,33 +60,31 @@ Charisma             | 13            | 5
 
 ### Cantrips
 
-* Fire Bolt
-* Light (Sounds useful, but I'm just guessing. Suggestions?)
-* Mage Hand (Do we need this with Rinn as a trickster?)
-* Minor Illusion (Do we need this with Rinn as a trickster?)
+✓  | Spell Name (page)  | Time     | Range | Duration | Components | Effect
+---| ------------------ | -------: | ----: | -------: | ---------- | ------
+   | Acid Splash (211)  | 1 action | 60ft  | Instant  | V,S        | 1 or 2 creatures w/in 5 ft, Dex save or 1d6 acid
+   | Blade Ward (218)   | 1 action | Self  | 1 round  | V,S        | Resistance to bludgeoning, piercing & slashing dmg
+   | Chill Touch (221)  | 1 action | 120ft | 1 round  | V,S        | Ranged attack, 1d8 nec. dmg, 1 turn can't heal, undead has disadv.
+   | Dancing Lghts (230)| 1 action | 60ft  | 10 min   | V,S,M      | 4 lights, dim light in 10ft, can move 60ft/turn
+✓  | Fire Bolt (242)    | 1 action | 120ft | Instant  | V,S,M      | Ranged attack, 1d10 Fire Dmg
+   | Friends (244)      | 1 action | -     | 1 min    | S,M        | Adv. charism chks, creature knows about spell when it ends
+✓  | Light (255)        | -        | Touch | 1 hour   | V,M        | Obj. casts bright light, 20ft, dim light 20ft
+✓  | Mage Hand (256)    | 1 action | 30ft  | 1 min    | V,S,M      | Manipulate things within 30ft
+   | Mending (259)      | 1 min    | Touch | -        | V,S,M      | Repairs break <= 1ft in dimension
+   | Message (259)      | 1 action | 120ft | 1 round  | V,S,M      | Whisper back and forth with one target
+   | Minor Illsn. (260) | 1 action | 30ft  | 1 minute | S,M        | Create sound/image, Int (investigation) check to discover
+   | Poison Spray (266) | 1 action | 10ft  | Instant  | V,S        | Const save or 1d12 poison dmg
+   | Prestidigi'n (267) | 1 action | 10ft  | 1 hour   | V,S        | Minor magical trick
+   | Ray of Frost (271) | 1 action | 60ft  | Instant  | V,S        | Ranged attack, 1d8 cold dmg, speed reduced 10ft
+   | Shock'g Grasp (275)| 1 action | Touch | Instant  | V,S        | Melee atk w/ adv if target wears metal, 1d8 lightning
+   | True Strike (284)  | 1 action | 30ft  | 1 round  | S          | Advantage first attack roll against target
 
 ### Level 1
 
 * Burning Hands
-* Detect Magic (Sounds useful, but I'm just guessing. Suggestions?)
+* Detect Magic
 
 ## Background
-
-Sparks was a troublesome child, manifesting sorcerous powers at an early age. He would frequently manifest fire magiks when his mother held him, leading to more than his share of dropping incidents.
-
-He still didn't understand his abilities when, at the age of three, he started a wildfire that spread to the Eldrin Dam, the collapse of which caused major flooding through his clan's holdings. He still doesn't trust water.
-
-After the Great Flood, Sparks was a shame to his clan. He was sent away to the clan's remote Quinin Archival Library, where the clan stores unwanted and forbidden books. He's grown up alone, reading and experimenting with his own powers. He loves books, which combine his two favorite things: knowledge and kindling.
-
-Growing up alone, Sparks never learned how to be around people. Together, his isolation and sorcerous powers have left him socially awkward and just the teeniest, tinest bit insane.
-
-After years alone -- and in a library, no less -- he's made extensive study of social interaction, memorizing long books about party tricks, trivia, pickup lines, flirting, persuasion and other social skills. He's never had any real practice, but he's totally looking forward to trying it out.
-
-Sparks has brass scales rimmed in shades of fiery metallic red. He likes to think that all the dragonborn ladies find him quite a looker, but since he's never actually met any, he's really just covering for his own insecurities.
-
-Stretching for a book on the top shelp on his twentieth birthday, Sparks realized that an adult Dragonborn would have earned an adult name by his age -- but no one ever came back for him. Abandoned by family and clan, Sparks decided to leave his exile and find a name on his own. He's ready to travel the world, see exotic places and discover ancient wonders. Along the way, he hopes to find himself.
-
-P.S. what do ancient wonders look like in flames?
 
 Age | Height | Weight  | Eyes | Skin          | Hair
 --: | -----: | ------: | ---- | ------------- | ----
