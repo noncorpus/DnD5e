@@ -94,3 +94,4 @@ Age | Height | Weight  | Eyes | Skin          | Hair
 * **Ideals**. Good and evil are stupid. Let's go find things that burn.
 * **Bonds**. Likes the idea of people in general. (Obivously doesn't know any.)
 * **Flaws**. Naive. Insecure (but hides it with charm and stunning good looks). Tries to be funny.
+* **Feature**. Good with strangers.
