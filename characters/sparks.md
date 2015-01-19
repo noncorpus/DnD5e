@@ -41,7 +41,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
   * Draconic Resiliance: Unarmored AC = 13 + Dex Bonus
   * One bonus hit point per level
 
-* Breath Attack: 2d6 Fire, 5' x 30' Line
+* Breath Attack: 2d6 Fire, 5' x 30' Line, DC = 12 (8 + Constitution + Profficiency)
 
 \#  | Equipment
 --: | ---------
