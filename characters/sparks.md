@@ -76,7 +76,7 @@ Charisma             | 13            | 5
    | Poison Spray (266) | 1 action | 10ft  | Instant  | V,S        | Const save or 1d12 poison dmg
    | Prestidigi'n (267) | 1 action | 10ft  | 1 hour   | V,S        | Minor magical trick
    | Ray of Frost (271) | 1 action | 60ft  | Instant  | V,S        | Ranged attack, 1d8 cold dmg, speed reduced 10ft
-   | Shock'g Grasp (275)| 1 action | Touch | Instant  | V,S        | Melee atk w/ adv if target wears metal, 1d8 lightning
+✓  | Shock'g Grasp (275)| 1 action | Touch | Instant  | V,S        | Melee atk w/ adv if target wears metal, 1d8 lightning
    | True Strike (284)  | 1 action | 30ft  | 1 round  | S          | Advantage first attack roll against target
 
 ### Level 1
