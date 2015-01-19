@@ -76,6 +76,7 @@ Thaumaturgy (282)  | 1 action | 30'   | <= 1 min | V                  | 1 of: 3x
 
 Spell Name (page)             | Time     | Range | Duration | Components                | Effect
 ------------------            | -------: | ----: | -------: | ----------                | ------
+Bane (216)                    | 1 action | 30'   | <=1 min  | V,S,M (drop of blood)     | 1-3 targets, Cha sv or -1d4 on saves & attacks
 Bless (219)                   | 1 action | 30'   | <=1 min  | V,S,M (holy water)        | 1-3 targets, +1d4 on saves & attacks
 Command (223)                 | 1 action | 60'   | 1 round  | V                         | 1 target, Wis sv or obey one word command
 Create Water (229)            | 1 action | 30'   | Instant  | V,S,M (drop of water)     | <= 10 gallons or 30' cube of rain
