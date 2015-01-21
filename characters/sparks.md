@@ -16,7 +16,7 @@ Str | Dex | Const | Int | Wis | Char
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-2           | 15  | 2          | 30    |      9 | 1d6+3
+2           | 15  | 2          | 30    |     18 | 2d6
 
 ### Languages
 
@@ -54,9 +54,15 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 ## Spells
 
-Spellcasting Ability | Spell Save DC | Spell Attack Bonus
--------------------- | ------------: | -----------------:
-Charisma             | 13            | 5
+Spellcasting Ability | Spell Save DC | Spell Attack Bonus | Sorcery Points
+-------------------- | ------------: | -----------------: | -------------:
+Charisma             | 13            | 5                  | 2
+
+**Spell Slots**
+
+Level 1 |
+------: |
+3       |
 
 ### Cantrips
 
@@ -81,8 +87,12 @@ Charisma             | 13            | 5
 
 ### Level 1
 
-* Burning Hands
-* Detect Magic
+✓  | Spell Name (page)  | Time     | Range | Duration | Components | Effect
+---| ------------------ | -------: | ----: | -------: | ---------- | ------
+✓  | Burning Hands (220)| 1 action | 15ft cone | Instant | V, S    | 3d6 (+1d6 / level over 1) fire dmg, Dex save for half dmg
+✓  | Detect Magic (231) | 1 action | Self  | 10 min   | V,S        | Sense magic within 30 feet of self
+✓  | Sleep (276)        | 1 action | 90 ft | 1 min    | V,S,M      | 5d8 (+2d8 / level over 1) hit points of creatures sleep
+   | False Life (239)   | 1 action | Self  | 1 hour   | V,S,M      | 1d4 + 4 (+5 / level over 1) temp hit points 
 
 ## Background
 
