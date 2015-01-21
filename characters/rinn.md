@@ -2,12 +2,12 @@
 
 ## Stats and Specs
 
-* **Class & Level**: Level 1 Cleric
+* **Class & Level**: Level 2 Cleric
 * **Race**: Half-Elf
-* **Background**: Former Child Thief, now Priest in the Service of Tymora
+* **Background**: Former Child Thief (Urchin), now Priest in the Service of Tymora
 * **Alignment**: Chaotic Good
 * **Player Name**: Matt
-* **Experience Points**: 0 / 300
+* **Experience Points**: 300 / 300
 
 Str  | Dex  | Con  | Int  | Wis  | Cha
 --:  | --:  | --:  | --:  | --:  | --:
@@ -16,7 +16,7 @@ Str  | Dex  | Con  | Int  | Wis  | Cha
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-         2  |  13 |          3 |    30 |      9 | 1d8+1
+         2  |  17 |          3 |    30 |     16 | 2d8+2
 
 ### Languages
 
@@ -28,14 +28,19 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 * (+4) Deception
 * (+5) Insight
+* (+5) Perception
 * (+4) Persuasion
 * (+5) Sleight of Hand
+* (+5) Stealth
 
 ### Features and Traits
 
 * 60' Darkvision
 * Advantage on Saves vs. Charm
 * Immune to Sleep Magic
+* Channel Divinity
+  * Turn Undead
+  * Invoke Duplicity
 
 ### Proficiencies
 
@@ -44,14 +49,24 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 * Shields
 * All Simple Weapons
 
-\#  | Equipment
+## Attacks
+Weapon         | Atk Bonus | Damage   | Range  | Properties
+------         | :-------: | -----:   | :---:  | ----------
+Warhammer      |    +2     | 1d8(b)   | n/a    | Versatile (1d10)
+Light Crossbow |    +5     | 1d8+3(p) | 80/320 | Ammunition, loading, two-handed
+Small Dagger   |    +5     | 1d4+3(p) | 20/60  | Finesse, Light
+
+## Equipment
+\#  | Item
 --: | ---------
 1   | Light Crossbow
-20  | Crossbow Bolts
-1   | Dungoneers Pack
-1   | Arcane Focus
-2   | Daggers
-1   | Playing Card Set
+12  | Crossbow Bolts
+1   | Small Dagger
+1   | Divine Focus
+1   | Scale Mail
+1   | Warhammer
+1   | Shield
+
 
 ## Spells
 
@@ -73,6 +88,8 @@ Sacred Flame (272) | 1 action | 60'   | Instant  | V,S                | Target D
 Thaumaturgy (282)  | 1 action | 30'   | <= 1 min | V                  | 1 of: 3x voice volume, change flames, 1 min tremors, instant sound, open/shut unlocked door/window, change eyes for 1 min
 
 ### Level 1
+
+**Spells/Day**: 3
 
 Spell Name (page)             | Time     | Range | Duration | Components                | Effect
 ------------------            | -------: | ----: | -------: | ----------                | ------
