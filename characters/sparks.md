@@ -90,7 +90,7 @@ Level 1 |
 ✓  | Spell Name (page)  | Time     | Range | Duration | Components | Effect
 ---| ------------------ | -------: | ----: | -------: | ---------- | ------
 ✓  | Burning Hands (220)| 1 action | 15ft cone | Instant | V, S    | 3d6 (+1d6 / level over 1) fire dmg, Dex save for half dmg
-✓  | Detect Magig (231) | 1 action | Self  | 10 min   | V,S        | Sense magic within 30 feet of self
+✓  | Detect Magic (231) | 1 action | Self  | 10 min   | V,S        | Sense magic within 30 feet of self
 ✓  | Sleep (276)        | 1 action | 90 ft | 1 min    | V,S,M      | 5d8 (+2d8 / level over 1) hit points of creatures sleep
    | False Life (239)   | 1 action | Self  | 1 hour   | V,S,M      | 1d4 + 4 (+5 / level over 1) temp hit points 
 
