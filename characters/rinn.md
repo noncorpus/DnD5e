@@ -7,7 +7,7 @@
 * **Background**: Former Child Thief (Urchin), now Priest in the Service of Tymora
 * **Alignment**: Chaotic Good
 * **Player Name**: Matt
-* **Experience Points**: 300 / 300
+* **Experience Points**: 420 / 900
 
 Str  | Dex  | Con  | Int  | Wis  | Cha
 --:  | --:  | --:  | --:  | --:  | --:
