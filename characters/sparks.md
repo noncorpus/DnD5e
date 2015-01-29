@@ -60,6 +60,15 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 * Breath Attack: 2d6 Fire, 5' x 30' Line, DC = 12 (8 + Constitution + Profficiency)
 
+## Attacks
+
+Weapon         | Atk Bonus | Damage     | Range  | Properties
+------         | :-------: | -----:     | :---:  | ----------
+Dagger         |    +4     | 1d4+2(p)   | -      | Finesse, Light, Thrown (20/60)
+Light Crossbow |    +4     | 1d8+2(p)   | 80/320 | Ammunition, loading, two-handed
+Fire Breath    |     -     | 2d6(fire)  | -      | DC12 Dex Save for half damage, 5' x 30' line
+Fire Bolt      |    +5     | 1d10(fire) | 120    | Cantrip
+
 \#  | Equipment
 --: | ---------
 1   | Light Crossbow
