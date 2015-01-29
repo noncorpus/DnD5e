@@ -5,7 +5,7 @@ Public notes on the 5th edition campaign
 
 ## Players ##
 
-* _Sam L_ as the Dungeon Master who by the end of the first session had the inkling that Rinn was going to be a bad influence on the others. See also: _[punishment glutton](http://www.chrisrue.com/funcave/graphics/community.jpg)_.
+* _[Sam L](https://github.com/AsmodeusXI)_ as the Dungeon Master who by the end of the first session had the inkling that Rinn was going to be a bad influence on the others. See also: _[punishment glutton](http://www.chrisrue.com/funcave/graphics/community.jpg)_.
 * _[Evan C](https://github.com/ecowden)_ as **[Sparks](characters/sparks.md)**, the dragonborn sorcerer with a penchant for pointed acts of arson, and socially questionable acts of interpersonal communication.
 * _[Joanne B](https://github.com/joanne-jjb)_ as **Kurt Sarcasm**, the half-elf ranger whose player is still feeling her way around this whole roleplaying thing (but catching on quickly!).
 * _[Matt H](https://github.com/runicfox)_ as **[Rinn](characters/rinn.md)**, a half-elf priest of Mask, who is currently pleased that his hesitation in using the helpless peasants as a distraction so he could evade the Cultists paid off in a handsome gain in experience points.
