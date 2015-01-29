@@ -1,4 +1,4 @@
-# Dellaryn "Del" Darreldar
+# Dellaryn "Del" Durelder
 
 ## Stats and Specs
 
@@ -96,7 +96,7 @@ Nope!
 
 Age | Height | Weight   | Eyes   | Skin | Hair
 --: | -----: | ------:  | ----   | ---- | ----
-500 | 5'9"   | 115 lbs  | Gray   | Fair | Long, Straight, Brown, Glorious
+500 | 5'9"   | 115 lbs  | Gray   | Fair | Long, Straight, Brown
 
 * **Personality Traits**. 
 * **Ideals**. 
@@ -105,6 +105,9 @@ Age | Height | Weight   | Eyes   | Skin | Hair
 
 ### The Story So Far*
 
+_Outline & Draft!_
+
 First century in the mountain monestary as an accolyte. Vow of silence (and is still instinctively quiet). Monks brewed because they're monks (duh).
 Second century learned alchemy in the monestary. 
-Third century ...
+Third century left the monastery to wander.
+Fourth century settled in the village/town/etc. of [wherever the party is] and set up a brewery in the monastic tradition. Joins the party when the bad guys burn it down.
