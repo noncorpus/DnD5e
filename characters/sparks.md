@@ -7,7 +7,7 @@
 * **Background**: Err...custom "disgraced, exiled pyromaniac?"
 * **Alignment**: Neutral
 * **Player Name**: Evan
-* **Experience Points**: 420
+* **Experience Points**: 420 / 900
 
 Str | Dex | Const | Int | Wis | Char
 --: | --: | ----: | --: | --: | ---:
@@ -26,10 +26,27 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 ### Skills
 
-* Arcana (Int)
-* Deception (Cha)
-* Intimidation (Cha)
-* Persuasion (Cha)
+✓ | Skill           | Ability | Modifier
+--| --------------- | ------- | -------:
+  | Acrobatics      | Dex     | +2
+  | Animal Handling | Wis     | -1
+✓ | Arcana          | Int     | +3
+  | Athletics       | Str     | +1
+✓ | Deception       | Cha     | +5
+  | History         | Int     | +1
+  | Insight         | Wis     | -1
+✓ | Intimidation    | Cha     | +5
+  | Investigation   | Int     | +1
+  | Medicine        | Wis     | -1
+  | Nature          | Int     | +1
+  | Perception      | Wis     | -1
+  | Performance     | Cha     | +3
+✓ | Persuasion      | Cha     | +5
+  | Religion        | Int     | +1
+  | Sleight of Hand | Dex     | +2
+  | Stealth         | Dex     | +2
+  | Survival        | Wis     | -1
+
 
 ### Features and Traits
 
