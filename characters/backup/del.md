@@ -101,7 +101,7 @@ Age | Height | Weight   | Eyes   | Skin | Hair
 500 | 5'9"   | 115 lbs  | Gray   | Fair | Long, Straight, Brown
 
 * **Personality Traits**. Full of witty aphorisms and has a proverb for every occassion. Most don't make sense.
-* **Ideals**. Community and civilization (was built by beer).
+* **Ideals**. Community and civilization (were built by beer).
 * **Bonds**. My name is Dellaryn Dureldar. You burned down my brewery. Prepare to die.
 * **Flaws**. Revenge is a dish best served in a 64oz MegaGiantSooperCup, and while the guy behind the counter is giving away extras because he's trying to get rid of exccess stock before he closes for the night.
 
