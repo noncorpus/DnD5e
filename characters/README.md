@@ -4,7 +4,7 @@
 
 Sparks was a troublesome child, manifesting sorcerous powers at an early age. He would frequently manifest fire magiks when his mother held him, leading to more than his share of dropping incidents.
 
-He still didn't understand his abilities when, at the age of three, he started a wildfire that spread to the Eldrin Dam, the collapse of which caused major flooding through his clan's holdings. He still doesn't trust water.
+He still didn't understand his abilities when, at the age of three, he started a wildfire that spread to the Eldrin Dam, the collapse of which caused major flooding through his clan's holdings. The event is still considered the worst disaster in clan Kureldar's history, and Sparks still doesn't trust water.
 
 After the Great Flood, Sparks was a shame to his clan. He was sent away to the clan's remote Quinin Archival Library, where the clan stores unwanted and forbidden books. He's grown up alone, reading and experimenting with his own powers. He loves books, which combine his two favorite things: knowledge and kindling.
 
