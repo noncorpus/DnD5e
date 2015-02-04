@@ -13,5 +13,5 @@ Public notes on the 5th edition campaign
 ## Meeting Notes ##
 
 * 2015 January 19 (1pm) : first get together, character creation, and [Arriving at Greenest](campaign_notes/README.md:arrival-at-greenest).
-* 2015 January 26 (5pm) : level up!, and continuation from last week.
-* 2015 February 2 (5pm) : killed off Claw Raather, saved a bunch of folks held up in a temple of Chauntea, and got sent off on a mission to secure Greenest's mill.
+* 2015 January 26 (5pm) : level up!, and continuation from last week ([A Desperate Rescue](campaign_notes#a-desperate-rescue)).
+* 2015 February 2 (5pm) : killed off Claw Raather, saved a bunch of folks held up in a temple of Chauntea, and got sent off on a mission to secure Greenest's mill ([Rescue Success, and a New Mission](campaign_notes#rescue-success-and-a-new-mission)).
