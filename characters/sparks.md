@@ -77,6 +77,9 @@ Fire Bolt      |    +5     | 1d10(fire) | 120    | Cantrip
 1   | Arcane Focus
 2   | Daggers
 1   | Playing Card Set
+2   | Red magic potions from Governor Nightwhatever
+1   | Horse
+Lots| Extra provisions from Greenest
 
 ## Spells
 
