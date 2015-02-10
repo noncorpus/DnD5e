@@ -2,12 +2,12 @@
 
 ## Stats and Specs
 
-* **Class & Level**: Level 1 Sorcerer
+* **Class & Level**: Level 3 Sorcerer
 * **Race**: Dragonborn
 * **Background**: Err...custom "disgraced, exiled pyromaniac?"
 * **Alignment**: Neutral
 * **Player Name**: Evan
-* **Experience Points**: 420 / 900
+* **Experience Points**: 1010 / 2700
 
 Str | Dex | Const | Int | Wis | Char
 --: | --: | ----: | --: | --: | ---:
@@ -16,7 +16,7 @@ Str | Dex | Const | Int | Wis | Char
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-2           | 15  | 2          | 30    |     18 | 2d6
+2           | 15  | 2          | 30    |     26 | 2d6
 
 ### Languages
 
@@ -82,13 +82,18 @@ Fire Bolt      |    +5     | 1d10(fire) | 120    | Cantrip
 
 Spellcasting Ability | Spell Save DC | Spell Attack Bonus | Sorcery Points
 -------------------- | ------------: | -----------------: | -------------:
-Charisma             | 13            | 5                  | 2
+Charisma             | 13            | 5                  | 3
 
 **Spell Slots**
 
-Level 1 |
-------: |
-3       |
+Level 1 | Level 2 
+------: | ------:
+4       | 2
+
+**Metamagic**
+
+* **Empowered Spell**. One sorcery point to reroll damage gice up to Charisma modifier. Can use even with different metamagic option.
+* **Twinned Spell**. When casting a spell, can spend sorcery points equal to the spell's level to cast a copy of the spell.
 
 ### Cantrips
 
@@ -119,6 +124,12 @@ Level 1 |
 ✓  | Detect Magic (231) | 1 action | Self  | 10 min   | V,S        | Sense magic within 30 feet of self
 ✓  | Sleep (276)        | 1 action | 90 ft | 1 min    | V,S,M      | 5d8 (+2d8 / level over 1) hit points of creatures sleep
    | False Life (239)   | 1 action | Self  | 1 hour   | V,S,M      | 1d4 + 4 (+5 / level over 1) temp hit points 
+
+### Level 2
+
+✓  | Spell Name (page)  | Time     | Range | Duration | Components | Effect
+---| ------------------ | -------: | ----: | -------: | ---------- | ------
+✓  | Scorching Ray      | 1 action | 120ft | instant  | V,S        | 3 rays for 2d6 fire damage. One extra ray for each level above 2
 
 ## Background
 
