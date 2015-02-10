@@ -16,7 +16,7 @@ Str | Dex | Const | Int | Wis | Char
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-2           | 15  | 2          | 30    |     26 | 2d6
+2           | 15  | 2          | 30    |     26 | 3d6
 
 ### Languages
 
