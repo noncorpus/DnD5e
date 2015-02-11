@@ -2,21 +2,21 @@
 
 ## Stats and Specs
 
-* **Class & Level**: Level 1 Monk
+* **Class & Level**: Level 2 Monk
 * **Race**: Wood Elf
 * **Background**: Monk from the Monastery of the Whispering Winds, now member of the Brewer's Guild
 * **Alignment**: Chaotic Good
 * **Player Name**: Evan
-* **Experience Points**: 0 / 300
+* **Experience Points**: 420 / 900
 
 Str  | Dex  | Con  | Int  | Wis  | Cha
 --:  | --:  | --:  | --:  | --:  | --:
  10  |  20  |  15  |  11  |  18  |  13
 (+0) | (+5) | (+2) | (+0) | (+4) | (+1)
 
-Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
-----------: | --: | ---------: | ----: | -----: | -------:
-         2  |  19 |         +5 |    35 |     10 | 1d8
+Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki
+----------: | --: | ---------: | ----: | -----: | -------: | ---:
+         2  |  19 |         +5 |    45 |     19 | 1d8      | 2
 
 ### Languages
 
@@ -57,6 +57,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 * Mask of the Wild
 * Unarmored Defense
 * Martial Arts
+* Unarmored Movement
 
 ### Proficiencies
 
@@ -75,6 +76,14 @@ Quarterstaff   |    +7     | d6 + 5(b) | -       | Versatile (1d8)
 Unarmed        |    +7     | d4 + 5(b) | -       | 
 Longbow        |    +7     | d8 + 5(p) | 150/600 | Ammunition, Heavy, Two-Handed
 Dart           |    +7     | d4 + 5(p) | 20/60   | Finesse, Thrown
+
+## Monk Abilities
+
+Ability            | Ki  | Description
+------------------ | ---:| -----------
+Flurry of Blows    | 1   | Two unarmed strikes as a bonus action
+Patient Defense    | 1   | Dodge as a bonus action
+Step of the Wind   | 1   | Disengage or Dash as a bonus action, and jump distance is doubled for the turn
 
 ## Equipment
 \#  | Item
