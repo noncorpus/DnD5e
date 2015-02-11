@@ -30,6 +30,6 @@ Jana did in fact instruct the young boy.  The true lessons of civility and manne
 
 Rinn became a devotee and initiate of Mask, the Father of Necessary Pretexts.  But theft in a smaller city can only reap from so many souls.  Rinn seeks bigger and better adventures, and opportunities to spread the mischief mission of his god.
 
-## *`joanne`* ##
+## Kurtzar Kasm ##
 
-`joanne's` story
+Smelly ranger (pending a re-write of Rinn's opinions).
