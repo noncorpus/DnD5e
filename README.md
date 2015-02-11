@@ -15,3 +15,4 @@ Public notes on the 5th edition campaign
 * 2015 January 19 (1pm) : first get together, character creation, and [Arriving at Greenest](campaign_notes/README.md:arrival-at-greenest).
 * 2015 January 26 (5pm) : level up!, and continuation from last week ([A Desperate Rescue](campaign_notes#a-desperate-rescue)).
 * 2015 February 2 (5pm) : killed off Claw Raather, saved a bunch of folks held up in a temple of Chauntea, and got sent off on a mission to secure Greenest's mill ([Rescue Success, and a New Mission](campaign_notes#rescue-success-and-a-new-mission)).
+* 2015 February 9 (5pm) : secured the town's mill by putting on a puppet show, took a mercenary captive who told us about the cultists' encampment to the northeast.  Half-dragon threatened to kill a family if a "champion" didn't come down from the keep and challenge him.  Rinn feels that a successful effort has been made in making Dan the Guard the village idiot of Greenest.  Kurtzar has a cat now?
