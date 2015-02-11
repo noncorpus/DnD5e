@@ -2,12 +2,12 @@
 
 ## Stats and Specs
 
-* **Class & Level**: Level 2 Cleric
+* **Class & Level**: Level 3 Cleric
 * **Race**: Half-Elf
 * **Background**: Former Child Thief (Urchin), now Priest in the Service of Tymora
 * **Alignment**: Chaotic Good
 * **Player Name**: Matt
-* **Experience Points**: 420 / 900
+* **Experience Points**: 1,010 / 2,700
 
 Str  | Dex  | Con  | Int  | Wis  | Cha
 --:  | --:  | --:  | --:  | --:  | --:
@@ -16,7 +16,7 @@ Str  | Dex  | Con  | Int  | Wis  | Cha
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-         2  |  18 |          3 |    30 |     16 | 2d8+2
+         2  |  18 |          3 |    30 |     18 | 3d8+3
 
 ### Languages
 
@@ -60,7 +60,7 @@ Small Dagger   |    +5     | 1d4+3(p) | 20/60  | Finesse, Light
 \#  | Item
 --: | ---------
 1   | Light Crossbow
-12  | Crossbow Bolts
+40  | Crossbow Bolts
 1   | Small Dagger
 1   | Divine Focus
 1   | Scale Mail
@@ -75,10 +75,12 @@ Spellcasting Ability | Spell Save DC | Spell Attack Bonus
 Wisdom               | 13            | 5
 
 ### Domain Spells
-Spell Name (page)   | Time     | Range | Duration | Components | Effect
-------------------- | -------: | ----: | -------: | ---------- | ------
-Charm Person (221)  | 1 action | 30'   | 1 hour   | V,S        | Target Wis sv (adv if being atk)
-Disguise Self (233) | 1 action | Self  | 1 hour   | V,S        | Change clothing, +/- 1 foot hgt., thinner/fatter
+Spell Name (page)        | Time     | Range | Duration | Components | Effect
+------------------------ | -------: | ----: | -------: | ---------- | ------
+Charm Person (221)       | 1 action | 30'   | 1 hour   | V,S        | Target Wis sv (adv if being atk)
+Disguise Self (233)      | 1 action | Self  | 1 hour   | V,S        | Change clothing, +/- 1 foot hgt., thinner/fatter
+Mirror Image (260)       | 1 action | Self  | 1 minute | V,S        | Create 3 illusory duplicates; each atk on caster roll d20: 6+ for 3 dupes, 8+ for 2 dupes, 11+ for 1 dupe hits a duplicate AC 13.
+Pass Without Trace (264) | 1 action | Self  | 1 hour   | V,S,M      | Any number of chosen targets within 30' of self have +10 bonus on Stealth checks; cannot be tracked except by magic; leaves no trace of passage.
 
 ### Cantrips
 Spell Name (page)  | Time     | Range | Duration | Components         | Effect
@@ -89,7 +91,7 @@ Thaumaturgy (282)  | 1 action | 30'   | <= 1 min | V                  | 1 of: 3x
 
 ### Level 1
 
-**Spells/Day**: 3
+**Spells/Day**: 4
 
 Spell Name (page)             | Time     | Range | Duration | Components                | Effect
 ------------------            | -------: | ----: | -------: | ----------                | ------
@@ -111,6 +113,30 @@ Protection from Good (270)    | 1 action | Touch | <=10 min | V,S,M (holy water)
 Purify Food and Drink (270)   | 1 action | 10'   | Instant  | V,S                       | Removes poison/disease on food/drink in 5' radius
 Sanctuary (272)               | 1 bonus  | 30'   | 1 min    | V,S,M (sm silver mirror)  | Attacks/Spells on target must Wis sv
 Shield of Faith (275)         | 1 bonus  | 60'   | <=10 min | V,S,M (paper w holy text) | Grant +2 AC to 1 target
+
+### Level 2
+
+**Spells/Day**: 2
+
+Spell Name (page)            | Time       | Range | Duration   | Components                    | Effect
+------------------           | -------:   | ----: | -------:   | ----------                    | ------
+Aid (211)                    | 1 action   | 30'   | 8 hours    | V,S,M                         | 3 creatures +5 max and current HP.
+Augury (215)                 | 1 minute   | Self  | Instant    | V,S,M                         | Omen for action taken in the next 30 minutes.
+Blindness/Deafness (219)     | 1 action   | 30'   | 1 minute   | V                             | Blind or deafen 1 creature (Con sv ea rnd to end spell).
+Calm Emotions (221)          | 1 action   | 60'   | 1 minute   | V,S                           | Humanoids in 20' radius Cha sv to suppress charm/fear, or change from hostile to indifferent.
+Continual Flame (227)        | 1 action   | Touch | Perm       | V,S,M (50gp ruby dust)        | Create heatless flame that cannot be extinguised (unless dispelled).
+Enhance Ability (237)        | 1 action   | Touch | 1 hour     | V,S,M                         | Grant advantage on 1 attribute for checks plus if Con: +2d6 HP; if Str: x2 carrying; if Dex: no dmg from < 20' falls.
+Find Traps (241)             | 1 action   | 120'  | Instant    | V,S                           | Alerts caster to presence of physical trap within range and LOS.
+Gentle Repose (245)          | 1 action   | Touch | 10 days    | V,S,M                         | Protect corpse from decay and rising as undead.
+Hold Person (251)            | 1 action   | 60'   | 1 minute   | V,S,M                         | 1 humanoid target Wis sv or be paralyzed; If paralyzed, Wis sv at end of ea. rnd to break spell.
+Lesser Restoration (255)     | 1 action   | Touch | Instant    | V,S                           | End either one disease or one condition (blinded, deafened, paralyzed, poisoned).
+Locate Object (256)          | 1 action   | Self  | 10 minutes | V,S,M                         | Locate familiar object within 1,000' (and direction if moving).
+Prayer of Healing (267)      | 10 minutes | 30'   | Instant    | V                             | <=6 Creatures within LOS regain 2d8+3 HP.
+Protection from Poison (270) | 1 action   | Touch | 1 hour     | V,S                           | Neutralize 1 poison in 1 creature; give adv on sv vs poison and resistance to dmg from poison for duration.
+Silence (276)                | 1 action   | 120'  | 10 minutes | V,S                           | No sound in or through a 20' sphere centered within range. Spells with verbal req not castable. Subjects inside sphere immune to sonic damage.
+Spiritual Weapon (278)       | 1 bonus    | 60'   | 1 minute   | V,S                           | Melee spell atk (1d8+3) on target within 5' of weapon. Move weapon 20' and atk as bonus action ea. rnd.
+Warding Bond (286)           | 1 action   | Touch | 1 hour     | V,S,M (2 50gp platinum rings) | One target gets +1 to AC and all sv's, and resistance to all dmg types; caster take equal dmg dealt to target.
+Zone of Truth (289)          | 1 action   | 60'   | 10 minutes | V,S                           | Targets in 15' sphere centered within range must Cha sv to deliberately lie.
 
 ## Background
 
