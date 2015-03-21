@@ -19,3 +19,9 @@ We also picked up some peasant stragglers.  Linan Swift was almost competent eno
 Still, "All's well that ends in boon for Rinn".  Yeah, you can totally quote me on that.
 
 Now, time to find out what in the Nine Hells is going on here...
+
+### <a name="rescue-snatch-job"></a>A Rescue Mission / Snatch Job
+
+After a brief but certainly rude greeting from a self-important captain of the keep, the three of us were thanked for our efforts in rescuing Lilan and the others.  We then were escorted by the keep's Dwarf Butler (Escobert, I think was the name) to see the Governor of Greenest.
+
+Governor Nighthill thanked us (words only, no actual reward just yet) for our assistance and asked if we'd be willing to continue to assist the town.  Despite being offered pretty much zero material support, we agreed.  Nighthill wanted us to  

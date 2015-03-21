@@ -7,7 +7,7 @@
 * **Background**: Former Child Thief (Urchin), now Priest in the Service of Tymora
 * **Alignment**: Chaotic Good
 * **Player Name**: Matt
-* **Experience Points**: 1,010 / 2,700
+* **Experience Points**: 2,385 / 2,700
 
 Str  | Dex  | Con  | Int  | Wis  | Cha
 --:  | --:  | --:  | --:  | --:  | --:
@@ -57,6 +57,9 @@ Light Crossbow |    +5     | 1d8+3(p) | 80/320 | Ammunition, loading, two-handed
 Small Dagger   |    +5     | 1d4+3(p) | 20/60  | Finesse, Light
 
 ## Equipment
+
+### Weapons
+
 \#  | Item
 --: | ---------
 1   | Light Crossbow
@@ -67,6 +70,32 @@ Small Dagger   |    +5     | 1d4+3(p) | 20/60  | Finesse, Light
 1   | Warhammer
 1   | Shield
 
+### Items
+
+\#  | Item
+--: | ---------
+1   | Backpack
+24  | Iron Ball Bearings
+1   | Bedroll
+1   | Blanket
+3   | Candles
+3   | Chalk
+1   | Crowbar
+1   | Fishing Tackle
+2   | Flasks, Empty
+1   | Flask, Holy Water
+3   | Flasks, Oil
+2   | Pouches
+50' | Hempen Roap
+50' | Silk Roap
+2   | Sacks
+2   | Bars of Soap
+2   | Tinderbox
+3   | Torches
+3   | Vials
+2   | Waterskins
+1   | Whetstone
+1   | Steel Mirror
 
 ## Spells
 
