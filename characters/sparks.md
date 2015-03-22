@@ -7,7 +7,7 @@
 * **Background**: Err...custom "disgraced, exiled pyromaniac?"
 * **Alignment**: Neutral
 * **Player Name**: Evan
-* **Experience Points**: 1010 / 2700
+* **Experience Points**: 2385 / 2700
 
 Str | Dex | Const | Int | Wis | Char
 --: | --: | ----: | --: | --: | ---:
@@ -80,6 +80,12 @@ Fire Bolt      |    +5     | 1d10(fire) | 120    | Cantrip
 2   | Red magic potions from Governor Nightwhatever
 1   | Horse
 Lots| Extra provisions from Greenest
+1 | Scimitar
+1 bag | Broken glass
+1 crapload | candles (for wax)
+4 | Flasks of oil
+1 | Leash and collar
+100ft | silk rope
 
 ## Spells
 
@@ -95,7 +101,7 @@ Level 1 | Level 2
 
 **Metamagic**
 
-* **Empowered Spell**. One sorcery point to reroll damage gice up to Charisma modifier. Can use even with different metamagic option.
+* **Empowered Spell**. One sorcery point to reroll damage dice up to Charisma modifier. Can use even with different metamagic option.
 * **Twinned Spell**. When casting a spell, can spend sorcery points equal to the spell's level to cast a copy of the spell.
 
 ### Cantrips
