@@ -1,5 +1,9 @@
 # Ranger Animal Companion Table
 
+### Legend
+
+**PP**: Passive Perception; **DC**: Difficulty on Save; **Str**: Strength; **Con**: Constitution
+
 Animal                | Size   | AC  | HP  | Spd | Other Move      | Skills | Senses | Special Abilities | Attack
 --------------------- | ------ | --: | --: | --: | --------------: | ------ | -----: | ----------------- | ------
 Baboon 	 	      	  | Small  |  12 |  3  |  30 | Climb 30        | None   | PP11 | Pack Tactics      | Bite +1
