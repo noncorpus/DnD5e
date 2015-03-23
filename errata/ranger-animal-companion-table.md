@@ -1,3 +1,5 @@
+# Ranger Animal Companion Table
+
 Animal                | Size   | AC  | HP  | Spd | Other Move      | Skills | Senses | Special Abilities | Attack
 --------------------- | ------ | --: | --: | --: | --------------: | ------ | -----: | ----------------- | ------
 Baboon 	 	      	  | Small  |  12 |  3  |  30 | Climb 30        | None   | PP11 | Pack Tactics      | Bite +1
