@@ -116,6 +116,7 @@ Level 1 | Level 2
    | Acid Splash (211)  | 1 action | 60ft  | Instant  | V,S        | 1 or 2 creatures w/in 5 ft, Dex save or 1d6 acid
    | Blade Ward (218)   | 1 action | Self  | 1 round  | V,S        | Resistance to bludgeoning, piercing & slashing dmg
    | Chill Touch (221)  | 1 action | 120ft | 1 round  | V,S        | Ranged attack, 1d8 nec. dmg, 1 turn can't heal, undead has disadv.
+   | Create Bonfire (EE16| 1 action| 60ft  | 1 min    | V,S        | Create fire filling 5ft cube. Dex save or 1d8 dmg.
    | Dancing Lghts (230)| 1 action | 60ft  | 10 min   | V,S,M      | 4 lights, dim light in 10ft, can move 60ft/turn
 ✓  | Fire Bolt (242)    | 1 action | 120ft | Instant  | V,S,M      | Ranged attack, 1d10 Fire Dmg
    | Friends (244)      | 1 action | -     | 1 min    | S,M        | Adv. charism chks, creature knows about spell when it ends
@@ -146,6 +147,7 @@ Level 1 | Level 2
 ✓  | Spell Name (page)  | Time     | Range | Duration | Components | Effect
 ---| ------------------ | -------: | ----: | -------: | ---------- | ------
 ✓  | Scorching Ray      | 1 action | 120ft | instant  | V,S        | 3 rays for 2d6 fire damage. One extra ray for each level above 2
+   | Aganazzar’s scorcher| 1 action| 30ft  | instant  | V,S,M      | 30x5 ft line. Dex save or 3d8 fire damage, half on save.
 
 ## Background
 
