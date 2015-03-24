@@ -64,7 +64,6 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
   * Spells ignore fire resistance
   * When rolling fire damage for a spell, treat any 1 as a 2
 
-
 ## Attacks
 
 Weapon         | Atk Bonus | Damage     | Range  | Properties
