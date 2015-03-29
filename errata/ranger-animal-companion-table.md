@@ -1,5 +1,7 @@
 # Ranger Animal Companion Table
 
+For full details on skills and such, take a look at the free [Basic DM Rules PDF](http://media.wizards.com/2014/downloads/dnd/DMBasicRulesv.0.3.pdf).
+
 ### Legend
 
 **PP**: Passive Perception; **DC**: Difficulty on Save; **Str**: Strength; **Con**: Constitution
