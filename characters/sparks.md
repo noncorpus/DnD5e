@@ -130,6 +130,7 @@ Level 1 | Level 2
    | Ray of Frost (271) | 1 action | 60ft  | Instant  | V,S        | Ranged attack, 1d8 cold dmg, speed reduced 10ft
 ✓  | Shock'g Grasp (275)| 1 action | Touch | Instant  | V,S        | Melee atk w/ adv if target wears metal, 1d8 lightning
 ✓  | True Strike (284)  | 1 action | 30ft  | 1 round  | S          | Advantage first attack roll against target
+   | Create Bonfire (EE16)|1 action| 60ft  | 1 minute | V,S        | 5ft bonfire, Dex save or 1d8 fire damage
 
 ### Level 1
 
@@ -138,8 +139,8 @@ Level 1 | Level 2
 ✓  | Burning Hands (220)| 1 action | 15ft cone | Instant | V, S    | 3d6 (+1d6 / level over 1) fire dmg, Dex save for half dmg
 ✓  | Detect Magic (231) | 1 action | Self  | 10 min   | V,S        | Sense magic within 30 feet of self
 ✓  | Sleep (276)        | 1 action | 90 ft | 1 min    | V,S,M      | 5d8 (+2d8 / level over 1) hit points of creatures sleep
-✓  | Shield (275)       | 1 reaction| Self | 1 round  | V,S        | +5 bonus AC, immune to magic missile
-   | Expeditious Retreat| 1 bonus action| Self| 10 min| V,S        | Dash as a bonus action
+   | Shield (275)       | 1 reaction| Self | 1 round  | V,S        | +5 bonus AC, immune to magic missile
+✓  | Expeditious Retreat| 1 bonus action| Self| 10 min| V,S        | Dash as a bonus action
    | False Life (239)   | 1 action | Self  | 1 hour   | V,S,M      | 1d4 + 4 (+5 / level over 1) temp hit points 
 
 ### Level 2
