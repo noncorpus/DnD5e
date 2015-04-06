@@ -2,12 +2,12 @@
 
 ## Stats and Specs
 
-* **Class & Level**: Level 3 Sorcerer
+* **Class & Level**: Level 4 Sorcerer
 * **Race**: Dragonborn
 * **Background**: Err...custom "disgraced, exiled pyromaniac?"
 * **Alignment**: Neutral
 * **Player Name**: Evan
-* **Experience Points**: 2385 / 2700
+* **Experience Points**: 2885 / ???
 
 Str | Dex | Const | Int | Wis | Char
 --: | --: | ----: | --: | --: | ---:
@@ -16,7 +16,7 @@ Str | Dex | Const | Int | Wis | Char
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-2           | 15  | 2          | 30    |     26 | 3d6
+2           | 15  | 2          | 30    |     35 | 3d6
 
 ### Languages
 
@@ -60,6 +60,10 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 * Breath Attack: 2d6 Fire, 5' x 30' Line, DC = 12 (8 + Constitution + Profficiency)
 
+* Elemental Adept - Fire
+  * Spells ignore fire resistance
+  * When rolling fire damage for a spell, treat any 1 as a 2
+
 ## Attacks
 
 Weapon         | Atk Bonus | Damage     | Range  | Properties
@@ -80,24 +84,25 @@ Fire Bolt      |    +5     | 1d10(fire) | 120    | Cantrip
 2   | Red magic potions from Governor Nightwhatever
 1   | Horse
 Lots| Extra provisions from Greenest
-1 | Scimitar
+1   | Scimitar + Dragon Cult Scabbard
 1 bag | Broken glass
 1 crapload | candles (for wax)
 4 | Flasks of oil
 1 | Leash and collar
 100ft | silk rope
+Some? | Fine dragon cult books
 
 ## Spells
 
 Spellcasting Ability | Spell Save DC | Spell Attack Bonus | Sorcery Points
 -------------------- | ------------: | -----------------: | -------------:
-Charisma             | 13            | 5                  | 3
+Charisma             | 13            | 5                  | 4
 
 **Spell Slots**
 
 Level 1 | Level 2 
 ------: | ------:
-4       | 2
+4       | 3
 
 **Metamagic**
 
@@ -111,6 +116,7 @@ Level 1 | Level 2
    | Acid Splash (211)  | 1 action | 60ft  | Instant  | V,S        | 1 or 2 creatures w/in 5 ft, Dex save or 1d6 acid
    | Blade Ward (218)   | 1 action | Self  | 1 round  | V,S        | Resistance to bludgeoning, piercing & slashing dmg
    | Chill Touch (221)  | 1 action | 120ft | 1 round  | V,S        | Ranged attack, 1d8 nec. dmg, 1 turn can't heal, undead has disadv.
+   | Create Bonfire (EE16| 1 action| 60ft  | 1 min    | V,S        | Create fire filling 5ft cube. Dex save or 1d8 dmg.
    | Dancing Lghts (230)| 1 action | 60ft  | 10 min   | V,S,M      | 4 lights, dim light in 10ft, can move 60ft/turn
 ✓  | Fire Bolt (242)    | 1 action | 120ft | Instant  | V,S,M      | Ranged attack, 1d10 Fire Dmg
    | Friends (244)      | 1 action | -     | 1 min    | S,M        | Adv. charism chks, creature knows about spell when it ends
@@ -123,7 +129,8 @@ Level 1 | Level 2
    | Prestidigi'n (267) | 1 action | 10ft  | 1 hour   | V,S        | Minor magical trick
    | Ray of Frost (271) | 1 action | 60ft  | Instant  | V,S        | Ranged attack, 1d8 cold dmg, speed reduced 10ft
 ✓  | Shock'g Grasp (275)| 1 action | Touch | Instant  | V,S        | Melee atk w/ adv if target wears metal, 1d8 lightning
-   | True Strike (284)  | 1 action | 30ft  | 1 round  | S          | Advantage first attack roll against target
+✓  | True Strike (284)  | 1 action | 30ft  | 1 round  | S          | Advantage first attack roll against target
+   | Create Bonfire (EE16)|1 action| 60ft  | 1 minute | V,S        | 5ft bonfire, Dex save or 1d8 fire damage
 
 ### Level 1
 
@@ -132,6 +139,8 @@ Level 1 | Level 2
 ✓  | Burning Hands (220)| 1 action | 15ft cone | Instant | V, S    | 3d6 (+1d6 / level over 1) fire dmg, Dex save for half dmg
 ✓  | Detect Magic (231) | 1 action | Self  | 10 min   | V,S        | Sense magic within 30 feet of self
 ✓  | Sleep (276)        | 1 action | 90 ft | 1 min    | V,S,M      | 5d8 (+2d8 / level over 1) hit points of creatures sleep
+   | Shield (275)       | 1 reaction| Self | 1 round  | V,S        | +5 bonus AC, immune to magic missile
+✓  | Expeditious Retreat| 1 bonus action| Self| 10 min| V,S        | Dash as a bonus action
    | False Life (239)   | 1 action | Self  | 1 hour   | V,S,M      | 1d4 + 4 (+5 / level over 1) temp hit points 
 
 ### Level 2
@@ -139,6 +148,7 @@ Level 1 | Level 2
 ✓  | Spell Name (page)  | Time     | Range | Duration | Components | Effect
 ---| ------------------ | -------: | ----: | -------: | ---------- | ------
 ✓  | Scorching Ray      | 1 action | 120ft | instant  | V,S        | 3 rays for 2d6 fire damage. One extra ray for each level above 2
+   | Aganazzar’s scorcher| 1 action| 30ft  | instant  | V,S,M      | 30x5 ft line. Dex save or 3d8 fire damage, half on save.
 
 ## Background
 
