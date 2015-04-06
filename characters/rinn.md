@@ -143,13 +143,13 @@ Detect Poison & Disease (231) | 1 action |  Self | <=10 min | V,S,M (yew leaf)  
 Dissonant Whispers (234)      | 1 action |   60' |  Instant | V                          | 3d6 dmg, target must run away; Wis sv 1/2 dmg & resist fleeing
 Guiding Bolt (248)            | 1 action |  120' |  1 round | V,S                        | Range spell on target, 4d6 dmg; next atk on target has adv
 Healing Word (250)            |  1 bonus |   60' |  Instant | V                          | 1 target +1d4+3 HP
-Hex (251)                     |  1 bonus |   90' |   1 hour | V,S,M (Petrified Newt Eye) | +1d6 dmg on all atk by caster on target, disadv on 1 ability for duration
 Inflict Wounds (253)          | 1 action | Touch |  Instant | V,S                        | Melee spell on target, 3d10 (+1d10/spell level>1) dmg
 Protection from Evil (270)    | 1 action | Touch | <=10 min | V,S,M (holy water)         | Type has disadv on atk on target, target immune to charm/fear/possess from type
 Protection from Good (270)    | 1 action | Touch | <=10 min | V,S,M (holy water)         | Type has disadv on atk on target, target immune to charm/fear/possess from type
 Purify Food and Drink (270)   | 1 action |   10' |  Instant | V,S                        | Removes poison/disease on food/drink in 5' radius
 Sanctuary (272)               |  1 bonus |   30' |    1 min | V,S,M (sm silver mirror)   | Attacks/Spells on target must Wis sv
 Shield of Faith (275)         |  1 bonus |   60' | <=10 min | V,S,M (paper w holy text)  | Grant +2 AC to 1 target
+Witch Bolt (289)              | 1 action |   30' | 1 minute | V,S,M (twig)               | Ranged Spell Atk 1d12 damage. If hits, then spend action to deal 1d12 lightning.
 
 ### Level 2
 
