@@ -7,7 +7,7 @@
 * **Background**: Err...custom "disgraced, exiled pyromaniac?"
 * **Alignment**: Neutral
 * **Player Name**: Evan
-* **Experience Points**: 2885 / ???
+* **Experience Points**: 3985 / 6700
 
 Str | Dex | Const | Int | Wis | Char
 --: | --: | ----: | --: | --: | ---:
@@ -79,18 +79,25 @@ Fire Bolt      |    +5     | 1d10(fire) | 120    | Cantrip
 20  | Crossbow Bolts
 1   | Dungoneers Pack
 1   | Arcane Focus
-2   | Daggers
+4   | Daggers
 1   | Playing Card Set
-2   | Red magic potions from Governor Nightwhatever
-1   | Horse
 Lots| Extra provisions from Greenest
 1   | Scimitar + Dragon Cult Scabbard
+1   | Scimitar + Boring, non-cult Scabbard
 1 bag | Broken glass
 1 crapload | candles (for wax)
 4 | Flasks of oil
 1 | Leash and collar
-100ft | silk rope
+150ft | silk rope
 Some? | Fine dragon cult books
+1  | Poison
+1  | Antitoxin
+1  | Holy Water
+1  | Alchemist's Fire
+1  | Ball Bearings (Bag of 1,000)
+1  | Caltrops (Bag of 20)
+2  | Potions of Healing
+
 
 ## Spells
 
