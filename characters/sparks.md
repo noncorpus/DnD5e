@@ -7,7 +7,7 @@
 * **Background**: Err...custom "disgraced, exiled pyromaniac?"
 * **Alignment**: Neutral
 * **Player Name**: Evan
-* **Experience Points**: 3985 / 6700
+* **Experience Points**: 4285 / 6700
 
 Str | Dex | Const | Int | Wis | Char
 --: | --: | ----: | --: | --: | ---:
