@@ -38,7 +38,7 @@ Saves | Str | Dex | Con | Int | Wis | Cha
    | Athletics       | Str     |  0
    | Deception       | Cha     | +1
    | History         | Int     | +0
-✓  | Insight         | Wis     | +5
+✓  | Insight         | Wis     | +7
    | Intimidation    | Cha     | +1
    | Investigation   | Int     |  0
    | Medicine        | Wis     | +5
@@ -119,7 +119,7 @@ Age | Height | Weight   | Eyes   | Skin | Hair
 
 * **Personality Traits**. Full of witty aphorisms and has a proverb for every occassion. Most don't make sense.
 * **Ideals**. Community and civilization (were built by beer).
-* **Bonds**. My name is Dellaryn Kabong. You burned down my brewery. Prepare to die.
+* **Bonds**. My name is Dellaryn Kabong. You gave my brewery a bad Yelp review. Prepare to die.
 * **Flaws**. Revenge is a dish best served in a 64oz MegaGiantSooperCup, and while the guy behind the counter is giving away extras because he's trying to get rid of exccess stock before he closes for the night.
 
 ### The Story So Far
