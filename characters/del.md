@@ -41,7 +41,7 @@ Saves | Str | Dex | Con | Int | Wis | Cha
 ✓  | Insight         | Wis     | +5
    | Intimidation    | Cha     | +1
    | Investigation   | Int     |  0
-   | Medicine        | Wis     | +4
+   | Medicine        | Wis     | +5
    | Nature          | Int     |  0
 ✓  | Perception      | Wis     | +7
    | Performance     | Cha     | +1
