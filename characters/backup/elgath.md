@@ -105,7 +105,7 @@ Nope!
 
 Age | Height | Weight   | Eyes   | Skin | Hair
 --: | -----: | ------:  | ----   | ---- | ----
-39  | 7'6"   | 310 lbs  | Gray   | Worn | Long, Straight, Brown
+39  | 7'6"   | 310 lbs  | Ice    | Worn | Nope
 
 * **Personality Traits**. 
 * **Ideals**. 
@@ -114,4 +114,14 @@ Age | Height | Weight   | Eyes   | Skin | Hair
 
 ### The Story So Far
 
-???
+Growing up in the deep mountain passes, Elgath was always drawn to fighting. He left home to follow his passion, first as a mercenary and then as an enlisted solder.
+
+Elgath earned his reputation in the Four Winters War. The war had settled into a brutal war of attrition faught in the Elderdeep Isles, southwest of the Sword Coast. The war had deteriorated into endless skirmishes with no clear way for either side to gain an upper hand. Fought in an archipelago, a loser could always retreat to another of the rich islands.
+
+Elgath was only a junior officer when he proposed his trap within a trap, but the senior leadership had succumbed to disease or disinterest. They would bait the enemy into an ill-timed attack, then set the seas on fire when they inevitably turned to the water for escape. He is still haunted by those memories of an entire army of retreating soldiers burning. They called him General for his planning and leadership on the battlefield, but he left his post at the first chance he got.
+
+Elgath lived peacfully for over a decade before circumstance again set him to lift a sword. His life was turned upside down  when the dragon cult sacked Greenest, destroying his home and killing his friends. When the [who were the good guys, again?] passed through after the massacre, Elgath found himself joining up, sword in hand.
+
+He's not nearly as strong or as skilled as he was in his youth, but he has one thing he never had before: a good reason to fight.
+
+(Oh, and a whole lot of gold from the wise investment in a land deal near Candlekeep. Eh? Eh?)
