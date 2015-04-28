@@ -1,4 +1,4 @@
-# Dellaryn "Del" Kabong
+# Dellaryn "Del" Durelder
 
 ## Stats and Specs
 
