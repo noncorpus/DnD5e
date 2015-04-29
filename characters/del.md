@@ -103,11 +103,15 @@ Step of the Wind   | 1   | Disengage or Dash as a bonus action, and jump distanc
 1   | Dungeoneer's Pack
 1   | Brewing Tools
 1   | Thieves' Tools
-2500| gp
-1   | Successful, award-winning brewery in the city of wherever-ville
+100ft| Silk Rope
+2   | Flasks of oil
+1   | Poison
+1   | Antitoxin
+1   | Ball Bearings (Bag of 1,000)
+1   | Caltrops (Bag of 20)
+1   | Successful, award-winning brewery
 1   | Secret, famous beer recipe
 1   | Guild Letter of Introduction
-
 
 ## Spells
 
