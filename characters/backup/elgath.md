@@ -67,9 +67,7 @@ Saves | Str | Dex | Con | Int | Wis | Cha
 * Martial Weapons
 * All armor, sheilds
 * Playing Cards
-* One artisan's tool (???)
-
-
+* Herbalism Kit
 
 ## Attacks
 
@@ -96,6 +94,8 @@ Precision Attack | Roll a superiority die before or after an attack roll and add
 20  | Arrows
 1   | Plate Armor
 1   | Dungeoneer's Pack
+1   | Herbalism Kit
+1   | Deck of Cards
 
 ## Spells
 
