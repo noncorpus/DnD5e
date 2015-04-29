@@ -14,9 +14,9 @@ Str  | Dex  | Con  | Int  | Wis  | Cha
  20  |  16  |  19  |  11  |  14  |  15
 (+5) | (+3) | (+4) | (+0) | (+2) | (+2)
 
-Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Superiority Dice
-----------: | --: | ---------: | ----: | -----: | -------: | ---:
-         2  |  18 |         +3 |    30 |     42 | 4d10     | 4d8
+Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
+----------: | --: | ---------: | ----: | -----: | -------:
+         2  |  18 |         +3 |    30 |     42 | 4d10    
 
 Saves | Str | Dex | Con | Int | Wis | Cha
 ----- | --: | --: | --: | --: | --: | --:
