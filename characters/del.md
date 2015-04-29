@@ -75,7 +75,7 @@ Saves | Str | Dex | Con | Int | Wis | Cha
 * Short Bows
 * Long Bows
 * Brewing Tools
-* Alchemical Tools
+* Thieves' Tools
 
 ## Attacks
 Weapon         | Atk Bonus | Damage    | Range   | Properties
@@ -102,8 +102,8 @@ Step of the Wind   | 1   | Disengage or Dash as a bonus action, and jump distanc
 10  | Darts
 1   | Dungeoneer's Pack
 1   | Brewing Tools
-1   | Alchemical Tools
-25  | gp
+1   | Thieves' Tools
+2500| gp
 1   | Successful, award-winning brewery in the city of wherever-ville
 1   | Secret, famous beer recipe
 1   | Guild Letter of Introduction
