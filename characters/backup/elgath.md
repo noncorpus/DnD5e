@@ -59,6 +59,7 @@ Saves | Str | Dex | Con | Int | Wis | Cha
 * **Second Wind**. As a bonus action, heal self 1d10 + fighter level. Recharges on short or long rest.
 * **Action Surge**. Take an extra action. Recharges on short or long rest.
 * **Martial Archetype: Battle Master**.
+* **Military Rank**.
 * **Heavy Armor Master** (feat). Reduce bludgeoning, piercing and slashing damage by 3.
 
 ### Proficiencies
