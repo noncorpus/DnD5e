@@ -45,7 +45,7 @@ Saves | Str | Dex | Con | Int | Wis | Cha
    | Nature          | Int     |  0
 ✓  | Perception      | Wis     | +7
    | Performance     | Cha     | +1
-✓  | Persuasion      | Cha     | +1
+✓  | Persuasion      | Cha     | +3
    | Religion        | Int     |  0
    | Sleight of Hand | Dex     | +5
 ✓  | Stealth         | Dex     | +7
@@ -53,17 +53,19 @@ Saves | Str | Dex | Con | Int | Wis | Cha
 
 ### Features and Traits
 
-* 60' Darkvision
-* Advantage on Saves vs. Charm
-* Immune to Sleep Magic
-* Trance
-* Fleet of Foot
-* Mask of the Wild
-* Unarmored Defense
-* Martial Arts
-* Unarmored Movement
-* Deflect Missiles
-* Slow Fall
+* **Darkvision**. 60'.
+* **Advantage on Saves vs. Charm**
+* **Immune to Sleep Magic**
+* **Trance**. Only need four hours for long rest.
+* **Fleet of Foot**. Base walking speed is 35ft.
+* **Mask of the Wild**. Can hide when lightly obscured by folliage, rain, snow, mist or other natural phenomena.
+* **Unarmored Defense**. AC = 10 + Dex + Wis
+* **Martial Arts**. 
+* **Unarmored Movement**.
+* **Deflect Missiles**. React to ranged weapon attack hit. Reduce damage by 1d10 + Dex + Monk level. If reduced to zero, can spend 1 ki to attack with caught missile, and attack is made with proficiency and is treated as a Monk weapon.
+* **Slow Fall**. Reduce falling damage by five times monk level.
+* **Monastic Tradition: Way of Shadow**
+  * **Shadow Arts**. Learn _minor illusion_ cantrip. Can spend 2 ki to cast _darkness_, _darkvision_, _pass without trace_ or _silence_.
 
 ### Proficiencies
 
