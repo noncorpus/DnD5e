@@ -79,13 +79,13 @@ Longbow        |    +5     | d8 + 3(p)  | 150/600 | Ammunition, Heavy, Two-Hande
 
 ## Battle Master Maneuvers
 
-**Superiority Dice**: 4d8
+**Superiority Dice**: 4d8 (p. 74)
 
 Maneuver         | Description
 ---------------- | -----------
 Precision Attack | Roll a superiority die before or after an attack roll and add it to the attack roll
 Parry            | When damaged, use reaction to reduce damage by superiority die + dex modifier
-Menacing Attack  | When hit with a weapon attack, roll superiority die. Add die to dmg roll. Wis save or enemy is frightened.
+Maneuvering Attack| After hitting with a weapon attack, roll superiority die. Add die to dmg roll. Friendly creature can react by moving half its speed without provoking opportunity attacks.
 
 ## Equipment
 \#  | Item
