@@ -73,6 +73,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
 Glaive         |    +6     | 1d10 + 4(s)| -       | Heavy, Two-Handed, Reach
+Glaive (butt)  |    +6     | 1d4 + 4(b) | -       | see _Polearm Master_ feat (p. 168)
 Dagger         |    +6     | 1d4 + 4(s) | -       | Light, Finesse
 Longbow        |    +5     | d8 + 3(p)  | 150/600 | Ammunition, Heavy, Two-Handed
 
