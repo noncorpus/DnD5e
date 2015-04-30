@@ -71,7 +71,7 @@ Small Dagger   |    +3     | 1d4+4(p) |   20/60 | Finesse, Light
  60 | Arrows
   1 | Small Dagger
   1 | Divine Focus
-  1 | Scale Mail
+  1 | Splint Mail
 
 ### Items
 
