@@ -9,6 +9,7 @@
 * **Player Name**: Evan
 * **Experience Points**: 2700 / 6500
 
+
      | Str* | Dex* | Con  | Int  | Wis  | Cha
 ---  | --:  | --:  | --:  | --:  | --:  | --:
 Raw  |  10  |  20  |  16  |  9   |  18  |  14
