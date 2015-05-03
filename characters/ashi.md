@@ -133,7 +133,11 @@ _Not sure, just brainstorming_
 
 **Piotr's Panpipes of Perseverance**
 
-You may blow these pan pipes as an action. You and any allies within 15ft that can hear them are invigorated. Affected characters take the equivalent of a short rest, and can recover spell slots equal to half their casting class level, rounded down. None of the recovered slots can be fourth level or higher.
+You may blow these pan pipes as an action. You and any allies within 15ft that can hear them are invigorated. Affected characters take the equivalent of a short rest, and can recover spell slots equal to half their casting class level, rounded down. None of the recovered slots can be fourth level or higher. Incapacitated characters can use, at most, half their hit dice.
+
+After being played, the Pipes' make no further sound until sunrise and cannot be used.
+
+The Pipes' magic is especially strong for those who have given their all. If characters are completely out of hit dice when they are affected, they regain one hit die. If they are completely out of spell slots, they gain one additional spell slot.
 
 **Rickard's Reliable Dice**
 
