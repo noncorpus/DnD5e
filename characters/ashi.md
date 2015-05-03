@@ -33,8 +33,8 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki
 ✓  | Acrobatics      | Dex     | +7
    | Animal Handling | Wis     | +4
    | Arcana          | Int     | -1
-✓  | Athletics       | Str     | +0
-✓  | Deception       | Cha     | +2
+✓  | Athletics       | Str     | +2
+✓  | Deception       | Cha     | +4
    | History         | Int     | -1
    | Insight         | Wis     | +4
    | Intimidation    | Cha     | +2
