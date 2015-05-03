@@ -98,7 +98,6 @@ Step of the Wind   | 1   | Disengage or Dash as a bonus action, and jump distanc
 1   | Dungeoneer's Pack
 1   | Thieves' Tools
 1   | Dice Set
-1   | Crowbar
 50ft| Silk Rope
 1   | Steel Mirror
 1   | Bullseye Lantern
