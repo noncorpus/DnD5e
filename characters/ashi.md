@@ -149,9 +149,9 @@ Plenty of clients had asked that over the years, but some indefinable undercurre
 
 It was Ashi's turn to pause. Decades later and those memories still stung. "I learn from my mistakes," he added eventually. Their eyes met, and they both knew he was done with his story.
 
-The woman turned to the shelves behind her. She pulled down a heavy box, opening it and reaching inside. Holding a silk-wrapped bundle in two hands, she crossed the room with a speed and urgency that he wouldn't have expected of her. She set the fist-sized package in his hands, adding, "Give it everything you've got, and this will keep you going." With a wry grin, she added, "I recommend the refrain from Mistwinter's Charge."
+The woman turned to the shelves behind her. She pulled down a heavy box, opening it and reaching inside. Holding a silk-wrapped bundle in two hands, she crossed the room with a speed and urgency that Ashi wouldn't have expected of her. She set the fist-sized package in his hands, adding, "Give it everything you've got, and this will keep you going." With a wry grin, she said, "I recommend the refrain from Mistwinter's Charge."
 
-"That 'little stick' is a message carrier," she continued, "warded against opening by the wrong person. The letter inside it holds our latest intelligence on the Dragon Cult's army. We think we know their next move."
+She stepped back. "That 'little stick' is a message carrier," she continued, "warded against opening by the wrong person. The letter inside it holds our latest intelligence on the Dragon Cult's army. We think we know their next move."
 
 "Get it to the monk," she finished. "Get it there in five days."
 
@@ -171,12 +171,3 @@ You may blow these pan pipes as an action. You and any allies within 15ft that c
 Incapacitated characters can use, at most, half their hit dice. Once played, the Pipes make no further sound until sunset.
 
 The Pipes' magic is especially strong for those who have given their all. If characters are completely out of hit dice when they are affected, they regain one hit die. If they are completely out of spell slots, they regain one additional spell slot.
-
-
-**Rickard's Reliable Dice**
-
-_Ignore, just brainstorming_
-
-You have one Reliable die of each type (d4, d6, d8, d10, d12, d20). After a roll of any kind, you may roll a Reliable Die of the same kind and add to, subtract from, or replace the roll. After being used, the pips on the used die fade and it cannot be used again until they reappear at sunrise. A Reliable Die cannot be applied to someone else's roll, such as a monster's attack roll against you.
-
-You may give a Reliable Die to a party member outside of combat, or in combat as a bonus action if you are within reach.
