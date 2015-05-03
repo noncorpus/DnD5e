@@ -135,21 +135,21 @@ The man turned towards the office door but stood still, waiting for an answer. E
 
 Ashi made a small, tired sound, half cough, half chuckle, that was almost drowned in the patter of rain. "Carry this little stick down half the Sword Coast in the worst summer storm in a decade, in under five days? Sure. If not five days, I'll get it there early on the sixth."
 
-"Six will be too late," she said to the floor in a voice of somber anger, leaning forward with her arms against the desk. It sounded wrong to him. When people hired his services, they tended to sound excited, hopeful or sly. You hire a smuggler to make an illicit fortune or carry out a cunning, less-than-legal plan. This woman was afraid. "It's got to be five days," she said.
+"Six days will be too late," she said to the floor in a voice of somber anger, leaning forward with her arms against the desk. It sounded wrong to him. When people hired his services, they tended to sound excited, hopeful or sly. You hire a smuggler to make an illicit fortune or carry out a cunning, less-than-legal plan. This woman was afraid. "It's got to be five days," she said.
 
-Ashi took a step toward the open window and the raging storm. The sun had set hours ago. Even his sharp eyes could see little more than the dark dissaray of clouds and rain. "A decade ago, I could spend five days aloft and grin the whole time, but even then, winds like these would give me trouble. It's exhausting. You're constantly fighting them, and you've got to stay focused the whole time." He let his words hang in the air as warm, lamplit currents stirred with the chill storm winds gusting through the open window in front of him.
+Ashi took a step toward the open window and the raging storm. The sun had set hours ago. Even his sharp eyes could see little more than the dark dissaray of clouds and rain. "A decade ago, I could spend five days aloft and grin the whole time, but even then, winds like these would give me trouble. It's exhausting. You're constantly fighting them, and you've got to stay focused the whole time." He let his words hang in the air as warm, lamplit currents stirred with the chill storm winds peaking through the open window in front of him.
 
 "Why do you care?" the woman finally asked. "Why do you always insist that your clients explain why they want you to make a delivery? Why have _that_ as your one condition?" 
 
 Plenty of clients had asked that over the years, but some indefinable undercurrent in her tone threw him off balance. He was prepared to judge her, not the other way around. "I don't ever remember living with my people," he began. "My first memories were of the monks who took me in. They always said I just fell from the sky."
 
-"They raised me, they taught me, but I never quite got it. It's not that I didn't agree with their ideas, I simply couldn't see how it all fit together. So one day, I just...flew away."
+"They took me in, they raised me, they taught me. Reading, writing, sneaking, fighting, philosphy, music -- though I was crap with anything but the panpipes," he said with a chuckle that almost seemed genuine. "But I never quite got it. It's not that I didn't agree with their ideas, I simply couldn't see how it all fit together. So one day, I just...flew away."
 
 "I found cities and towns and castles and seas and all sorts of amazing things. I met people and made friends. I was naive, though. Some of those friends were the wrong sort of people. I didn't ask any questions when they asked me for favors and...people got hurt."
 
 It was Ashi's turn to pause. Decades later and those memories still stung. "I learn from my mistakes," he added eventually. Their eyes met, and they both knew he was done with his story.
 
-The woman turned to the shelves behind her. She pulled down a heavy box, opening it and reaching inside. Holding a silk-wrapped bundle in two hands, she crossed the room with a speed and urgency that Ashi wouldn't have expected of her. She set the fist-sized package in his hands, adding, "Give it everything you've got, and this will keep you going." With a wry grin, she said, "I recommend the refrain from Mistwinter's Charge."
+The woman turned to the shelves behind her. She pulled down a heavy box, opening it and reaching inside. Holding a silk-wrapped bundle in two hands, she crossed the room with a speed and urgency that Ashi wouldn't have expected of her. She set the flat, fist-sized package in his hands, saying, "Give it everything you've got, and this will keep you going." With a wry grin, she added, "I recommend the refrain from Mistwinter's Charge."
 
 She stepped back. "That 'little stick' is a message carrier," she continued, "warded against opening by the wrong person. The letter inside it holds our latest intelligence on the Dragon Cult's army. We think we know their next move."
 
