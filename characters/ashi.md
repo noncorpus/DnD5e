@@ -170,4 +170,4 @@ You may blow these pan pipes as an action. You and any allies within 15ft that c
 
 Incapacitated characters can use, at most, half their hit dice. Once played, the Pipes make no further sound until sunset.
 
-The Pipes' magic is especially strong for those who have given their all. If characters are completely out of hit dice when they are affected, they regain one hit die. If they are completely out of spell slots, they regain one additional spell slot.
+The Pipes' magic is especially strong for those who have given given their best in an extraordinary effort. If characters are completely out of hit dice when they are affected, they regain one hit die. If they are completely out of spell slots, they regain one additional spell slot.
