@@ -74,7 +74,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki
 Weapon           | Atk Bonus | Damage    | Range   | Properties
 ------           | :-------: | -----:    | :---:   | ----------
 Spear            |    +7     | d6 + 5(p) | 20/60   | Versatile (1d8), Thrown (range 20/60)
-Short Sword      |    +7     | d6 + 5(p) | -       | Versatile (1d8), Thrown (range 20/60)
+Short Sword      |    +7     | d6 + 5(p) | -       | Finesse, Light
 Talons (unarmed) |    +7     | d4 + 5(s) | -       | 
 Shortbow         |    +7     | d6 + 5(p) | 80/160  | Ammunition, Two-Handed
 Dart             |    +7     | d4 + 5(p) | 20/60   | Finesse, Thrown
@@ -93,19 +93,18 @@ Step of the Wind   | 1   | Disengage or Dash as a bonus action, and jump distanc
 1   | Spear
 1   | Short Sword
 1   | Shortbow
-40  | Arrows
+20  | Arrows
 10  | Darts
 1   | Dungeoneer's Pack
 1   | Thieves' Tools
 1   | Dice Set
 1   | Crowbar
 50ft| Silk Rope
-2   | Flasks of oil
 1   | Steel Mirror
 1   | Bullseye Lantern
-1   | Vial Perfume
+2   | Flasks of oil
+1   | Vial of Perfume
 1   | Antitoxin
-1   | Ball Bearings (Bag of 1,000)
 1   | Spyglass -OR- as many Healing Potions as I can get
 50  | gp
 1   | Piotr's Panpipes of Perseverance
@@ -135,19 +134,19 @@ The man turned towards the office door but stood still, waiting for an answer. E
 
 "Fine," the woman said after a quiet pause. "But...you're sure you can do it?"
 
-Ashi made a small, tired sound, half cough, half chuckle, that was almost drowned in the patter of rain. "Carry this little stick down half the Sword Coast in the worst summer storm in a decade, all under five days? Sure. If not five days, I'll get it there early on the sixth."
+Ashi made a small, tired sound, half cough, half chuckle, that was almost drowned in the patter of rain. "Carry this little stick down half the Sword Coast in the worst summer storm in a decade, in under five days? Sure. If not five days, I'll get it there early on the sixth."
 
-"Six will be too late," she said to the floor in a voice of somber anger, leaning forward with her arms against the desk. It sounded wrong. When people hired his services, they tended to sound excited, hopeful or sly. You hire a smuggler to make an illicit fortune or carry out a cunning, less-than-legal plan. This woman was afraid. "It's got to be five days."
+"Six will be too late," she said to the floor in a voice of somber anger, leaning forward with her arms against the desk. It sounded wrong to him. When people hired his services, they tended to sound excited, hopeful or sly. You hire a smuggler to make an illicit fortune or carry out a cunning, less-than-legal plan. This woman was afraid. "It's got to be five days," she said.
 
-Ashi took a step toward the open window and the raging storm. The sun had set hours ago. Even his sharp eyes could see little more than the dark dissaray of clouds and rain. "A decade ago, I could spend five days aloft and grin the whole time, but even then, winds like these would give me trouble. It's exhausting. You're constantly fighting, and you've got to stay focused the whole time." He let his words hang in the air as warm, lamplit currents stirred with the chill storm winds gusting through the open window in front of him.
+Ashi took a step toward the open window and the raging storm. The sun had set hours ago. Even his sharp eyes could see little more than the dark dissaray of clouds and rain. "A decade ago, I could spend five days aloft and grin the whole time, but even then, winds like these would give me trouble. It's exhausting. You're constantly fighting them, and you've got to stay focused the whole time." He let his words hang in the air as warm, lamplit currents stirred with the chill storm winds gusting through the open window in front of him.
 
 "Why do you care?" the woman finally asked. "Why do you always insist that your clients explain why they want you to make a delivery? Why have _that_ as your one condition?" 
 
-Plenty of clients had asked that over the years, but some indefinable undercurrent in her tone threw him off balance. He was ready to judge her, not the other way around. "I don't ever remember living with my people," he began. "My first memories were of the monks who took me in. They always said I just fell from the sky."
+Plenty of clients had asked that over the years, but some indefinable undercurrent in her tone threw him off balance. He was prepared to judge her, not the other way around. "I don't ever remember living with my people," he began. "My first memories were of the monks who took me in. They always said I just fell from the sky."
 
 "They raised me, they taught me, but I never quite got it. It's not that I didn't agree with their ideas, I simply couldn't see how it all fit together. So one day, I just...flew away."
 
-"I found cities and towns and castles and seas and all sorts of amazing things. I met people and made friends. I was naive, though. Some of those friends were the wrong sort of people. I didn't ask any questions when they asked for favors and...people got hurt."
+"I found cities and towns and castles and seas and all sorts of amazing things. I met people and made friends. I was naive, though. Some of those friends were the wrong sort of people. I didn't ask any questions when they asked me for favors and...people got hurt."
 
 It was Ashi's turn to pause. Decades later and those memories still stung. "I learn from my mistakes," he added eventually. Their eyes met, and they both knew he was done with his story.
 
