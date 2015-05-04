@@ -129,21 +129,21 @@ Age | Height | Weight   | Eyes   | Plumage
 
 "You know my condition."
 
-The man turned towards the office door but stood still, waiting for an answer. Even though he was shorter than almost everyone he met, he knew that at this moment, he had all the power in the room. His long years at this job had given him that much, along with a slight dullness to his plumage and an exhausted weight in his light, avian frame.
+The man turned towards the office door but stood still, waiting for an answer. Even though he was shorter than almost everyone he met, he knew that at this moment, he had all the power in the room. His long years at this job had given him that much, along with a dullness to his once-shining plumage and an exhausted weight in his light, avian frame.
 
 "Fine," the woman said after a quiet pause. "But...you're sure you can do it?"
 
-Ashi made a small, tired sound, half cough, half chuckle, that was almost drowned in the patter of rain. "Carry this little stick down half the Sword Coast in the worst summer storm in a decade, in under five days? Sure. If not five days, I'll get it there early on the sixth."
+Ashi made a small, tired sound, half cough, half chuckle, that was almost drowned in the patter of rain. "Carry this little stick down half the Sword Coast in the worst summer storm in a decade, in under five days? Sure. If not five days, I'll get it there early on the sixth." He tucked the small wooden cylindar in a chest pocket, patting it with practiced confidence.
 
-"Six days will be too late," she said to the floor in a voice of somber anger, leaning forward with her arms against the desk. It sounded wrong to him. When people hired his services, they tended to sound excited, hopeful or sly. You hire a smuggler to make an illicit fortune or carry out a cunning, less-than-legal plan. This woman was afraid. "It's got to be five days," she said.
+"Six days will be too late," she said to the floor in a voice of somber anger, leaning forward with her arms against the desk. It sounded wrong to him. When people hired his services, they tended to sound excited, hopeful or sly. You hire a smuggler to make an illicit fortune or carry out a cunning, less-than-legal plan. This woman was afraid, maybe more. "It's got to be five days," she said.
 
-Ashi took a step toward the open window and the raging storm. The sun had set hours ago. Even his sharp eyes could see little more than the dark dissaray of clouds and rain. "A decade ago, I could spend five days aloft and grin the whole time, but even then, winds like these would give me trouble. It's exhausting. You're constantly fighting them, and you've got to stay focused the whole time." He let his words hang in the air as warm, lamplit currents stirred with the chill storm winds peaking through the open window in front of him.
+Ashi took a step toward the open window and the raging storm. The sun had set hours ago. Even his sharp eyes could see little more than the dark dissaray of clouds and rain. "A decade ago, I could spend five days aloft and grin the whole time, but even then, winds like these would give me trouble. It's exhausting. You're constantly fighting them, and you've got to stay focused the whole time." He let his words hang in the air as warm, lamplit currents stirred with the chill storm winds darting through the open window in front of him.
 
 "Why do you care?" the woman finally asked. "Why do you always insist that your clients explain why they want you to make a delivery? Why have _that_ as your one condition?" 
 
 Plenty of clients had asked that over the years, but some indefinable undercurrent in her tone threw him off balance. He was prepared to judge her, not the other way around. "I don't ever remember living with my people," he began. "My first memories were of the monks who took me in. They always said I just fell from the sky."
 
-"They took me in, they raised me, they taught me. Reading, writing, sneaking, fighting, philosphy, music -- though I was crap with anything but the panpipes," he said with a chuckle that almost seemed genuine. "But I never quite got it. It's not that I didn't agree with their ideas, I simply couldn't see how it all fit together. So one day, I just...flew away."
+"They took me in," he went on, gathering speed. "They raised me, they taught me. Reading, writing, sneaking, fighting, philosphy, music -- though I was crap with anything but the panpipes," he said with a chuckle that almost seemed genuine. "But I never quite got it. It's not that I didn't agree with their ideas, I simply couldn't see how it all fit together. So one day, I just...flew away."
 
 "I found cities and towns and castles and seas and all sorts of amazing things. I met people and made friends. I was naive, though. Some of those friends were the wrong sort of people. I didn't ask any questions when they asked me for favors and...people got hurt."
 
@@ -151,13 +151,13 @@ It was Ashi's turn to pause. Decades later and those memories still stung. "I le
 
 The woman turned to the shelves behind her. She pulled down a heavy box, opening it and reaching inside. Holding a silk-wrapped bundle in two hands, she crossed the room with a speed and urgency that Ashi wouldn't have expected of her. She set the flat, fist-sized package in his hands, saying, "Give it everything you've got, and this will keep you going." With a wry grin, she added, "I recommend the refrain from Mistwinter's Charge."
 
-She stepped back. "That 'little stick' is a message carrier," she continued, "warded against opening by the wrong person. The letter inside it holds our latest intelligence on the Dragon Cult's army. We think we know their next move."
+She stepped back. "That 'little stick' you're delivering is a message carrier," she continued, "warded against opening by the wrong person. The letter inside it holds our latest intelligence on the Dragon Cult's army. We think we know their next move."
 
-"Get it to the monk," she finished. "Get it there in five days."
+"Get it to the monk in Daggorford," she finished. "Get it there in five days."
 
 "You're not really from the local Theives' Guild, are you?" he asked, knowing that silence was the only answer he'd get. He turned back to the window.
 
-A gust of rain-soaked wind blew in, bringing with it the familiar feeling of air grabbing at his wings. He put his hands on the sill and leaned into the next gust. The storm was as intense as ever, but for a moment, the clouds crept apart to reveal a crescent of white moonlight.
+A gust of rain-soaked wind blew against him, bringing with it the familiar feeling of air grabbing at his wings. He put his hands on the sill, leaning into the next gust. The storm was as intense as ever, but for a moment, the clouds crept apart to reveal a crescent of white moonlight.
 
 He jumped.
 
