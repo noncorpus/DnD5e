@@ -16,7 +16,7 @@ Str  | Dex  | Con  | Int  | Wis  | Cha
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-         2  |  18 |         +3 |    30 |     42 | 4d10    
+         2  |  17 |         +3 |    30 |     42 | 4d10    
 
 Saves | Str | Dex | Con | Int | Wis | Cha
 ----- | --: | --: | --: | --: | --: | --:
@@ -93,7 +93,7 @@ Precision Attack | Roll a superiority die before or after an attack roll and add
 1   | Greatsword
 1   | Longbow
 20  | Arrows
-1   | Plate Armor
+1   | Splint Armor
 1   | Dungeoneer's Pack
 1   | Herbalism Kit
 1   | Deck of Cards
