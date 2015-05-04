@@ -155,7 +155,7 @@ She stepped back. "That 'little stick' you're delivering is a message carrier wa
 
 "Get it to the monk I told you about," she finished. "Get it there in five days."
 
-"You're not really from the local Theives' Guild, are you?" he asked, knowing that silence was the only answer he'd get. He turned back to the window.
+"You're not really from the local Thieves' Guild, are you?" he asked, knowing that silence was the only answer he'd get. He turned back to the window.
 
 A gust of rain-soaked wind blew against him, bringing with it the familiar feeling of air grabbing at his wings. He put his hands on the sill, leaning into the next gust. The storm was as intense as ever, but for a moment, the clouds crept apart to reveal a crescent of white moonlight.
 
