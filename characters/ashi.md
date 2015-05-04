@@ -133,7 +133,7 @@ The man turned towards the office door but stood still, waiting for an answer. E
 
 "Fine," the woman said after a quiet pause. "But...you're sure you can do it?"
 
-Ashi made a small, tired sound, half cough, half chuckle, that was almost drowned in the patter of rain. "Carry this little stick down half the Sword Coast in the worst summer storm in a decade, in under five days? Sure. If not five days, I'll get it there early on the sixth." He tucked the small wooden cylindar in a chest pocket, patting it with practiced confidence.
+Ashi made a small, tired sound, half cough, half chuckle, that was almost drowned in the patter of rain. "Carry this little stick down half the Sword Coast in the worst summer storm in a decade, in under five days? Sure. If not five days, I'll get it there early on the sixth. I'll give you half price if it's any more." He tucked the small wooden cylindar in a chest pocket, patting it with practiced confidence.
 
 "Six days will be too late," she said to the floor in a voice of somber anger, leaning forward with her arms against the desk. It sounded wrong to him. When people hired his services, they tended to sound excited, hopeful or sly. You hire a smuggler to make an illicit fortune or carry out a cunning, less-than-legal plan. This woman was afraid, maybe more. "It's got to be five days," she said.
 
