@@ -149,7 +149,7 @@ Plenty of clients had asked that over the years, but some indefinable undercurre
 
 It was Ashi's turn to pause. Decades later and those memories still stung. "I learn from my mistakes," he added eventually. Their eyes met, and they both knew he was done with his story.
 
-The woman turned to the shelves behind her. She pulled down a heavy box, opening it and reaching inside. Holding a silk-wrapped bundle in two hands, she crossed the room with a speed and urgency that Ashi wouldn't have expected of her. She set the flat, fist-sized package in his hands, saying, "Give it everything you've got, and this will keep you going." With a wry grin, she added, "I always like the refrain from Mistwinter's Charge."
+The woman turned to the shelves behind her. She pulled down a heavy box, opening it and reaching inside. Holding a silk-wrapped bundle in two hands, she crossed the room with a speed and urgency that Ashi wouldn't have expected of her. She set the flat, fist-sized package in his hands, saying, "Give it everything you've got, and this will keep you going." With a wry grin, she added, "I always like the refrain from Elminster's Charge."
 
 She stepped back. "That 'little stick' you're delivering is a message carrier warded against opening by the wrong person. The letter inside it holds our latest intelligence on the Dragon Cult's army. We think we know their next move."
 
