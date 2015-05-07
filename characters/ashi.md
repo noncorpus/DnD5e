@@ -106,7 +106,7 @@ Step of the Wind   | 1   | Disengage or Dash as a bonus action, and jump distanc
 1   | Antitoxin
 1   | Spyglass -OR- as many Healing Potions as I can get
 50  | gp
-1   | Piotr's Panpipes of Perseverance
+1   | Rickard's Reliable Dice
 
 ## Spells
 
