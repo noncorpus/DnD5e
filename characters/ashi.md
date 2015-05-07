@@ -7,7 +7,7 @@
 * **Background**: Criminal (Smuggler)
 * **Alignment**: Chaotic Good
 * **Player Name**: Evan
-* **Experience Points**: 2700 / 6500
+* **Experience Points**: 3300 / 6500
 
 
      | Str* | Dex* | Con  | Int  | Wis  | Cha
@@ -164,10 +164,21 @@ He jumped.
 
 ### Magic Items
 
-**Piotr's Panpipes of Perseverance**
+# Rickard's Reliable Dice
 
-You may blow these pan pipes as an action. You and any allies within 15ft that can hear them are invigorated. Affected characters take the equivalent of a short rest, and can recover spell slots equal to half their casting class level, rounded down. None of the recovered slots can be fourth level or higher. For instance, a fifth-level Cleric can regain two levels worth of spell slots, which can be used to regain one second-level or two first-level spell slots.
+After any roll is made by or against the holder, roll a d6 to determine the type of today's die and compare it to the following table.
 
-Incapacitated characters can use, at most, half their hit dice. Once played, the Pipes make no further sound until sunset.
+d6  | Reliable Die Type
+--: | -----------------
+1   | d4
+2   | d6
+3   | d8
+4   | d10
+5   | d12
+6   | d20
 
-The Pipes' magic is especially strong for those who have given given their best in an extraordinary effort. If characters are completely out of hit dice when they are affected, they regain one hit die that must be used immediately. If they are completely out of spell slots, they regain one additional first-level spell slot.
+Roll a die of the chosen type. Add the result to, or subtract it from, the triggering roll. Your choice.
+
+After being used, the pips on the used die fade and it cannot be used again until they reappear at sunrise.
+
+You may give a Reliable Die to a party member outside of combat, or in combat as a bonus action if you are within reach.
