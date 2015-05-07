@@ -1,4 +1,4 @@
-# Equipment
+# Party Equipment
 
 \#  | Item
 --: | ---------
