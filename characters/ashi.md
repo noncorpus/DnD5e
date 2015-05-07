@@ -13,7 +13,7 @@
      | Str* | Dex* | Con  | Int  | Wis  | Cha
 ---  | --:  | --:  | --:  | --:  | --:  | --:
 Raw  |  10  |  20  |  16  |  9   |  18  |  14
-Mod  | (+0) | (+5) | (+3) | (-1) | (+4) | (+2)
+Mod  |  +0  |  +5  |  +3  |  -1  |  +4  |  +2 
 Save |  +2  |  +7  |  +3  |  -1  |  +4  |  +2
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki
