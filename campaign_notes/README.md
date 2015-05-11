@@ -55,3 +55,4 @@ Saved Carlon Amafell - oathbreaker - family of betrothed are bandits - 2 days > 
 
 ### On The Road to Waters Deep (May 11)
 During the night, a noise scares one of the horses
+Nyerhite Verther (silk peddler) and guard Tyjit Skesh lost his carvan
