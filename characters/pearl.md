@@ -1,4 +1,4 @@
-# Juilin Bkaw
+# Pearl Bkaw
 
 ## Stats and Specs
 
@@ -6,7 +6,7 @@
 * **Race**: Aarakocra
 * **Background**: Outlander (p. 136)
 * **Alignment**: Chaotic Neutral
-* **Player Name**: ???
+* **Player Name**: Pearl Bkaw
 * **Experience Points**: 2700 / 6500
 
      | Str | Dex  | Con  | Int  | Wis  | Cha
@@ -53,8 +53,8 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 * **Mobile** feat. 
   * When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
   * Speed increases by 10ft
-* **Favored Enemy**. ???
-* **Natural Explorer**. ???
+* **Favored Enemy**. Dragons
+* **Natural Explorer**. Forest
 * **Wanderer**. Excellent memory of maps and geography. Can always recall general layout of terrain, settlements and other features nearby. Can find food and water for self and five others daily. (p.136)
 * **Primeval Awareness**. Can use action and one spell slot to detect presence of abberations, celestials, dragons, elementals, fey, fiends and undead.
 * **Two-Weapon Fighting**. When you engage in two-weapon fighting, you can add ability modifier to the damage of the second attack.
@@ -90,19 +90,19 @@ Longbow        |    +7     | d8 + 5(p)  | 150/600 | Ammunition, Heavy, Two-Hande
 
 **Spells/Day**: 3
 
-Spell Name (page)             | Time     | Range | Duration | Components | Effect
-------------------            | -------: | ----: | -------: | ---------- | ------
-Cure Wounds                   | 1 action | touch |    -     | V,S        | Heal 1d8 + Wis
-Fog Cloud                     | 1 action |  120' |  1 hour  | V,S        | Create 20' radius fog
-Hunter's Mark                 | 1 bonuon |   90' |  1 hour  | V          | Choose a creature. Deal 1d6 extra damageper hit. Adv on Perception and Survival checks against it. If target dies, can switch to another as a bonus action.
+Spell Name (page)             | Time     | Range | Duration | Components        | Effect
+------------------            | -------: | ----: | -------: | ----------        | ------
+Goodberry                     | 1 action | touch | Instant  | V,S,M (mistletoe) | Heal 1 (Create 10 Goodberries)
+Fog Cloud                     | 1 action |  120' |  1 hour  | V,S               | Create 20' radius fog
+Hunter's Mark                 | 1 bonuon |   90' |  1 hour  | V                 | Choose a creature. Deal 1d6 extra damageper hit. Adv on Perception and Survival checks against it. If target dies, can switch to another as a bonus action.
 
 ## Background
 
 Age | Height | Weight   | Eyes   | Skin & Hair
 --: | -----: | ------:  | ----   | ------------
-19  | 5'     | 90 lbs   | Blue   | Tan and brown feathers
+10  | 5'     | 90 lbs   | Blue   | Tan and brown feathers
 
-* **Personality Traits**.
+* **Personality Traits**. Socially awkward and generally confuseed 
 * **Ideals**.
 * **Bonds**.
 * **Flaws**.
