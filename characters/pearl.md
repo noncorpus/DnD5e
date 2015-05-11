@@ -7,7 +7,7 @@
 * **Background**: Outlander (p. 136)
 * **Alignment**: Chaotic Neutral
 * **Player Name**: Pearl Bkaw
-* **Experience Points**: 2700 / 6500
+* **Experience Points**: 3300 / 6500
 
      | Str | Dex  | Con  | Int  | Wis  | Cha
 ---  | --: | --:  | --:  | --:  | --:  | --:
@@ -118,3 +118,25 @@ Since then, she has led a wandering lifestyle, living in the forest and mountain
 One of her fondest memories of home is the campfire stories of battles against the green dragon who ravaged their settlements. When she heard tales of a dragon cult, Juilin decided to take wing and see if she could learn more. After over a decade alone, this could be a chance to finally meet people and find a place where she belonged.
 
 Besides, there wasn't anything better to do. 
+
+## Flying Snake - Stats and Specs
+
+* **Race**: Tiny beast, unaligned
+* **Alignment**: Chaotic Neutral
+* **Player Name**: Zero
+
+     | Str | Dex  | Con  | Int  | Wis  | Cha
+---  | --: | --:  | --:  | --:  | --:  | --:
+Raw  | 4   |  18  |  11  |  2   |  12  |  5
+Mod  | -3  |  +4  |  +0  |  -4  |  +1  |  -3
+Save | --  |  --  |  --  |  --  |  --  |  --
+
+Proficiency | AC  | Initiative | Speed    | Max HP | Hit Dice
+----------: | --: | ---------: | ----:    | -----: | -------:
+         2  |  14 |         +5 | 30/60/30 |     16 | -------:  
+
+Flyby. The snake doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+
+Actions
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 1 piercing damage plus 7 (3d4) poison damage.
