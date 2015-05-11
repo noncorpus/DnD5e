@@ -6,7 +6,7 @@
 * **Race**: Aarakocra
 * **Background**: Outlander (p. 136)
 * **Alignment**: Chaotic Neutral
-* **Player Name**: Pearl Bkaw
+* **Player Name**: Joanne
 * **Experience Points**: 3300 / 6500
 
      | Str | Dex  | Con  | Int  | Wis  | Cha
