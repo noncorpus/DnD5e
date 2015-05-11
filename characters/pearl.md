@@ -72,6 +72,7 @@ Weapon         | Atk Bonus | Damage     | Range   | Properties
 Short Sword    |    +7     | 1d6 + 5(s) | -       | Light, finesse
 Talons         |    +7     | 1d4 + 5(s) | -       | Light, Finesse
 Longbow        |    +7     | d8 + 5(p)  | 150/600 | Ammunition, Heavy, Two-Handed
+Gravity Net    | Increases DC and AC (gargantuan has to deal 50) 10 – break it 5Xstrength mod, takes 5 minutes per damage dealt to restore from being broken
 
 ## Equipment
 \#  | Item
