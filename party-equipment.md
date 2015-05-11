@@ -2,7 +2,7 @@
 
 \#  | Item
 --: | ---------
-400 | Healing Potions
+10 | Healing Potions
 150 | gp
 1   | Long Bow with Hair of Unicorns Tail +1 (Baldric)
 1   | Spy Glass (Ashi)
