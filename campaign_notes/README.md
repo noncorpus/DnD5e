@@ -35,6 +35,7 @@ Despite a bloody and fiery battle, the party emerged victorious.  After some coa
 Once again, the party made use of the secret exit, and followed the stream to the west.  In the distance, they could make out four humanoid shapes.  Unsure of whether the group was friend or foe, Rinn called to the group while everyone prepared to fire if the group proved hostile.  When the four individuals were within crossbow range, their hostile intent was made clear and the party opened fire.  Immediately, one of the four was felled.  In an even match against the remaining three, the party was victorious, and managed to subdue of the apparent mercenaries.
 
 Approaching the mill, the party noticed that the structure was unharmed, while the buildings that surrounded it were on fire.  Checking the perimeter, Rinn opened the door and called inside.  Having heard movement from inside that likely signaled additional potential enemies, Rinn used the unconscious mercenary as a decoy to ascertain the nature of the hiding occupants.  Upon exposing the mercenary's body, three spears immediately lanced and killed the comatose soldier.  The party could hear the unmistakable curse from the mercenaries three friends within as they jumped down and prepared to engage the party...
+
 ### On The Road to Waters Deep (May 6)
 Ashi, Baldric and Pearl join the Caravan 
 
@@ -42,20 +43,17 @@ Joined also by the following Passengers:
 Azbara Jos - Man with large hat and maroon robes (near cultists) - fairly old
 Jana Greensliver - Female gnome - leather armor and two daggers- surly
 
-Stag gives bow to Baldric
-
-Fed caravan a deer
-
-Cultists are suspcious of Ashi
-Gnome is suspicious of Pearl - on our side?
-
-Saved Carlon Amafell - oathbreaker - family of betrothed are bandits - 2 days > bellabase
-- Actually a Harper and knows of liosin
-600 exp a piece
+- Stag gives bow to Baldric
+- Fed caravan a deer
+- Cultists are suspcious of Ashi
+- Gnome is suspicious of Pearl - on our side?
+- Saved Carlon Amafell - oathbreaker - family of betrothed are bandits - 2 days > bellabase
+-- Actually a Harper and knows of liosin
+- 600 exp a piece
 
 ### On The Road to Waters Deep (May 11)
-During the night, a noise scares one of the horses
-Nyerhite Verther (silk peddler) and guard Tyjit Skesh lost his carvan
-Confrontation with Sophos
-Jana Greensliver speaks with us (silver bone in our oatmeal)
-Encounter a skirmish, 7 hobgoblins (one captain)
+- During the night, a noise scares one of the horses
+- Nyerhite Verther (silk peddler) and guard Tyjit Skesh lost his carvan
+- Confrontation with Sophos
+- Jana Greensliver speaks with us (silver bone in our oatmeal)
+- Encounter a skirmish, 7 hobgoblins (one captain)
