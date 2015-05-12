@@ -7,7 +7,7 @@
 * **Background**: Acolyte
 * **Alignment**: Neutral Good
 * **Player Name**: Matt
-* **Experience Points**: 2,700 / 6,500
+* **Experience Points**: 4,000 / 6,500
 
 Str  | Dex  | Con  | Int  | *Wis  | *Cha
 --:  | --:  | --:  | --:  | --:  | --:
@@ -16,7 +16,7 @@ Str  | Dex  | Con  | Int  | *Wis  | *Cha
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-         2  |  17 |          6 |    30 |     38 | 4d10+4
+          2 |  17 |          6 |    30 |     38 |   4d10+4
 
 ### Languages
 
@@ -57,7 +57,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 Weapon         | Atk Bonus | Damage   | Range   | Properties
 ------         | :-------: | -------: | ------: | ----------
 Greatsword     |    +6     | 2d6+4(b) |     n/a | Two-handed
-Long Bow       |    +3     | 1d8+1(p) | 150/600 | Ammunition, two-handed
+Long Bow +1    |    +4     | 1d8+2(p) | 150/600 | Ammunition, two-handed
 Small Dagger   |    +3     | 1d4+4(p) |   20/60 | Finesse, Light
 
 ## Equipment
@@ -100,7 +100,7 @@ Small Dagger   |    +3     | 1d4+4(p) |   20/60 | Finesse, Light
 
 Spellcasting Ability | Spell Save DC | Spell Attack Bonus
 -------------------- | ------------: | -----------------:
-Charisma	     |            14 |                 +6
+Charisma	            |            14 |                 +6
 
 ### Oath Spells
 Spell Name (page)        | Time     | Range | Duration | Components | Effect
