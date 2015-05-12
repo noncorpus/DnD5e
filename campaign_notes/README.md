@@ -40,7 +40,7 @@ Ashi, Baldric and Pearl join the Caravan
 
 Joined also by the following Passengers:
 Azbara Jos - Man with large hat and maroon robes (near cultists) - fairly old
-Gemma Greensliver - Female gnome - leather armor and two daggers- surly
+Jana Greensliver - Female gnome - leather armor and two daggers- surly
 
 Stag gives bow to Baldric
 
@@ -56,3 +56,6 @@ Saved Carlon Amafell - oathbreaker - family of betrothed are bandits - 2 days > 
 ### On The Road to Waters Deep (May 11)
 During the night, a noise scares one of the horses
 Nyerhite Verther (silk peddler) and guard Tyjit Skesh lost his carvan
+Confrontation with Sophos
+Jana Greensliver speaks with us (silver bone in our oatmeal)
+Encounter a skirmish, 7 hobgoblins (one captain)
