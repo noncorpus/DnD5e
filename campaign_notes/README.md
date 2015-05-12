@@ -67,3 +67,5 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - sophos is dead
 - Wasn't Janna
 - Near Water's Gate
+- 2100 XP
+- 36 Total Gold
