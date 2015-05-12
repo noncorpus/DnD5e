@@ -55,5 +55,15 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - During the night, a noise scares one of the horses
 - Nyerhite Verther (silk peddler) and guard Tyjit Skesh lost his carvan
 - Confrontation with Sophos
-- Jana Greensliver speaks with us (silver bone in our oatmeal)
+- Jana Gleamsilver speaks with us (silver bone in our oatmeal)
 - Encounter a skirmish, 7 hobgoblins (one captain)
+- 1 merchant, 3 guards saved
+- heal one guard
+- we take one merchant with us
+- Night - Janna comes to speak with us
+- Azbara Jos - red wizard of they - theans is a magocracy 
+- Getting closer to Waters Deep
+- Caravan Leader: Moros
+- sophos is dead
+- Wasn't Janna
+- Near Water's Gate
