@@ -139,6 +139,15 @@ Caravans - black gate
 - 8 per day per person gold (2 months) 48 gold a piece, Nixon, 3 cultists, 8 wagons in caravan - 20 in it (guards, merchants, teamsters) two not hippogriffs
 - 3 girls, Beatrix Ellidan Zanzabar 
 
+### April 27
+- Eldkin - dwarf, Orvustia = human, ellidan, zanzabar (they're emotionally damaged)
+- field of shreikers - mushrooms - scream and black spores
+- rain on caravan to wash away spores
+- 8 gold for 10th day
+- 12th day Losvius Longnose - curious
+- 15th day forest, two giant spiders, three humanoid spiders
+- TPK 
+
 ### On The Road to Waters Deep (May 6)
 Ashi, Baldric and Pearl join the Caravan 
 
