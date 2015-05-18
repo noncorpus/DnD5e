@@ -37,6 +37,8 @@ Once again, the party made use of the secret exit, and followed the stream to th
 Approaching the mill, the party noticed that the structure was unharmed, while the buildings that surrounded it were on fire.  Checking the perimeter, Rinn opened the door and called inside.  Having heard movement from inside that likely signaled additional potential enemies, Rinn used the unconscious mercenary as a decoy to ascertain the nature of the hiding occupants.  Upon exposing the mercenary's body, three spears immediately lanced and killed the comatose soldier.  The party could hear the unmistakable curse from the mercenaries three friends within as they jumped down and prepared to engage the party...
 
 ### March 9
+- Priest Edian Falkan Moon
+- Nesse Mouldra
 - Nessing sent us to save leeosin (we save him)
 - Armies are hoarding gold for tiamet to bring her back to the mortal world(heading up trade route)
 - Caves behind the main tent was a Nursery
@@ -73,6 +75,27 @@ Approaching the mill, the party noticed that the structure was unharmed, while t
 - - 6 gold for antelopes from korvus (two women and another) > sent to greenest 
 - - purple robes
 - - 300 exp a piece
+
+### March 16
+- Encounter 10 cobolt, 7 winged cobolt, 1 berserker, 1 orc (Earn 700 a piece) 
+- leash and collar - sparks
+- .5 oil flask
+- 38 gold, 165 silver, 709 copper
+- Open treasure chest
+- 4 dragon talismens, bone, soap stone, wood (blue dragon), ivory
+- string pearls, ring of saphire, pouch - 6 cut and polished stones
+
+### March 23
+- Investigate the rooms in the caves
+- Chamber - Map of towns with X's and two arrows.
+- Acquire Ornate Robes (Female), nice books, oil flask, 250 gold, 2 fancy scabbards
+- Find room of dragon eggs 
+- Find passed out cultist, with two wine flasks and 16 gold pieces
+- tiamet 9 hells fehruhn
+- day star - el terrell - bordered by fields of the dead - el terred
+- a pair of black antlers - tavern
+- gauntlet of tourm on man with armor - god of heroics and bravery
+- go to the inn and find Leeosin
 
 ### On The Road to Waters Deep (May 6)
 Ashi, Baldric and Pearl join the Caravan 
