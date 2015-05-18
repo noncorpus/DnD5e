@@ -123,6 +123,22 @@ Approaching the mill, the party noticed that the structure was unharmed, while t
 -- going to the north gate
 - city guard - paid off - 200 gold. 
 
+### April 13
+Tower defense - Exp 1100
+
+### April 20 
+- Sell baubles upper gate. 6 stone >100 each. pearls > 300. ring > 900
+- Earn 1800 gold total
+- magic stores: the wonder, the terra, the sound of water
+- the wonder has: books, scolls (spell cast), potions are consumable, wands, staffs 
+- The wonder, Super healing - 500, charisma book - 3000, Wand - 2000, chromatic orb - three times day (3d8) (+5 modifier), ring of shields - 1500 - +5 to AC and no magic missles - 1 round, bracelet - levitation - shield. breaking point - cannot be used for a few days. - protect you till then - 5000, flask - blue moving drop of something - melt squish - 1 min per 10 hp or in of material - 250 with something else - once. 5 cubic feet of something
+- the sight beyond tera - god/church, tincture - extra might - 1minute, necklace with shield - barrier - 10 minutes +2 ac - once per day - 1800, gold needle - diamond - recently departed - 3200
+- the sounds of water, dust of disappearance - 700 gold, small flute - six holes - flute of enhancibility - twice a day - advantage on attacks - 2200 - 1700 poem
+- Bought, flute of enhancibility - 1700, 10 potions of healing - 500
+Caravans - black gate
+- 8 per day per person gold (2 months) 48 gold a piece, Nixon, 3 cultists, 8 wagons in caravan - 20 in it (guards, merchants, teamsters) two not hippogriffs
+- 3 girls, Beatrix Ellidan Zanzabar 
+
 ### On The Road to Waters Deep (May 6)
 Ashi, Baldric and Pearl join the Caravan 
 
