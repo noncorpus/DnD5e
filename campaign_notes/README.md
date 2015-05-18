@@ -36,6 +36,44 @@ Once again, the party made use of the secret exit, and followed the stream to th
 
 Approaching the mill, the party noticed that the structure was unharmed, while the buildings that surrounded it were on fire.  Checking the perimeter, Rinn opened the door and called inside.  Having heard movement from inside that likely signaled additional potential enemies, Rinn used the unconscious mercenary as a decoy to ascertain the nature of the hiding occupants.  Upon exposing the mercenary's body, three spears immediately lanced and killed the comatose soldier.  The party could hear the unmistakable curse from the mercenaries three friends within as they jumped down and prepared to engage the party...
 
+### March 9
+- Nessing sent us to save leeosin (we save him)
+- Armies are hoarding gold for tiamet to bring her back to the mortal world(heading up trade route)
+- Caves behind the main tent was a Nursery
+- Met the following:
+- - half blue dragon (langdedrossa scywanwrath)
+- - frulam mondeth (purple robes)
+- - half black dragon (rezmir)
+- - onthar frume
+- - Pharblex Spattergoo (bullywug)
+- Earn the following
+- - 150 gold
+- - 2 potions
+- - 4 flask of oil
+- - fishing line and hooks
+- - 2 silk rope
+- - broken glass (burlap sack)
+- - blanket
+- - empty flask for water
+- - ink
+- - chalk
+- - 12 (ball bearings - iron)
+- - silk rope
+- - 4 oil cask
+- - candles
+- - broken glass
+- - bag of melted wax
+- - tinder box. 
+- - 10 torches
+- - waterskins
+- Look for leeosin in El Tarrel
+- leeosin - el tarrel
+- if he's not there onthar frume - harpers (dwarf)
+- - mask and robes
+- - 6 gold for antelopes from korvus (two women and another) > sent to greenest 
+- - purple robes
+- - 300 exp a piece
+
 ### On The Road to Waters Deep (May 6)
 Ashi, Baldric and Pearl join the Caravan 
 
@@ -69,3 +107,14 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - Near Water's Gate
 - 2100 XP
 - 36 Total Gold
+- 
+### On The Road to Waters Deep (May 11)
+- Enter Water's Deep. City of splendors, but in decline
+- Paid 12 more by Nixon
+- Cultists are heading into the City (Azbara Jos is folling them) (Janna is following them
+- Carlon Amafell is still with us (Harpers are present in the South Ward)
+- Ashi follows Carlon to the Harpers
+- Baldric and Pearl follow the cultists
+- Dwarf - Fjord
+- Cartsha the halfling 
+
