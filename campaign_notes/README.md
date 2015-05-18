@@ -97,6 +97,32 @@ Approaching the mill, the party noticed that the structure was unharmed, while t
 - gauntlet of tourm on man with armor - god of heroics and bravery
 - go to the inn and find Leeosin
 
+### April 6
+- Speak in the back room with monk (leeosin - harpers - equality -power out of the hands of evil)
+- Earn 200 gold per person (3)
+- Ask us to align with them
+-- harpers (frumh - order, discipline - order of the clenched fist), emerlad lion cave - druids - woodsy foks
+-- gold heading to the north for tiamet 
+-- off to el terell then to balders gate (frumh knows the merchangs balders gate) and waters deep
+-- harpers and order folk all the way
+- earn 50 gold each, small vial of poision (d10 creature 1d4 poision - minute), silk rope
+- sparks gets: holy water, alchemist fire, ball bearings 
+- rin gets: caltrops, 6 potions of healing, block and tackle, 1 vial of acid, manackles, three locks, 2 steel mirrors, 2 anti toxin, 1 insipration point
+- fruhlah modah - sparks leaves shitty dragon poetry
+- martin is now a spy to let her know sparks is coming...on their side
+- ackyn Selebon - black gate distrct outercity balders gate - equippage 
+- merchant who can hire us to caravan up the trade road to waters deep
+- rezmir - high ranking cultist - catch her group - ransacking groups
+- terrorized southlands. see their goal. paper trail
+- 3 days on the river
+- 3 tiers - upper city - balders gate market
+-- lower city - other business around the harbor 
+-- dregs of settlements - outer city - outside of the walls - laborers
+-- damp city - no wagons, beast of burden, dogs
+-- other side of the city - hire more caravans
+-- going to the north gate
+- city guard - paid off - 200 gold. 
+
 ### On The Road to Waters Deep (May 6)
 Ashi, Baldric and Pearl join the Caravan 
 
@@ -139,5 +165,6 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - Ashi follows Carlon to the Harpers
 - Baldric and Pearl follow the cultists
 - Dwarf - Fjord
-- Cartsha the halfling 
+- Cartsha the halfling > gives us 10 gold
+- Cultists lodge before heading to the high road
 
