@@ -107,7 +107,7 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - Near Water's Gate
 - 2100 XP
 - 36 Total Gold
-- 
+ 
 ### On The Road to Waters Deep (May 11)
 - Enter Water's Deep. City of splendors, but in decline
 - Paid 12 more by Nixon
