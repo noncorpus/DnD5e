@@ -195,5 +195,8 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - search inn, find 10 gold, a ring, and emerald
 - bust into room with meta-alzheimers old man...paid off with 1 gold 
 - black staff tower, white robed wizard. letter from harpers
-- - old elf comes out. 
+- old elf comes out.
+- Baldric has nose ring of flight
+- two monocales of featherfall
+- wizard is avardian of blackstaff
 
