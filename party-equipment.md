@@ -4,8 +4,8 @@
 --: | ---------
 10  | Healing Potions
 217 | Gold
-1   | Tiny Emerald 
-1   | Ring: Blue Metal Band with a Tiny Diamond 
+2   | Monocles of Featherfall - once a day
+1   | Nosestud of flight (10 min) - once a day
 1   | Long Bow with Hair of Unicorns Tail +1 (Baldric)
 1   | Spy Glass, Small Mirror (Ashi)
 1   | Justice Ring - Baldric - Close in on humans who could be committing a crime
