@@ -3,7 +3,7 @@
 \#  | Item
 --: | ---------
 10  | Healing Potions
-218 | Gold
+217 | Gold
 1   | Tiny Emerald 
 1   | Ring: Blue Metal Band with a Tiny Diamond 
 1   | Long Bow with Hair of Unicorns Tail +1 (Baldric)
