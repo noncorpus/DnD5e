@@ -192,4 +192,8 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - Dwarf - Fjord
 - Cartsha the halfling > gives us 10 gold
 - Cultists lodge before heading to the high road
+- search inn, find 10 gold, a ring, and emerald
+- bust into room with meta-alzheimers old man...paid off with 1 gold 
+- black staff tower, white robed wizard. letter from harpers
+- - old elf comes out. 
 
