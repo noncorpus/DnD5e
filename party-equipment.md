@@ -3,7 +3,8 @@
 \#  | Item
 --: | ---------
 10  | Healing Potions
-208 | Gold
+218 | Gold
+1   | Tiny Emerald 
 1   | Long Bow with Hair of Unicorns Tail +1 (Baldric)
 1   | Spy Glass (Ashi)
 1   | Justice Ring - Baldric - Close in on humans who could be committing a crime
