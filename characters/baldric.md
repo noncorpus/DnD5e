@@ -84,7 +84,7 @@ Small Dagger   |    +3     | 1d4+4(p) |   20/60 | Finesse, Light
   3 | Chalk
   1 | Flasks, Empty
   1 | Flask, Holy Water
-  2 | Flasks, Oil
+  1 | Flasks, Oil
   2 | Pouches
 50' | Hempen Roap
   2 | Sacks
