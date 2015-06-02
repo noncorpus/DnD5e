@@ -208,3 +208,4 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - Janna joins us
 - Rustling in forest
 - created bog fire
+- Pearl has 11 HP
