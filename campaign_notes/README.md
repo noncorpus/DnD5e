@@ -207,3 +207,4 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - 10 gold a 10 day per adventurer and food 
 - Janna joins us
 - Rustling in forest
+- created bog fire
