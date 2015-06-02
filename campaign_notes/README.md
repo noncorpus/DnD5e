@@ -209,3 +209,5 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - Rustling in forest
 - created bog fire
 - Pearl has 11 HP
+- Baldric has 15
+- Aishi has 10
