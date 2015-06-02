@@ -101,7 +101,7 @@ Step of the Wind   | 1   | Disengage or Dash as a bonus action, and jump distanc
 50ft| Silk Rope
 1   | Steel Mirror
 1   | Bullseye Lantern
-2   | Flasks of oil
+1   | Flasks of oil
 1   | Vial of Perfume
 1   | Antitoxin
 1   | Spyglass -OR- as many Healing Potions as I can get
