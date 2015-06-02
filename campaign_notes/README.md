@@ -200,3 +200,10 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - two monocales of featherfall
 - wizard is avardian of blackstaff
 
+### North Gate: Following the Cultists (June 01)
+- Ran into Janna
+- Ardered Briferfiew > works for Lord Neverember to rebuild neverwinter
+- Headning to Carnith Roardhouse 
+- 10 gold a 10 day per adventurer and food 
+- Janna joins us
+- Rustling in forest
