@@ -7,7 +7,7 @@
 * **Background**: Outlander (p. 136)
 * **Alignment**: Chaotic Neutral
 * **Player Name**: Joanne
-* **Experience Points**: 4000 / 6500
+* **Experience Points**: 4500 / 6500
 
      | Str | Dex  | Con  | Int  | Wis  | Cha
 ---  | --: | --:  | --:  | --:  | --:  | --:
