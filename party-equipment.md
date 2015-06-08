@@ -14,8 +14,10 @@
 1   | Gravity Net - Pearl - Increases DC and AC (gargantuan has to deal 50) 10 – break it 5Xstrength mod, takes 5 minutes per. (restrained) speed 0.  disadvantage on their attacks and dex saves. we have advantage on attacks. damage dealt to restore from being broken
 
 Pizza:
-Matt
-Evan <
-Sam
-Joanne
+- Matt
+- Evan <----
+- Sam
+- Joanne
+
+Coupon: CARDSWIN
 
