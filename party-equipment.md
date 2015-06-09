@@ -4,7 +4,7 @@
 --: | ---------
 10  | Healing Potions
 4   | Major Healing Potions (2 D8 +4)
-244 | Gold
+245 | Gold
 2   | Monocles of Featherfall - once a day
 1   | Nosestud of flight (10 min) - once a day
 1   | Long Bow with Hair of Unicorns Tail +1 (Baldric)
