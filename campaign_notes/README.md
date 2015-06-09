@@ -211,3 +211,17 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - Pearl has 11 HP
 - Baldric has 15
 - Aishi has 10
+
+### At the Workcamp (June 08)
+- Camp full of laborers and a roadhouse
+- Half Orc (Bogluck > Camp superindendent)
+- Signing up as guards
+- room in which treasure is being taken
+- 1 gold a week per person, lodging and rations covered
+- Baldric picks a fight with a cultist (Lady Comeupins) - wins
+- 1 gold from fight
+- enter warehouse. 5 snakemen
+- kill 8 lizard men
+- 53 gold
+- Path into "mere of dead men"
+- 500 xp per person
