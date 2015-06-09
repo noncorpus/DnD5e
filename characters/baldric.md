@@ -7,7 +7,7 @@
 * **Background**: Acolyte
 * **Alignment**: Neutral Good
 * **Player Name**: Matt
-* **Experience Points**: 4,500 / 6,500
+* **Experience Points**: 5,000 / 6,500
 
 Str  | Dex  | Con  | Int  | *Wis  | *Cha
 --:  | --:  | --:  | --:  | --:  | --:
