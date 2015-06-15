@@ -86,7 +86,7 @@ Small Dagger   |    +3     | 1d4+4(p) |   20/60 | Finesse, Light
   1 | Flask, Holy Water
   1 | Flasks, Oil
   2 | Pouches
-50' | Hempen Roap
+50' | Hempen Rope
   2 | Sacks
   1 | Bar of Soap
   2 | Tinderbox
