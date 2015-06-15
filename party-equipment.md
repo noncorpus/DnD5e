@@ -4,9 +4,10 @@
 --: | ---------
 10  | Healing Potions
 4   | Major Healing Potions (2 D8 +4)
-298 | Gold
+361 | Gold
 2   | Monocles of Featherfall - once a day
 1   | Nosestud of flight (10 min) - once a day
+1   | Broach   
 1   | Long Bow with Hair of Unicorns Tail +1 (Baldric)
 1   | Spy Glass, Small Mirror (Ashi)
 1   | Justice Ring - Baldric - Close in on humans who could be committing a crime
