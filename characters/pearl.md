@@ -54,6 +54,8 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
   * When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
   * Speed increases by 10ft
 * **Favored Enemy**. Dragons
+* - Advantage on Wisdom (Survival) to track enemies and Intelligence to remember things about them
+* - learn one language (draconic)
 * **Natural Explorer**. Forest
 * - Double profeciency bonus Intelligence and Wisdom and favored terrain 
 * - difficult terrain doesnt slow our party 
@@ -62,7 +64,6 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 * - when traveling alone, more stealthy
 * - forage twice as much food 
 * - when tracking other creatures, you can know their exact numbers, sizes and how long ago
-* 
 * **Wanderer**. Excellent memory of maps and geography. Can always recall general layout of terrain, settlements and other features nearby. Can find food and water for self and five others daily. (p.136)
 * **Primeval Awareness**. Can use action and one spell slot to detect presence of abberations, celestials, dragons, elementals, fey, fiends and undead.
 * **Two-Weapon Fighting**. When you engage in two-weapon fighting, you can add ability modifier to the damage of the second attack.
