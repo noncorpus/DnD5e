@@ -225,3 +225,14 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - 53 gold
 - Path into "mere of dead men"
 - 500 xp per person
+
+### Mere of Dead Men (June 15)
+- we come to a camp
+- kick down lean-tos (all empty)
+- 63 gold coins
+- broach 
+- no movement in the water
+- stone platform (dry wood)
+- we come to a river (one side has a ruined castle, the other has a field of melted skulls)
+- lose baldric
+- 9 lizardmen (450 each EXP)
