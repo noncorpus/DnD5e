@@ -24,6 +24,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 * Common
 * Aarakocra
 * Auran
+* Draconic
 
 ### Skills
 
