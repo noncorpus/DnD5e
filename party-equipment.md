@@ -16,8 +16,8 @@
 
 Pizza:
 - Matt
-- Evan <----
-- Sam
+- Evan 
+- Sam <----
 - Joanne
 
 Coupon: CARDSWIN
