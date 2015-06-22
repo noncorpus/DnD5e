@@ -105,7 +105,7 @@ Spell Name (page)             | Time     | Range | Duration | Components        
 ------------------            | -------: | ----: | -------: | ----------        | ------
 Goodberry                     | 1 action | touch | Instant  | V,S,M (mistletoe) | Heal 1 (Create 10 Goodberries)
 Fog Cloud                     | 1 action |  120' |  1 hour  | V,S               | Create 20' radius fog
-Hunter's Mark                 | 1 bonuon |   90' |  1 hour  | V                 | Choose a creature. Deal 1d6 extra damageper hit. Adv on Perception and Survival checks against it. If target dies, can switch to another as a bonus action.
+Hunter's Mark                 | 1 bonus |   90' |  1 hour  | V                 | Choose a creature. Deal 1d6 extra damageper hit. Adv on Perception and Survival checks against it. If target dies, can switch to another as a bonus action.
 
 ## Background
 
