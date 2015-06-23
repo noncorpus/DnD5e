@@ -236,3 +236,15 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - we come to a river (one side has a ruined castle, the other has a field of melted skulls)
 - lose baldric
 - 9 lizardmen (450 each EXP)
+
+###The Keep (June 22)
+- set fire to some bollywog huts
+- sneak into Observatory in Keep
+- Farseer of Illisk (telescope) for heavenly bodies and used for seeing things near, 50 miles
+- we see two identical black dragons
+- enter a smaller chamber 
+- We take the notes from the desk
+- Find sleeping man
+- He teleports out
+- 4 gargoyles (52)
+- 1 gargoyle left
