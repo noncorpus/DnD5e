@@ -2,7 +2,7 @@
 
 \#  | Item
 --: | ---------
-9  | Healing Potions
+8  | Healing Potions
 3   | Major Healing Potions (2 D8 +4)
 361 | Gold
 2   | Monocles of Featherfall - once a day
