@@ -2,23 +2,23 @@
 
 ## Stats and Specs
 
-* **Class & Level**: Level 4 Monk
+* **Class & Level**: Level 5 Monk
 * **Race**: Aarakocra
 * **Background**: Criminal (Smuggler)
 * **Alignment**: Chaotic Good
 * **Player Name**: Evan
-* **Experience Points**: 6500 / 6500
+* **Experience Points**: 6,500 / 14,000
 
 
      | Str* | Dex* | Con  | Int  | Wis  | Cha
 ---  | --:  | --:  | --:  | --:  | --:  | --:
 Raw  |  10  |  20  |  16  |  9   |  18  |  14
 Mod  |  +0  |  +5  |  +3  |  -1  |  +4  |  +2 
-Save |  +2  |  +7  |  +3  |  -1  |  +4  |  +2
+Save |  +3  |  +8  |  +3  |  -1  |  +4  |  +2
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki
 ----------: | --: | ---------: | ----: | -----: | -------: | ---:
-         2  |  19 |         +5 | 45/70 |     42 | 4d8      | 4
+         3  |  19 |         +5 | 45/70 |     51 | 5d8      | 5
 
 ### Languages
 
@@ -30,11 +30,11 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki
 
 ✓  | Skill           | Ability | Modifier
 ---| --------------- | ------- | -------:
-✓  | Acrobatics      | Dex     | +7
+✓  | Acrobatics      | Dex     | +8
    | Animal Handling | Wis     | +4
    | Arcana          | Int     | -1
-✓  | Athletics       | Str     | +2
-✓  | Deception       | Cha     | +4
+✓  | Athletics       | Str     | +3
+✓  | Deception       | Cha     | +5
    | History         | Int     | -1
    | Insight         | Wis     | +4
    | Intimidation    | Cha     | +2
@@ -46,7 +46,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki
    | Persuasion      | Cha     | +2
    | Religion        | Int     | -1
    | Sleight of Hand | Dex     | +5
-✓  | Stealth         | Dex     | +7
+✓  | Stealth         | Dex     | +8
    | Survival        | Wis     | +4
 
 ### Features and Traits
@@ -61,6 +61,8 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki
 * **Slow Fall**. Reduce falling damage by five times monk level.
 * **Monastic Tradition: Way of Shadow**
   * **Shadow Arts**. Learn _minor illusion_ cantrip. Can spend 2 ki to cast _darkness_, _darkvision_, _pass without trace_ or _silence_.
+* **Extra Attack**. You can attack twice, instead of once, whenever you take the Attack action on your turn.
+* **Stunning Strike**. When you hit with a melee weapon attack, can spend 1 ki point to attempt a stunning strike. Target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
 
 ### Proficiencies
 
@@ -73,11 +75,11 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki
 ## Attacks
 Weapon           | Atk Bonus | Damage    | Range   | Properties
 ------           | :-------: | -----:    | :---:   | ----------
-Spear            |    +7     | d6 + 5(p) | 20/60   | Versatile (1d8), Thrown (range 20/60)
-Short Sword      |    +7     | d6 + 5(p) | -       | Finesse, Light
-Talons (unarmed) |    +7     | d4 + 5(s) | -       | 
-Shortbow         |    +7     | d6 + 5(p) | 80/160  | Ammunition, Two-Handed
-Dart             |    +7     | d4 + 5(p) | 20/60   | Finesse, Thrown
+Spear            |    +8     | d6 + 5(p) | 20/60   | Versatile (1d8), Thrown (range 20/60)
+Short Sword      |    +8     | d6 + 5(p) | -       | Finesse, Light
+Talons (unarmed) |    +8     | d4 + 5(s) | -       | 
+Shortbow         |    +8     | d6 + 5(p) | 80/160  | Ammunition, Two-Handed
+Dart             |    +8     | d4 + 5(p) | 20/60   | Finesse, Thrown
 
 ## Monk Abilities
 
