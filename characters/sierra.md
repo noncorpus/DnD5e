@@ -104,9 +104,9 @@ Small Dagger   |    +8     | 1d4+4(p) |   20/60 | Finesse, Light
 
 ## Background
 
-Age | Height | Weight   | Eyes   | Skin | Hair
---: | -----: | ------:  | ----   | ---- | ----
-28  | 6'3"   | 280 lbs  | Blue   | Fair | Short, Straight, Black
+Age | Height | Weight   | Eyes   | Feathers
+--: | -----: | ------:  | ----   | ---------
+13  | 5'3"   | 95 lbs   | Blacke | Black
 
 * **Personality Traits**. Cautious, decisive.
 * **Ideals**. Chance favors the prepared mind.
