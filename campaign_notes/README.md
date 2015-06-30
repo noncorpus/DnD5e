@@ -248,3 +248,12 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - He teleports out
 - 4 gargoyles (52)
 - 1 gargoyle left
+
+###The Keep Part 2 (June 29)
+- Castle is on alert
+- Only one gargoyle on farseer
+- 100 cultists (mostly humans) some elfs, halflings
+- Boats with lizard folk coming from where baldric died along southwall
+- Fly down to tower - room of desks - writing implements, copper - three corpses in the middle of the room
+- 3 Cultists, 1 gargoyle
+- will minor illusion half elf/silence next time
