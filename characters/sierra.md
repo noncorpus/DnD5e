@@ -27,10 +27,12 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 ### Skills
 
-* (+5) Athletics
+(\*=proficiency, \*\*=expertise)
+
+* (+5) Athletics*
 * (+5) Acrobatics
-* (+8) Sleight of Hand
-* (+11) Stealth
+* (+8) Sleight of Hand*
+* (+11) Stealth**
 * (+1) Arcana
 * (+1) History
 * (+1) Investigation
@@ -39,10 +41,10 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 * (+2) Animal Handling
 * (+2) Insight
 * (+2) Medicine
-* (+8) Perception
+* (+8) Perception**
 * (+2) Survival
-* (+6) Deception
-* (+6) Intimidation
+* (+6) Deception*
+* (+6) Intimidation*
 * (+3) Performance
 * (+3) Persuasion
 
