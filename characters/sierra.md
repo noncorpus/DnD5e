@@ -23,7 +23,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 * Common
 * Elvish
 * Draconic
-* Dwarvish
+* Auran
 
 ### Skills
 
