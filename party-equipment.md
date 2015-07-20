@@ -8,7 +8,6 @@
 80  | Platnium (x10)
 22  | Gems (5x35, 6x45, 6x55, 4x65, 1x80)
 2   | Monocles of Featherfall - once a day
-1   | Nosestud of flight (10 min) - once a day
 1   | Broach   
 1   | Long Bow with Hair of Unicorns Tail +1 (Pearl)
 1   | Spy Glass, Small Mirror (Ashi)
