@@ -5,6 +5,8 @@
 8  | Healing Potions
 1   | Major Healing Potions (2 D8 +4)
 375 | Gold
+80  | Platnium (x10)
+22  | Gems (5x35, 6x45, 6x55, 4x65, 1x80)
 2   | Monocles of Featherfall - once a day
 1   | Nosestud of flight (10 min) - once a day
 1   | Broach   
@@ -15,8 +17,8 @@
 1   | Gravity Net - Pearl - Increases DC and AC (gargantuan has to deal 50) 10 – break it 5Xstrength mod, takes 5 minutes per. (restrained) speed 0.  disadvantage on their attacks and dex saves. we have advantage on attacks. damage dealt to restore from being broken
 
 Pizza:
-- Matt <----
-- Evan 
+- Matt 
+- Evan <----
 - Sam 
 - Joanne 
 
