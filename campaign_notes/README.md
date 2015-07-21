@@ -262,3 +262,12 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - Guard Drakes in room where crates are coming from
 - 3 attack drakes
 - 13 giant frog
+- 1 bolliwog
+- teleportation circle > far to the north.
+- take treasure every day
+- take crane to the misty room where they use the teleporation circle 
+- 90 bolliwogs
+- 40 cultists
+- 30 lizard folks
+- 1 elf
+- 1 half dragon
