@@ -7,6 +7,7 @@
 375 | Gold
 80  | Platnium (x10)
 22  | Gems (5x35, 6x45, 6x55, 4x65, 1x80)
+1   | Mystery vial 
 2   | Monocles of Featherfall - once a day
 1   | Broach   
 1   | Long Bow with Hair of Unicorns Tail +1 (Pearl)
