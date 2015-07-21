@@ -257,3 +257,8 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - Fly down to tower - room of desks - writing implements, copper - three corpses in the middle of the room
 - 3 Cultists, 1 gargoyle
 - will minor illusion half elf/silence next time
+
+###The Keep Part 3 (July 20)
+- Guard Drakes in room where crates are coming from
+- 3 attack drakes
+- 13 giant frog
