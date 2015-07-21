@@ -2,7 +2,7 @@
 
 ## Stats and Specs
 
-* **Class & Level**: Level 4 Ranger
+* **Class & Level**: Level 5 Ranger
 * **Race**: Aarakocra
 * **Background**: Outlander (p. 136)
 * **Alignment**: Chaotic Neutral
@@ -17,7 +17,7 @@ Save | +2  |  +7  |  +3  |  +1  |  +3  |  +3
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-         2  |  17 |         +5 | 35/60 |     40 | 4d10    
+         3  |  18 |         +5 | 35/60 |     40 | 4d10    
 
 ### Languages
 
@@ -79,9 +79,9 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
-Short Sword    |    +7     | 1d6 + 5(s) | -       | Light, finesse
-Talons         |    +7     | 1d4 + 5(s) | -       | Light, Finesse
-Longbow (+1)   |    +7     | 1d8 + 2(p) | 150/600 | Ammunition, Heavy, Two-Handed
+Short Sword    |    +8     | 1d6 + 5(s) | -       | Light, finesse
+Talons         |    +8     | 1d4 + 5(s) | -       | Light, Finesse
+Longbow        |    +8     | 1d8 + 5(p) | 150/600 | Ammunition, Heavy, Two-Handed
 Gravity Net    | Increases DC and AC (gargantuan has to deal 50) 10 – break it 5Xstrength mod, takes 5 minutes per damage dealt to restore from being broken
 
 ## Equipment
@@ -104,8 +104,9 @@ Gravity Net    | Increases DC and AC (gargantuan has to deal 50) 10 – break it
 Spell Name (page)             | Time     | Range | Duration | Components        | Effect
 ------------------            | -------: | ----: | -------: | ----------        | ------
 Goodberry                     | 1 action | touch | Instant  | V,S,M (mistletoe) | Heal 1 (Create 10 Goodberries)
-Fog Cloud                     | 1 action |  120' |  1 hour  | V,S               | Create 20' radius fog
-Hunter's Mark                 | 1 bonus |   90' |  1 hour  | V                 | Choose a creature. Deal 1d6 extra damageper hit. Adv on Perception and Survival checks against it. If target dies, can switch to another as a bonus action.
+Spike Growth                  | 1 action |  150' |  10 min  | V,S, M            | 2d4 damage for every 5 ft
+Ensnaring Strike              | 1 bonus  |  self |  1 min   | V                 | 1d6 damage, strength 
+Hunter's Mark                 | 1 bonus  |   90' |  1 hour  | V                 | Choose a creature. Deal 1d6 extra damageper hit. Adv on Perception and Survival checks against it. If target dies, can switch to another as a bonus action.
 
 ## Background
 
