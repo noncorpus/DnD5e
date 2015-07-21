@@ -7,7 +7,7 @@
 * **Background**: Criminal (Smuggler)
 * **Alignment**: Chaotic Good
 * **Player Name**: Evan
-* **Experience Points**: 6,500 / 14,000
+* **Experience Points**: 7,200 / 14,000
 
 
      | Str* | Dex* | Con  | Int  | Wis  | Cha
