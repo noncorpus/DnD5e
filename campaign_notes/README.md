@@ -271,3 +271,6 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - 30 lizard folks
 - 1 elf
 - 1 half dragon
+- flarbex splattergoo
+- get the word, destroy the cultists, they can have the castle back.
+- leave us to the sanctum in the back
