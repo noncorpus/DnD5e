@@ -10,7 +10,7 @@
 1   | Mystery vial 
 2   | Monocles of Featherfall - once a day
 1   | Broach   
-1   | Long Bow with Hair of Unicorns Tail +1 (Pearl)
+1   | Long Bow with Hair of Unicorns Tail +1 (Sierra)
 1   | Spy Glass, Small Mirror (Ashi)
 1   | Ring of Pimphand Strong - Sierra - Mage Hand
 1   | Reliable Dice - Ashi - Roll D6 (select a Dice) add or subtract to another roll 
