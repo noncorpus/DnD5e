@@ -19,8 +19,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
          3  |  18 |         +5 | 35/60 |     40 | 4d10    
 
-Level 1 Spell Slots - 4
-Level 2 Spell Slots - 2
+Level 1 Spell Slots - 4, Level 2 Spell Slots - 2
 
 ### Languages
 
