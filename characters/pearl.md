@@ -145,7 +145,7 @@ Save | --  |  --  |  --  |  --  |  --  |  --
 
 Proficiency | AC  | Initiative | Speed    | Max HP | Hit Dice
 ----------: | --: | ---------: | ----:    | -----: | -------:
-         2  |  14 |         +5 | 30/60/30 |     16 | -------:  
+         3  |  14 |         +5 | 30/60/30 |     20 | -------:  
 
 Flyby. The snake doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
 
