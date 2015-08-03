@@ -5,6 +5,7 @@
 8  | Healing Potions
 1   | Major Healing Potions (2 D8 +4)
 375 | Gold
+900 | GP worth of mirrors, broaches, jewelry
 80  | Platnium (x10)
 22  | Gems (5x35, 6x45, 6x55, 4x65, 1x80)
 1   | Mystery vial 
