@@ -274,3 +274,18 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - flarbex splattergoo
 - get the word, destroy the cultists, they can have the castle back.
 - leave us to the sanctum in the back
+
+###The Keep Part 4 (August 3) 
+- Chest of treasure. 
+- Set up traps in sanctum
+- Examining room with mist
+- Runes in a circle blue light
+- We hid in the shadows. We hear ribbits and hissing. 
+- Large retinu (2 dozen cultists and lizard men)
+- 2 dragon wings, 2 lizard, stablized elf, spiked area
+- "Drazier" magic word
+- Teleporter goes to the mountain 
+- Goes to house of guards
+- Tundra. Mountains in the distance. 
+- Short Rest
+- 38. Level 1 Spell: 4.
