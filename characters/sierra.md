@@ -7,7 +7,7 @@
 * **Background**: Soldier
 * **Alignment**: Neutral Good
 * **Player Name**: Matt
-* **Experience Points**: 6,500 / 6,500
+* **Experience Points**: 8,200 / 14,000
 
 Str  | Dex* | Con  | Int* | Wis  | Cha
 --:  | --:  | --:  | --:  | --:  | --:
