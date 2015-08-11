@@ -289,7 +289,7 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - Tundra. Mountains in the distance. 
 - Short Rest
 
-### Cold Mountains to the North (August 10) 
+### Lodge at Cold Mountains to the North (August 10) 
 - left castle naratar and meer of dead men
 - spy glass we see we a wisp of smoke
 - we also see a path (we see wheel tracks and footprints. not that covered)
@@ -305,5 +305,5 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - assisted by Jin'kens (god of theivery 
 - scroll IOU
 - chain mail
-- 1000 pieces of gold
-
+- 1000 pieces of golda
+- 4 cobalts, ambush drakes, 2 gargoyles, floating suit of armor and gorro. 
