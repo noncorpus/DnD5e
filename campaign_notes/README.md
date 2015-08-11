@@ -306,4 +306,4 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - scroll IOU
 - chain mail
 - 1000 pieces of golda
-- 4 cobalts, ambush drakes, 2 gargoyles, floating suit of armor and gorro. 
+- 4 cobalts, ambush drakes, 2 gargoyles, floating suit of armor and gorro going towards kennel 
