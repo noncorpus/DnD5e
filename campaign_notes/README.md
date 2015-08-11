@@ -288,4 +288,22 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - Goes to house of guards
 - Tundra. Mountains in the distance. 
 - Short Rest
-- 38. Level 1 Spell: 4.
+
+### Cold Mountains to the North (August 10) 
+- left castle naratar and meer of dead men
+- spy glass we see we a wisp of smoke
+- we also see a path (we see wheel tracks and footprints. not that covered)
+- 10 cultists. footprints something like a minor giant, troll-ish 2
+- we see a patrol around the hunting lodge (3 ambush drakes)
+- we see two other buildings (kennel?, stable?)
+- they check in at the kennel and there's something large and green inside the hunting lodge. 
+- 3 attack drakes and 2 trolls
+- approaching kennel and stable
+- 6 Ambush drakes 1 Trespin Troll
+- Stable has a well. stone stables are large
+- half elf  
+- assisted by Jin'kens (god of theivery 
+- scroll IOU
+- chain mail
+- 1000 pieces of gold
+
