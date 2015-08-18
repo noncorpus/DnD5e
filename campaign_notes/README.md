@@ -307,3 +307,16 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - chain mail
 - 1000 pieces of golda
 - 4 cobalts, ambush drakes, 2 gargoyles, floating suit of armor and gorro going towards kennel 
+-Scroll of scorching ray
+
+### Lodge at Cold Mountains to the North - in Room (August 17)
+- Woman in lodge wants us to kill someone in the Cult for her benefit 
+- Destroy treasure over mountain pass village (Lana - Talis)
+- Castle passphrase: Tiamet our mother and strength
+- Very small village, tavern, assembly hall
+- Village edge of the cliff (indistinct shadows off cliff)
+- we see a massive castle in the fog
+- stopped by man in purple armor
+- surrounded by 11 
+- Wyverns...grawr. pain. tears. much sadness.
+- We long rest. thank you GM. 
