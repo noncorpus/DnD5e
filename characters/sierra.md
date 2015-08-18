@@ -16,7 +16,7 @@ Str  | Dex* | Con  | Int* | Wis  | Cha
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-          3 |  17 |          8 |    50 |     46 |   5d10+2
+          3 |  17 |          8 |    50 |     52 |    6d8+2
 
 ### Languages
 
@@ -43,8 +43,8 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 * (+2) Medicine
 * (+8) Perception**
 * (+2) Survival
-* (+6) Deception*
-* (+6) Intimidation*
+* (+9) Deception**
+* (+9) Intimidation**
 * (+3) Performance
 * (+3) Persuasion
 
@@ -67,7 +67,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 Weapon         | Atk Bonus | Damage   | Range   | Properties
 ------         | :-------: | -------: | ------: | ----------
 2 Shortswords  |    +8     | 1d6+5(p) |     n/a | Finesse
-Long Bow +1    |    +9     | 1d8+2(p) | 150/600 | Ammunition, two-handed
+Long Bow +1    |    +9     | 1d8+6(p) | 150/600 | Ammunition, two-handed
 Small Dagger   |    +8     | 1d4+4(p) |   20/60 | Finesse, Light
 
 ## Equipment
@@ -87,9 +87,8 @@ Small Dagger   |    +8     | 1d4+4(p) |   20/60 | Finesse, Light
   1 | Blanket
   3 | Candles
   3 | Chalk
-  1 | Flasks, Empty
+  3 | Flasks, Empty
   1 | Flask, Holy Water
-  1 | Flasks, Oil
   2 | Pouches
 50' | Hempen Rope
   2 | Sacks
