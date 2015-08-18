@@ -5,7 +5,7 @@
 * **Class & Level**: Rogue 6 (Swashbuckler)
 * **Race**: Aarakocra
 * **Background**: Soldier
-* **Alignment**: Neutral Good
+* **Alignment**: Neutral
 * **Player Name**: Matt
 * **Experience Points**: 20,000 / 23,000
 
