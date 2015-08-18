@@ -2,12 +2,12 @@
 
 ## Stats and Specs
 
-* **Class & Level**: Rogue 5 (Swashbuckler)
+* **Class & Level**: Rogue 6 (Swashbuckler)
 * **Race**: Aarakocra
 * **Background**: Soldier
 * **Alignment**: Neutral Good
 * **Player Name**: Matt
-* **Experience Points**: 9,500 / 14,000
+* **Experience Points**: 20,000 / 23,000
 
 Str  | Dex* | Con  | Int* | Wis  | Cha
 --:  | --:  | --:  | --:  | --:  | --:
