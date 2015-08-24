@@ -17,7 +17,7 @@ Save | +2  |  +7  |  +3  |  +1  |  +3  |  +3
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-         3  |  18 |         +5 | 35/60 |     40 | 4d10    
+         3  |  18 |         +5 | 35/60 |     46 | 4d10    
 
 Level 1 Spell Slots - 4, Level 2 Spell Slots - 2
 
@@ -56,10 +56,10 @@ Level 1 Spell Slots - 4, Level 2 Spell Slots - 2
 * **Mobile** feat. 
   * When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
   * Speed increases by 10ft
-* **Favored Enemy**. Dragons
+* **Favored Enemy**. Dragons, Humanoid
 * - Advantage on Wisdom (Survival) to track enemies and Intelligence to remember things about them
 * - learn one language (draconic)
-* **Natural Explorer**. Forest
+* **Natural Explorer**. Forest, Air
 * - Double profeciency bonus Intelligence and Wisdom and favored terrain 
 * - difficult terrain doesnt slow our party 
 * - cannot be lost
