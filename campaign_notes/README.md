@@ -310,7 +310,7 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 -Scroll of scorching ray
 
 ### Lodge at Cold Mountains to the North - in Room (August 17)
-- Woman in lodge wants us to kill someone in the Cult for her benefit 
+- Woman in lodge wants us to kill someone in the Cult for her benefit - wearer of purple
 - Destroy treasure over mountain pass village (Lana - Talis)
 - Castle passphrase: Tiamet our mother and strength
 - Very small village, tavern, assembly hall
@@ -320,3 +320,18 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - surrounded by 11 
 - Wyverns...grawr. pain. tears. much sadness.
 - We long rest. thank you GM. 
+
+### Flying Sky Castle (August 24)
+- Following Sky Castle after long rest
+- 3.5 hours (60 feet ahead of Pearl...mishapen cloud)
+- crumbling bridge and two golems
+- speak the password in dragonic so we can speak to the "worm speaker"
+- they lift the gate for us steel portcullis in the castle of ice
+- two ogres in each tower (balistas)
+- vampire guard
+- two blackmask guards
+- worm speakers door has two giants reigning over a castle
+- killed 4 blackmasks
+- half black dragon, two guard drakes, treasure chest, magical insignia, magical rune on fireplace
+- 2 Attack Drakes, Rug, death of the worm speaker
+- 
