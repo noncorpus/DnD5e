@@ -3,7 +3,6 @@
 \#  | Item
 --: | ---------
 8  | Healing Potions
-1   | Major Healing Potions (2 D8 +4)
 1375| Gold
 900 | GP worth of mirrors, broaches, jewelry
 700 | Treasure 
