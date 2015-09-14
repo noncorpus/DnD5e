@@ -22,9 +22,9 @@ Pan, frog legs, vul meat
 
 Pizza:
 - Matt 
-- Evan 
+- Evan <----
 - Sam  
-- Joanne <----
+- Joanne 
 
 Coupon: CARDSWIN
 
