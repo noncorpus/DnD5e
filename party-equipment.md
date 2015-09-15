@@ -12,6 +12,7 @@
 1   | Mystery vial (bubbly blue liquid)
 2   | Monocles of Featherfall - once a day
 1   | Broach   
+1   | Scroll of Mage Armor
 1   | Long Bow with Hair of Unicorns Tail +1 (Sierra)
 1   | Spy Glass, Small Mirror (Ashi)
 1   | Ring of Pimphand Strong - Sierra - Mage Hand
