@@ -72,6 +72,7 @@ Level 1 Spell Slots - 4, Level 2 Spell Slots - 2
 * **Two-Weapon Fighting**. When you engage in two-weapon fighting, you can add ability modifier to the damage of the second attack.
 * **Ranger Archetype: Hunter**.
   * **Colossus Slayer**. Once per turn, when you hit a creature with a weapon attack, add 1d8 extra damage.
+  * **Multiattack Defense**. When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn. 
 
 ### Proficiencies
 
