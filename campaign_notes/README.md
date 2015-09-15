@@ -334,4 +334,16 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - killed 4 blackmasks
 - half black dragon, two guard drakes, treasure chest, magical insignia, magical rune on fireplace
 - 2 Attack Drakes, Rug, death of the worm speaker
-- 
+
+### Flying Sky Castle (September 14)
+- Death of resmir, the half black dragon
+- Keys
+- 2 mages. 4 statues. horse skull cieling. covered in books. desks and chairs
+- Letters rath modar (other one was azbarah)
+- another person named Severin (red wizards of they and the dragon cult)
+- Iron book - burning runes
+- take letters
+- go into a giant room
+- 3 ogres in the spire
+- 1150 EXP
+
