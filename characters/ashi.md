@@ -2,12 +2,12 @@
 
 ## Stats and Specs
 
-* **Class & Level**: Level 6 Monk
+* **Class & Level**: Level 7 Monk
 * **Race**: Aarakocra
 * **Background**: Criminal (Smuggler)
 * **Alignment**: Chaotic Good
 * **Player Name**: Evan
-* **Experience Points**: 22,320 / 23,000
+* **Experience Points**: 23,470 / 23,000
 
 
      | Str* | Dex* | Con  | Int  | Wis  | Cha
