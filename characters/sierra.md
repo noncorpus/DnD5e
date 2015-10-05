@@ -16,7 +16,7 @@ Str  | Dex* | Con  | Int* | Wis  | Cha
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-          3 |  17 |          8 |    50 |     52 |    6d8+2
+          3 |  17 |          8 |    50 |     61 |    7d8+2
 
 ### Languages
 
@@ -50,9 +50,10 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 ### Features, Traits, & Feats
 
-* Sneak Attack +3d6
+* Sneak Attack +4d6
 * Running Action (free Dash, Withdraw, or Hide)
 * Uncanny Dodge
+* Evasion
 
 ### Proficiencies
 
