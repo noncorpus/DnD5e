@@ -347,3 +347,13 @@ Jana Greensliver - Female gnome - leather armor and two daggers- surly
 - 3 ogres in the spire
 - 1150 EXP
 
+### Flying Sky Castle (October 5)
+- Enter tower
+- Room of ice with portraits of giants riding giant birds
+- Negotiating with cloud giant Blagothcus (to destroy Treasure)
+- Blagothcus heads to treasure room with 6 ogres
+- Castle shifts directions (now is going directly north)
+- Dozens of cultists in the courtyard
+- fighting white dragon
+- shatter flying tower
+- 
