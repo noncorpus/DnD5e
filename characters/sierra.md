@@ -2,12 +2,12 @@
 
 ## Stats and Specs
 
-* **Class & Level**: Rogue 7 (Swashbuckler)
+* **Class & Level**: Rogue 8 (Swashbuckler)
 * **Race**: Aarakocra
 * **Background**: Soldier
 * **Alignment**: Neutral
 * **Player Name**: Matt
-* **Experience Points**: 23,470 / 23,000
+* **Experience Points**: 34,000 / 34,000
 
 Str  | Dex* | Con  | Int* | Wis  | Cha
 --:  | --:  | --:  | --:  | --:  | --:
@@ -16,7 +16,7 @@ Str  | Dex* | Con  | Int* | Wis  | Cha
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-          3 |  17 |          8 |    50 |     61 |    7d8+2
+          3 |  17 |          8 |    50 |     67 |    7d8+2
 
 ### Languages
 
