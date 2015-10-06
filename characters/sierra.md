@@ -16,7 +16,7 @@ Str  | Dex* | Con  | Int* | Wis  | Cha
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-          3 |  17 |          8 |    50 |     67 |    7d8+2
+          4 |  17 |          8 |    50 |     67 |    7d8+2
 
 ### Languages
 
@@ -29,10 +29,10 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 (\*=proficiency, \*\*=expertise)
 
-* (+5) Athletics*
+* (+6) Athletics*
 * (+5) Acrobatics
-* (+8) Sleight of Hand*
-* (+11) Stealth**
+* (+9) Sleight of Hand*
+* (+13) Stealth**
 * (+1) Arcana
 * (+1) History
 * (+1) Investigation
@@ -41,10 +41,10 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 * (+2) Animal Handling
 * (+2) Insight
 * (+2) Medicine
-* (+8) Perception**
+* (+10) Perception**
 * (+2) Survival
-* (+9) Deception**
-* (+9) Intimidation**
+* (+11) Deception**
+* (+11) Intimidation**
 * (+3) Performance
 * (+3) Persuasion
 
@@ -67,9 +67,9 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ## Attacks
 Weapon         | Atk Bonus | Damage   | Range   | Properties
 ------         | :-------: | -------: | ------: | ----------
-2 Shortswords  |    +8     | 1d6+5(p) |     n/a | Finesse
-Long Bow +1    |    +9     | 1d8+6(p) | 150/600 | Ammunition, two-handed
-Small Dagger   |    +8     | 1d4+4(p) |   20/60 | Finesse, Light
+2 Shortswords  |     +9    | 1d6+5(p) |     n/a | Finesse
+Long Bow +1    |    +10    | 1d8+6(p) | 150/600 | Ammunition, two-handed
+Small Dagger   |     +9    | 1d4+4(p) |   20/60 | Finesse, Light
 
 ## Equipment
 
