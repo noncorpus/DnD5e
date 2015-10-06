@@ -14,7 +14,7 @@
 1   | Broach   
 1   | Scroll of Mage Armor
 1   | Long Bow with Hair of Unicorns Tail +1 (Sierra)
-1   | Spy Glass, Small Mirror (Ashi)
+1   | Spy Glass, Small Mirror 
 1   | Ring of Pimphand Strong - Sierra - Mage Hand
 1   | Reliable Dice - Ashi - Roll D6 (select a Dice) add or subtract to another roll 
 1   | Gravity Net - Pearl - Increases DC and AC (gargantuan has to deal 50) 10 – break it 5Xstrength mod, takes 5 minutes per. (res trained) speed 0.  disadvantage on their attacks and dex saves. we have advantage on attacks. damage dealt to restore from being broken
