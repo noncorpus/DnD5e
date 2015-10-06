@@ -2,12 +2,12 @@
 
 ## Stats and Specs
 
-* **Class & Level**: Level 7 Ranger
+* **Class & Level**: Level 8 Ranger
 * **Race**: Aarakocra
 * **Background**: Outlander (p. 136)
 * **Alignment**: Chaotic Neutral
 * **Player Name**: Joanne
-* **Experience Points**: 23,470 /34,000
+* **Experience Points**: 34,000 /34,000
 
      | Str | Dex  | Con  | Int  | Wis  | Cha
 ---  | --: | --:  | --:  | --:  | --:  | --:
