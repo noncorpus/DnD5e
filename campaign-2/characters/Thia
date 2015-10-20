@@ -4,7 +4,7 @@
 
 * **Class & Level**: Level 3 Rogue Assassin 
 * **Race**: Elf
-* **Background**: Criminal (p. 129)
+* **Background**: Charlatan (p. 128)
 * **Alignment**: Chaotic Neutral
 * **Player Name**: Joanne
 * **Experience Points**: 900 /2700
@@ -39,78 +39,67 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ✓ | Investigation   | Int     | +1
   | Medicine        | Wis     | +0
   | Nature          | Int     | +1
-  | Perception      | Wis     | +0
+✓ | Perception      | Wis     | +2
   | Performance     | Cha     | +1
-  | Persuasion      | Cha     | +1
+✓ | Persuasion      | Cha     | +1
   | Religion        | Int     | +1
-  | Sleight of Hand | Dex     | +3
+✓ | Sleight of Hand | Dex     | +5
 ✓ | Stealth         | Dex     | +5
-   | Survival        | Wis     | +0
+  | Survival        | Wis     | +0
 
 ### Features and Traits
 *Wood Elves are distrusting of non-elves 
 * **Elf Weapon Training** proficiency with longsword, shortsword, shortbow, and longbow.
-* **Mask of the Wild** You can attempt to hide even when you are  
-
-* **Mobile** feat. 
-  * When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
-  * Speed increases by 10ft
-* **Favored Enemy**. Dragons, Humanoid
-* - Advantage on Wisdom (Survival) to track enemies and Intelligence to remember things about them
-* - learn one language (draconic)
-* **Natural Explorer**. Forest, Air
-* - Double profeciency bonus Intelligence and Wisdom and favored terrain 
-* - difficult terrain doesnt slow our party 
-* - cannot be lost
-* - constantly alert
-* - when traveling alone, more stealthy
-* - forage twice as much food 
-* - when tracking other creatures, you can know their exact numbers, sizes and how long ago
-* **Wanderer**. Excellent memory of maps and geography. Can always recall general layout of terrain, settlements and other features nearby. Can find food and water for self and five others daily. (p.136)
-* **Primeval Awareness**. Can use action and one spell slot to detect presence of abberations, celestials, dragons, elementals, fey, fiends and undead.
-* **Two-Weapon Fighting**. When you engage in two-weapon fighting, you can add ability modifier to the damage of the second attack.
-* **Ranger Archetype: Hunter**.
-  * **Colossus Slayer**. Once per turn, when you hit a creature with a weapon attack, add 1d8 extra damage.
-  * **Multiattack Defense**. When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn. 
+* **Mask of the Wild** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist and other natural phenomena. 
+* **Darkvision**
+* **Fey Ancestry** Advantage on saving throws against being charmed and magic can't put me to sleep. 
+* **Trance** 4 hours of trance (aware, but still 'asleep')
+* **Sneak Attack** 1d6 extra if I have advantage on the roll or if there's an enemy within 5 ft of it
+* **Thieves Cant** I understand whether an area is dangerous or the territory of a theives' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for theives on the run.
+* **Cunning Action** Extra bonus action. Dash, Disengage or Hide.  
+* **Assassinate** Advantage on any creature that hasn't taken a turn in combat yet. Every creature that is suprised is a critical hit. 
+* **Alert** +5 Bonus to Initiative, can't be suprised other creatures don't have advantage if I'm suprised 
 
 ### Proficiencies
 
 * Light armor, medium armor, shields
-* Simple weapons, martial Weapons
-* Musical instrument (pan pipes)
+* Simple weapons
+
 
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
-Short Sword    |    +8     | 1d6 + 5(s) | -       | Light, finesse
-Talons         |    +8     | 1d4 + 5(s) | -       | Light, Finesse
-Longbow        |    +8     | 1d8 + 5(p) | 150/600 | Ammunition, Heavy, Two-Handed
+Short Sword    |    +5     | 1d6 + 5(s) | -       | Light, finesse
 
 
 ## Equipment
 \#  | Item
 --: | ---------
-3   | Short Swords
-1   | Longbow
-20  | Arrows
-1   | Studded Leather Armor
-1   | Dungeoneer's Pack
-1   | Hunting Trap
-50ft| Silk Rope
-
-## Spells
-
-### Level 1
+2   | Short Swords
+1   | Leather Armor
+1   | Burglar's Pack
+2   | Dagger
+1   | Thieves Tools
+1   | fine clothes
+1   | disguise kit
+1   | signet ring of an imaginary duke
+15  | GP
 
 ## Background
 
 Age | Height | Weight   | Eyes   | Skin & Hair
 --: | -----: | ------:  | ----   | ------------
-10  | 5'     | 90 lbs   | Blue   | Tan and brown feathers
+200  | 5'4'' | 90 lbs   | Hazel   | Copper & Brown
 
-* **Personality Traits**. Socially awkward and generally confuseed 
-* **Ideals**.
-* **Bonds**.
-* **Flaws**.
+* **Favorite Schemes**.
+- I put on new identities like clothes
+* **Feature: False Identity**.
+- second identity that includes documentation, established acquainteances and disguses.
+- I can forge anything as long as ive seen the document or handwritting 
+
+* **Personality Traits**.  I pocket anything I see that  might have some value
+* **Ideals**. Aspiration - I'm determined to make something of myself 
+* **Bonds**. I fleeced the wrong person and must work to ensure that this individual never crosses paths with me or those I care about. 
+* **Flaws**. I can't resist swindling people who are more powerful than me
 
 ### The Story So Far
 
@@ -123,4 +112,3 @@ Since then, she has led a wandering lifestyle, living in the forest and mountain
 One of her fondest memories of home is the campfire stories of battles against the green dragon who ravaged their settlements. When she heard tales of a dragon cult, Juilin decided to take wing and see if she could learn more. After over a decade alone, this could be a chance to finally meet people and find a place where she belonged.
 
 Besides, there wasn't anything better to do. 
-
