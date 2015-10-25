@@ -1,19 +1,17 @@
 # Nezahualcoyotl [:sound:](https://en.wikipedia.org/wiki/File:Nezahualcoyotl1.ogg)
 
-**Class :: Level** Warlock :: 3rd
-**Race** Half-Elf
-**Background** Noble
-**Alignment** Lawful Neutral
-**Player** Geoff
-
-**Experience Points**
-
+* **Class :: Level** Warlock :: 3rd
+* **Race** Half-Elf
+* **Background** Noble
+* **Alignment** Lawful Neutral
+* **Player** Geoff
+* **Experience Points** 900
 
 
-|Str | Dex  | Con  | Int  | Wis  | Cha
----  | --: | --:  | --:  | --:  | --:  | --:
-Raw  |  9  |  12  |  15  |  12  |  10  |  18
-Save | -1  |  +1  |  +2  |  +1  |  +0  |  +4
+|      |Str  | Dex  | Con  | Int  | Wis  | Cha
+| ---  | --: | --:  | --:  | --:  | --:  | --:
+| Raw  |  9  |  12  |  15  |  12  |  10  |  18
+| Save | -1  |  +1  |  +2  |  +1  |  +0  |  +4
 
 
 
