@@ -27,7 +27,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ### Skills
 
 ✓ | Skill           | Ability | Modifier
---| --------------- | ------- | -------:
+--- | --------------- | ------- | -------:
 ✓ | Acrobatics      | Dex     | +6
   | Animal Handling | Wis     | +0
   | Arcana          | Int     | +0
