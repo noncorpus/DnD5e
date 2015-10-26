@@ -106,6 +106,4 @@ individual never crosses paths with me or those I care about.
 ### The Story So Far
 
 Thia was a happy young elf in the woods of Faerûn when her peaceful village was decieved by neighboring farmers, 
-interested in expanding their land. They were attacked when they were expanding their fields. 
-and she was left an orphan. Desperate to find her way in the world, 
-she turned to the violence she witnessed as a child for survival.  
+interested in expanding their land. They were attacked in the evening after a harvest celebration and she was left an orphan. Desperate to find her way in the world, she turned to the violence she witnessed as a child for survival.  
