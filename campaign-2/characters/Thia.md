@@ -50,7 +50,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 ### Features and Traits
 *Wood Elves are distrusting of non-elves 
-* **Elf Weapon Training** proficiency with longsword, shortsword, shortbow, and longbow.
+* **Elf Weapon Training** proficiency with longsword, shortsword, shortbow, and longbow (+2).
 * **Mask of the Wild** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist and other natural phenomena. 
 * **Darkvision**
 * **Fey Ancestry** Advantage on saving throws against being charmed and magic can't put me to sleep. 
