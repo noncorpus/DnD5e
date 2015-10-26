@@ -26,7 +26,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
-Short Sword    |    +5     | 1d6 + 5(s) | -       | Light, finesse
+Short Sword    |    +3     | 1d6 + 1(s) | -       | Light, finesse
 
 
 ### Skills & Spells
