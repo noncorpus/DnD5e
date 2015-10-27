@@ -5,7 +5,7 @@
 * **Background** Noble
 * **Alignment** Lawful Neutral
 * **Player** Geoff
-* **Experience Points** 900
+* **Experience Points** 1060
 
 
 |      |Str  | Dex  | Con  | Int  | Wis  | Cha
