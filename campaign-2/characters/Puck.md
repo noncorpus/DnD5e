@@ -7,7 +7,7 @@
 * **Background**: Soldier
 * **Alignment**: Chaotic Good
 * **Player Name**: Matt
-* **Experience Points**: 900 /2700
+* **Experience Points**: 1060 /2700
 
      | Str | Dex  | Con  | Int  | Wis  | Cha
 ---  | --: | --:  | --:  | --:  | --:  | --:
