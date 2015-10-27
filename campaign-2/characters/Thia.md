@@ -71,7 +71,7 @@ whether loot is nearby, or whether the people in an area are easy marks or will 
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
 Short Sword    |    +5     | 1d6 + 3(s) | -       | Light, finesse
-
+Cross bow      |    +5     | 1d6 + 3(s) | -       | Light, finesse
 
 ## Equipment
 \#  | Item
