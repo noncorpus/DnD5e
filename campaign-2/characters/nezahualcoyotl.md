@@ -3,7 +3,7 @@
 * **Class :: Level** Warlock :: 3rd
 * **Race** Half-Elf
 * **Background** Noble
-* **Alignment** Lawful Neutral
+* **Alignment** Chaotic Neutral
 * **Player** Geoff
 * **Experience Points** 900
 
@@ -16,20 +16,22 @@
 
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
-----------: | --: | ---------: | ----: | -----: | -------:
-         +2 |  12 |         ?  | 35    |     28 | 3d8
+:----------: | --: | :---------: | ----: | -----: | -------:
+         +2 |  12 |         +1  | 30    |     28 | 3d8
 
 #### Proficiencies
 * Light armor
 * Simple weapons
 
 
-Weapon         | Atk Bonus | Damage     | Range   | Properties
-------         | :-------: | -----:     | :---:   | ----------
-Short Sword    |    +3     | 1d6 + 1(s) | -       | Light, finesse
+Weapon         | Atk Bonus | Damage     | Range | Properties
+------         | :-------: | -----:     | :---: | ----------
+Club		   | +1        | d4	        | -     | Light
+Quarterstaff   | +1     | d6/d8 (2h) | -     | Simple, versatile
+Light Crossbow | +3 | d8 | 80/320 | Loading, 2h
 
 
-### Skills & Spells
+### Skills
  ✓ | Skill           | Attr | Modifier
 ---| --------------- | ---- | :-------:
  | Acrobatics      | Dex  | +1
@@ -51,6 +53,30 @@ Short Sword    |    +3     | 1d6 + 1(s) | -       | Light, finesse
  | Stealth         | Dex  | +1
  | Survival        | Wis  | +0
 
+### Spells
+**Cantrips** 2/5 (+3 from Pact of the Tome)
+**Spells Known** 4
+**Spell Slots** 2
+**Slot Level** 2nd
+**Invocations Known** 2
+
+####Cantrips
+Spell|Effect|Range|Components
+--|---|---|---
+Blade Ward | Resistance v bludgeoning, piercing & slashing |-|vs
+Eldritch Blast|1d10+4* (Agonizing blast*)|120'| vs
+Mage Hand* | Spectral hand can lift 10 lbs | 30'| vs
+Spare the Dying* | Stabilize 0hp | touch | vs
+Shillelagh* | Enhance bludgeon to +6 1d8+4 | touch | vsm
+
+### Spells
+Spell|Effect|Range|Components
+--|---|---|---
+Dissonant Whispers|4d6|Psychic|v
+Crown of Madness|Charm -> Melee| 120'|vs
+Arms of Hadar|3d6|10'|vs
+Hellish Rebuke|3d10|60'|vs
+
 
 **Languages**
 Common, Elvish, Nahuatl
@@ -59,30 +85,38 @@ Common, Elvish, Nahuatl
 * **Patron** Tezcatlipoca ("Smoking Mirror") [see detail](#Tezcatlipoca)
 * **Pact Boon**: ***Pact of The Tome*** :: Amoxchalchiuhtolin
 Tezcatlipoca appeared to Nezahualcoyotl one night at a crossroads in the form of an old man with a missing foot and bestowed the Codex of Chalchiuhtotolin upon his protege. The codez can manifest itself as a smoking mirror of obsidian or as a deer skin or paper book. In all its forms, the glyhs and logograms radiate an eerie light and an energy that has been described as intense, uncomfortable or simply evil.
+	* Mage Hand
+	* Spare the Dying
+	* Shillelagh
 
 * **Awakened Mind** :: Allows telepathic communication at up to 30'
 * **Agonizing Blast** :: Adds Cha bonus to Eldritch Blast
-* **Beguiling Influence** - TODO:
+* **Beguiling Influence** :: Adds Deception and Persuasion skills
 
 
 ## Equipment
 \#  | Item
 --: | ---------
-2   | Short Swords
-1   | Leather Armor
-1   | fine clothes
-1   | disguise kit
-1   | signet ring of an prince
+1   | Quarterstaff
+1   | Light Crossbow
+1	| Leather Armor
+1   | Fine clothes
+1   | Princely sigil
+1   | Codex of Chalchiuhtotolin
 
 ## Background
 
 Age | Height | Weight  | Eyes   | Skin      | Hair
 --: | -----: | ------: | ----   | ----------| ------
-?  | 5'8'' | 150 lbs   | Green   | Pale Grey | Jet black
+32  | 5'8'' | 150 lbs   | Green   | Pale Grey | Jet black
 
 
 ### The Story So Far
 
+### Kill Count
+Bards x 2
+Normal guys x 2
+Skinny guys x 2
 
 
 # Tezcatlipoca
