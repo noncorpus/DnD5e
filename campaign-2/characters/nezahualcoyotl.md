@@ -62,7 +62,7 @@ Light Crossbow | +3 | d8 | 80/320 | Loading, 2h
 
 ####Cantrips
 Spell|Effect|Range|Components
---|---|---|---
+---|---|---|---
 Blade Ward | Resistance v bludgeoning, piercing & slashing |-|vs
 Eldritch Blast|1d10+4* (Agonizing blast*)|120'| vs
 Mage Hand* | Spectral hand can lift 10 lbs | 30'| vs
@@ -71,7 +71,7 @@ Shillelagh* | Enhance bludgeon to +6 1d8+4 | touch | vsm
 
 ### Spells
 Spell|Effect|Range|Components
---|---|---|---
+---|---|---|---
 Dissonant Whispers|4d6|Psychic|v
 Crown of Madness|Charm -> Melee| 120'|vs
 Arms of Hadar|3d6|10'|vs
