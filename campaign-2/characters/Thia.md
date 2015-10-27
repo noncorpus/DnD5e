@@ -7,7 +7,7 @@
 * **Background**: Charlatan (p. 128)
 * **Alignment**: Chaotic Neutral
 * **Player Name**: Joanne
-* **Experience Points**: 900 /2700
+* **Experience Points**: 1060 /2700
 * **Initative**: 3
 
      | Str | Dex  | Con  | Int  | Wis  | Cha
