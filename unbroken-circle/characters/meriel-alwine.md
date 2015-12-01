@@ -75,7 +75,7 @@ Weapon         | Atk Bonus | Damage     | Range   | Properties
 
 Age | Height | Weight  | 
 --: | -----: | ------: | 
-21  | 5' 8" | 130 lbs | 
+47  | 5' 8" | 130 lbs | 
 
 ### Personality Traits
 I always want to know how things work and what makes people tick.
