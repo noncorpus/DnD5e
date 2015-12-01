@@ -27,30 +27,30 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 * Weapons: Simple weapons, shortswords
 * Tools: Smith's Tools (proficency on skill check)
 * Saving throws: Dexterity, Strength
-* Skills: History, Insight
+* Skills: History, Acrobatics, Insight, Persuasion
 
 
 ### Skills & Spells
  ✓ | Skill           | Attr | Modifier
 ---| --------------- | ---- | :-------:
-✓✓| Acrobatics       | Dex  | +7
- | Animal Handling   | Wis  | +1
+✓| Acrobatics        | Dex  | +5
+ | Animal Handling   | Wis  | +3
  | Arcana            | Int  | +0
-✓| Athletics         | Str  | +2
- | Deception         | Cha  | +3
- | History           | Int  | +0
-✓| Insight           | Wis  | +3
- | Intimidation      | Cha  | +3
+ | Athletics         | Str  | +0
+ | Deception         | Cha  | +0
+✓| History           | Int  | +2
+✓| Insight           | Wis  | +5
+ | Intimidation      | Cha  | +0
  | Investigation     | Int  | +0
- | Medicine          | Wis  | +1
+ | Medicine          | Wis  | +3
  | Nature            | Int  | +0
- | Perception        | Wis  | +1
- | Performance       | Cha  | +3
-✓| Persuasion        | Cha  | +5
+ | Perception        | Wis  | +3
+ | Performance       | Cha  | +0
+✓| Persuasion       | Cha  | +2
  | Religion          | Int  | +0
  | Sleight of Hand   | Dex  | +3
  | Stealth           | Dex  | +3
- | Survival          | Wis  | +1
+ | Survival          | Wis  | +3
 
 
 **Languages**
