@@ -54,10 +54,10 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 
 **Languages**
-Common, Elvish, Draconic, Deep Speach, Celestial
+Common, Elvish
 
 ### Features and Traits
-* **Feat**: Alert
+* **Feat**: Lucky - 3 Luck Points - attack, ability, saving - d20 (and against)
 
 ## Equipment
 \#  | Item
@@ -75,22 +75,22 @@ Weapon         | Atk Bonus | Damage     | Range   | Properties
 
 Age | Height | Weight  | 
 --: | -----: | ------: | 
-18  | 5' 10" | 140 lbs | 
+21  | 5' 8" | 130 lbs | 
 
 ### Personality Traits
-The first thing I do in a new place is note the locations of everything valuable - or where such things could be hidden.
+I always want to know how things work and what makes people tick.
 
 ### Ideals
-I don't steal, I trade. I will not take something without leaving something else in it's place.
+It is the duty of all civilized people to strengthen the bonds of community and the security of civilization (lawful)
 
 ### Bond
-I'm trying to pay off an old debt I owe to a generous benefactor.
+I owe my guild a great debt for forging me into the person I am today. 
 
 ### Flaw
-When I see something I want, I take it.
+I'm never satisfied with what I have - I always want more
 
 
 ### Background
-1. Found abandoned on the road, adopted by a farmer.
-2. Been living easy life on the farm, alleviating boredom with petty theft.
-3. I had a role model who was a trained assassin (retired). He gave me a set of thieves tools.
+1. Left monestary for seedbreeze to offer my services for food and other goods
+2. Found Oaken Guard more than sufficent, thus opened a bar from my experiences in peddling my Monestary's ales for years. 
+3. Befriended el kersmesh, a retired fighter and distiller. 
