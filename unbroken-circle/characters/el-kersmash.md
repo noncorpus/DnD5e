@@ -92,6 +92,10 @@ Nope!
 
 ## Background
 
+A general of the mountain clans, Elgath retired to Seedbreeze with a distaste for battle. He left the mountains after witnessing too much death, having witnessed the deaths of almost all his friends after decades of war.
+
+As he was traveling the world, he met Rorie MacBay, the god of atheists in a Seedbreeze pub. Striking up a friendship, he decided to settle in the town and take up brewing, distilling and general pub-manship.
+
 Age | Height | Weight   | Eyes   | Hair
 --: | -----: | ------:  | ----   | --------
 52  | 7'6"   | 320 lbs  | Blue   | Badass Tatoos
