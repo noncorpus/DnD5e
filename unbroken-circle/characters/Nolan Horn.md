@@ -57,12 +57,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 Common, Elvish, Draconic, Deep Speach, Celestial
 
 ### Features and Traits
-* **Diety**: Oghma
-* **Feat**: Healer
-* **Darkvision**
-* **Fey Ancestry**
-* **Knowledge Domain**
-* **Channel Divinity**: Turn Undead, Knowledge of Ages
+* **Feat**: Alert
 
 ## Equipment
 \#  | Item
