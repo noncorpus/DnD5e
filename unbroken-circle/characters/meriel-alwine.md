@@ -62,6 +62,7 @@ Common, Elvish
 ## Equipment
 \#  | Item
 01: | Blue Goo
+15: | GP
 
 ### Weapons
 
