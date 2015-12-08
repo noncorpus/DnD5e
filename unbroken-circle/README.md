@@ -15,3 +15,5 @@
 - We go to temple of kohl and we see the priest norden
 - Learn of Fey creatures from Whisterwoods. Generally playful creatures. 
 - Dreamed of cake and wine the night before
+- spoke with garret and fallstaff (eldest of 7. cared for them)
+- captain is named Tamerrus
