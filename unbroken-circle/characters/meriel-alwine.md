@@ -94,3 +94,4 @@ I'm never satisfied with what I have - I always want more
 1. Left monestary for seedbreeze to offer my services for food and other goods
 2. Found Oaken Guard more than sufficent, thus opened a bar (Comeback Inn) from my experiences in peddling my Monestary's ales for years. 
 3. Befriended el kersmesh, a retired fighter and distiller. 
+4. Wandaora Dragonsbane the Barkeep/Innkeeper (second in command)
