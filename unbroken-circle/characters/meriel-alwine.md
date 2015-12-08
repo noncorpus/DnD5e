@@ -61,7 +61,7 @@ Common, Elvish
 
 ## Equipment
 \#  | Item
---: | ---------
+01: | Blue Goo
 
 ### Weapons
 
