@@ -20,7 +20,7 @@
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-         +2 | 13  |         3  | 30    |     8  | 1d8
+         +2 | 14  |         3  | 30    |     8  | 1d8
 
 #### Proficiencies (pg. 95)
 * Armor: Light armor
@@ -62,17 +62,19 @@ Common, Elvish, Draconic, Deep Speach, Celestial
 ## Equipment
 \#  | Item
 --: | ---------
+5 | Gold
+
+Armor | AC
+----- | -----
+Leather Armor | 14 (11 + DEX)
+Cloak | 
+
 
 ### Weapons
 
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
 Rapier         |           | 1d8        | Melee   | Finesse
-
-Armor | AC
------ | -----
-Leather Armor | 14 (11 + DEX)
-Cloak | 
 
 ## Background
 
