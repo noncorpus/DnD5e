@@ -67,9 +67,12 @@ Common, Elvish, Draconic, Deep Speach, Celestial
 
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
-               |           |            |         | 
+Rapier         |           | 1d8        | Melee   | Finesse
 
-
+Armor | AC
+----- | -----
+Leather Armor | 14 (11 + DEX)
+Cloak | 
 
 ## Background
 
