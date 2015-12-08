@@ -84,7 +84,7 @@ Longbow          |    +2     | d8 + 0(p) | 150/600 | Ammunition, Two-Handed
 2   | Flasks of oil
 1   | Vial of Perfume
 1   | Antitoxin
-50  | gp
+10  | gp
 
 ## Spells
 
