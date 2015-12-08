@@ -89,7 +89,6 @@ I owe my guild a great debt for forging me into the person I am today.
 ### Flaw
 I'm never satisfied with what I have - I always want more
 
-
 ### Background
 1. Left monestary for seedbreeze to offer my services for food and other goods
 2. Found Oaken Guard more than sufficent, thus opened a bar (Comeback Inn) from my experiences in peddling my Monestary's ales for years. 
