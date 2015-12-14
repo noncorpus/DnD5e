@@ -7,7 +7,7 @@
 * **Experience Points** 0
 
 ### Features
-* Expertise: Profeciency is doubled for Acrobatics and Thieves Tools
+* Expertise: Proficiency is doubled for Acrobatics and Thieves' Tools
 * Sneak Attack (TODO)
 * Thieves' Cant (TODO)
 
