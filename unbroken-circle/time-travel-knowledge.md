@@ -6,3 +6,4 @@ Stuff we learned that might help us persuade people that we really are stuck in 
 
 **Gate Guards, Baron's Place**. Garett and Falstaff. Falstaff is the eldest of seven, all named after lucky charms. He took care of them growing up. Sent us to Captain Temaris at the northern bulwarks.
 
+**Captain Temaris, Northern Bulwarks**. Speak the name "Cathavis."
