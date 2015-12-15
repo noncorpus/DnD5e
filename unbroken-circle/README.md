@@ -1,9 +1,34 @@
 # The Unbroken Circle
+**12/7/2015**  
+
+*Additional Notes*
+* Joined by Ella
+* Plant oil in Berrose Oil
+* Warning Captain of the Fey would attack on Day of the Gracious Mask
+* Though hesitant agrees
+* Speak the name "Cathavis"
+* Unlikely to find military aid in Nostrad as well.
+* Tamerrus gave us gold "15 GP" > Northern Bastion
+* Nostrad is 3-4 days walking or caravan
+* 1 day by horse
+* 2 day shady boat ride
+* 3 bottles of honey
+* Ella learns that elves are doing something in the forest.
+* Ella is waiting for a shipment in 5 days
+* whispers and strangeness through wisterwoods. 
+* wagon master comes back to the comeback inn
+* the animals are all gone
+* 2 days through the forest
+* the silence was in the portion closest to seedbreeze
+* stable caravan 
+* talking to the occult shops (ella) and equipment (el, nolan, meriel)
+
+
 
 **12/7/2015** - “The Circle is Forged” - Our heroes find themselves facing a host both alien and horrifying despite the delightful music their incursion includes. This lurid dance leads to a final stand and final moments marked by a drop of eerie azure liquid. Only in a sudden awakening do the adventurers find new strengths and the opportunity to ask more questions. These questions lead to a shrine of the spring and the gates of the guards fated to fall.
 
 *Additional Notes*
-* hypernatural, light and creatures appear from the north. chaotic magic. 
+* hypernatural, light and creatoures appear from the north. chaotic magic. 
 * set bar on fire. we all die.
 * week before festival
 * Meet with Chronicler - the first cycle has come for me and those I've seen 
