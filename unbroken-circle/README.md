@@ -1,5 +1,5 @@
 # The Unbroken Circle
-**12/7/2015**  
+**12/14/2015** - “Fated Four” - A smuggler awakens from dreams of death to discover a gray sentinel astride her abode. On the other side of town, those bound to the cycle discuss future threats with a strict yet helpful soldier. Upon witnessing another bear witness to the Chronicler, the Fated Three seek to induct the smuggler, and so become the Fated Four. The smuggler attains power when bound to the cycle, but continues to remember her trade all the same. Finally, the Fated gather information on that which lies to the North, where the coming horror is born.
 
 *Additional Notes*
 * Joined by Ella
