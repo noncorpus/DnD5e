@@ -4,7 +4,7 @@
 * **Race** Human - Mulan - Way of the Sun Soul
 * **Alignment** Neutral
 * **Player** Joanne
-* **Experience Points** 0
+* **Experience Points** 100
 
 Used 2 Luck points
 
