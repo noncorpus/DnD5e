@@ -1,5 +1,5 @@
 # The Unbroken Circle
-**1/4/2016** - 
+**1/4/2016** - “Obo and Jibu” - The Cycle-bound heroes venture into the dark forest from which doom will spill in mere days. Apart from an eerie silence, little is found in the Wisterwood until an argument between two Myconid Clerics of extraordinarily varying sizes is discovered. The adventurers give their opinions on sacrifice and decide on the actions to take when innocent blood is threatened. A new ally in tow, our heroes head toward the center of the wood, where a forest god preaching the coming prosperity is rumored to reside. Even more surprising, the party suddenly encounters a Harbinger.
 
 *Additional Notes*
 * Ella is headed to the occult shop
