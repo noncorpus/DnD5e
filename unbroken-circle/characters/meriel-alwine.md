@@ -6,6 +6,8 @@
 * **Player** Joanne
 * **Experience Points** 0
 
+Used 2 Luck points
+
 ### Features
 * Expertise: Profeciency is doubled for Acrobatics and Thieves Tools
 * Sneak Attack (TODO)
