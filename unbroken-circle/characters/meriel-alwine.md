@@ -68,9 +68,7 @@ Common, Elvish
 
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
-               |           |            |         | 
-
-
+Short Sword    |     +8    | d6 + 5(s)  |         | Light, finesse
 
 ## Background
 
