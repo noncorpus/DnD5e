@@ -1,4 +1,25 @@
 # The Unbroken Circle
+**1/4/2016** - 
+
+*Additional Notes*
+* Ella is headed to the occult shop
+* Get Equipment (and vomit book)
+* Head into Whisterwood
+* We see tracks fleeing from something in the quiet part of the woods
+* Meet Gibu (large) and Obo (small)
+* Speak with muchrooms using repore spores
+* Satyrs near the beach
+* Sacrifice for Whister, their god (Druid) 
+* Brighter times for the woods of wister
+* Elf has woodland's heart
+* Centerpoint of village is hidden 
+* Elf (Ithar) sensed distress in the forest
+* Speak with Wister guards (village of Ip) Favorite color is green. Favorite spore dusky. 
+* Ithar brings out unseaonably large berries (good berries)
+* We're heading east towards the center of the forest with Ithar
+* Ithar (from elven city in the north. Came from the woods in bedrose.)
+* As we walk, we see a grey sphere hanging roughly around head area. (wearing ornate red dress) Harbidger. 
+
 **12/14/2015** - “Fated Four” - A smuggler awakens from dreams of death to discover a gray sentinel astride her abode. On the other side of town, those bound to the cycle discuss future threats with a strict yet helpful soldier. Upon witnessing another bear witness to the Chronicler, the Fated Three seek to induct the smuggler, and so become the Fated Four. The smuggler attains power when bound to the cycle, but continues to remember her trade all the same. Finally, the Fated gather information on that which lies to the North, where the coming horror is born.
 
 *Additional Notes*
@@ -22,8 +43,6 @@
 * the silence was in the portion closest to seedbreeze
 * stable caravan 
 * talking to the occult shops (ella) and equipment (el, nolan, meriel)
-
-
 
 **12/7/2015** - “The Circle is Forged” - Our heroes find themselves facing a host both alien and horrifying despite the delightful music their incursion includes. This lurid dance leads to a final stand and final moments marked by a drop of eerie azure liquid. Only in a sudden awakening do the adventurers find new strengths and the opportunity to ask more questions. These questions lead to a shrine of the spring and the gates of the guards fated to fall.
 

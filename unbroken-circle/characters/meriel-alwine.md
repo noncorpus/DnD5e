@@ -4,7 +4,9 @@
 * **Race** Human - Mulan - Way of the Sun Soul
 * **Alignment** Neutral
 * **Player** Joanne
-* **Experience Points** 0
+* **Experience Points** 100
+
+Used 2 Luck points
 
 ### Features
 * Expertise: Profeciency is doubled for Acrobatics and Thieves Tools
@@ -68,9 +70,7 @@ Common, Elvish
 
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
-               |           |            |         | 
-
-
+Short Sword    |     +8    | d6 + 5(s)  |         | Light, finesse
 
 ## Background
 
