@@ -22,7 +22,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ### Languages
 
 * Common
-* Elvish
+* Halfing
 
 ### Skills
 
