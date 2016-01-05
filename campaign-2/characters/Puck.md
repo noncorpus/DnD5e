@@ -7,7 +7,7 @@
 * **Background**: Soldier
 * **Alignment**: Chaotic Good
 * **Player Name**: Matt
-* **Experience Points**: 900 /2700
+* **Experience Points**: 1060 /2700
 
      | Str | Dex  | Con  | Int  | Wis  | Cha
 ---  | --: | --:  | --:  | --:  | --:  | --:
@@ -17,7 +17,7 @@ Save | +3  |  +4  |  +4  |  +0  |  +0  |  +1
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ----------: | --: | ---------: | ----: | -----: | -------:
-         2  |  16 |         +3 |    25 |     30 |   3d10+2 
+         2  |  16 |         +4 |    25 |     30 |   3d10+2 
 
 ### Languages
 
@@ -27,7 +27,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 ### Skills
 
 ✓ | Skill           | Ability | Modifier
---| --------------- | ------- | -------:
+--- | --------------- | ------- | -------:
 ✓ | Acrobatics      | Dex     | +6
   | Animal Handling | Wis     | +0
   | Arcana          | Int     | +0
@@ -48,17 +48,17 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
   | Survival        | Wis     | +0
 
 ### Features and Traits
-**Lucky**: Re-roll a result of 1 on an attack roll, ability check, or saving throw (and use the new roll).
-**Brave**: Advantage on saving throws against being frightened.
-**Nimble**: Move through the space of any creature that is a size larger.
-**Stout Resilience**: Advantage on saving throws against poison, and resistance to poison damage.
-**Two-Weapon Fighting Style**: Add ability modified to the damage of the off-hand attack.
-**Second Wind**: Use bonus action to regain hit points equal to 1d10 + fighter level.
-**Action Surge**: Take one additional action between long or short rests.
-**Feats**:
-    **Lucky**: 3 luck points used to roll a second d20, choosing one of the two results to either positively change the result of an attack roll, ability check, or saving throw.  Alternatively, a luck point may be used to roll a second d20 to negatively change the result of an attack roll made against the character.  Luck points are refreshed after a long rest.
-**Champion Archetype**:
-    **Improved Critical**: Critical hits are scored on a natural roll of 19 or 20.
+* **Lucky**: Re-roll a result of 1 on an attack roll, ability check, or saving throw (and use the new roll).
+* **Brave**: Advantage on saving throws against being frightened.
+* **Nimble**: Move through the space of any creature that is a size larger.
+* **Stout Resilience**: Advantage on saving throws against poison, and resistance to poison damage.
+* **Two-Weapon Fighting Style**: Add ability modified to the damage of the off-hand attack.
+* **Second Wind**: Use bonus action to regain hit points equal to 1d10 + fighter level.
+* **Action Surge**: Take one additional action between long or short rests.
+* **Feats**:
+  * **Lucky**: 3 luck points used to roll a second d20, choosing one of the two results to either positively change the result of an attack roll, ability check, or saving throw.  Alternatively, a luck point may be used to roll a second d20 to negatively change the result of an attack roll made against the character.  Luck points are refreshed after a long rest.
+* **Champion Archetype**:
+  * **Improved Critical**: Critical hits are scored on a natural roll of 19 or 20.
 
 ### Proficiencies
 

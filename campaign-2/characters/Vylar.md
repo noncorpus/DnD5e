@@ -5,7 +5,7 @@
 * **Background** Sage Librarian
 * **Alignment** Chaotic Neutral
 * **Player** Lukas
-* **Experience Points** 900
+* **Experience Points** 1060
 
 
 |      |Str  | Dex  | Con  | Int  | Wis  | Cha

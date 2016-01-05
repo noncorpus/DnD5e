@@ -7,7 +7,8 @@
 * **Background**: Charlatan (p. 128)
 * **Alignment**: Chaotic Neutral
 * **Player Name**: Joanne
-* **Experience Points**: 900 /2700
+* **Experience Points**: 1060 /2700
+* **Initative**: 3
 
      | Str | Dex  | Con  | Int  | Wis  | Cha
 ---  | --: | --:  | --:  | --:  | --:  | --:
@@ -49,7 +50,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
 
 ### Features and Traits
 *Wood Elves are distrusting of non-elves 
-* **Elf Weapon Training** proficiency with longsword, shortsword, shortbow, and longbow.
+* **Elf Weapon Training** proficiency with longsword, shortsword, shortbow, and longbow (+2 attack).
 * **Mask of the Wild** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist and other natural phenomena. 
 * **Darkvision**
 * **Fey Ancestry** Advantage on saving throws against being charmed and magic can't put me to sleep. 
@@ -69,8 +70,8 @@ whether loot is nearby, or whether the people in an area are easy marks or will 
 
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
-Short Sword    |    +5     | 1d6 + 5(s) | -       | Light, finesse
-
+Short Sword    |    +5     | 1d6 + 3(s) | -       | Light, finesse
+Cross bow      |    +5     | 1d6 + 3(s) | -       | Light, finesse
 
 ## Equipment
 \#  | Item
@@ -106,6 +107,4 @@ individual never crosses paths with me or those I care about.
 ### The Story So Far
 
 Thia was a happy young elf in the woods of Faerûn when her peaceful village was decieved by neighboring farmers, 
-interested in expanding their land. They were attacked when they were expanding their fields. 
-and she was left an orphan. Desperate to find her way in the world, 
-she turned to the violence she witnessed as a child for survival.  
+interested in expanding their land. They were attacked in the evening after a harvest celebration and she was left an orphan. Desperate to find her way in the world, she turned to the violence she witnessed as a child for survival.  
