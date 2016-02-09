@@ -1,4 +1,27 @@
 # The Unbroken Circle
+**2/8/2016** - 
+*Additional Notes*
+* Speaking with Harbringer: Zie and Chronicler are the the "Expectant"
+* 5 Expectants (probably wont meet all 5)
+* This place is important, but won't know when
+* Ipthar is slowly backing away 
+* Ipthar sensed impurities in the forest. Sense of death (towards the center)
+* Whister believes something big is coming
+* We're looking for Whister's Grove
+* Take a long rest
+* El sees something amongst the shadows
+* Meriel sees pixies, deer, large bugs
+* Ella - Ipthar seems to be asleep and further from base camp, hears sounds
+* Head to the East to follow sounds
+* Nolan - furry, leather armored humanoid with spear
+* Kill 4 knolls, 12 GP, 4 spears, 4 bows
+* Giant knoll calls El "brutekin"
+* Follow them home to their giant treehouse
+* We see more lights in the forest
+* Wisps of whispers, less animals, sents of sweet pine and sap. 
+* We see shadowy figure, accented by lights and it disappears
+* Nolan sees a slim humanoid in green and brown (cloak) pointing an arrow at him (looking for ipthar)
+
 **1/4/2016** - “Obo and Jibu” - The Cycle-bound heroes venture into the dark forest from which doom will spill in mere days. Apart from an eerie silence, little is found in the Wisterwood until an argument between two Myconid Clerics of extraordinarily varying sizes is discovered. The adventurers give their opinions on sacrifice and decide on the actions to take when innocent blood is threatened. A new ally in tow, our heroes head toward the center of the wood, where a forest god preaching the coming prosperity is rumored to reside. Even more surprising, the party suddenly encounters a Harbinger.
 
 *Additional Notes*
