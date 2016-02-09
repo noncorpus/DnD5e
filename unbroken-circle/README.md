@@ -21,6 +21,9 @@
 * Wisps of whispers, less animals, sents of sweet pine and sap. 
 * We see shadowy figure, accented by lights and it disappears
 * Nolan sees a slim humanoid in green and brown (cloak) pointing an arrow at him (looking for ipthar)
+* We continue to go towards the lights in the center of the forest, we hear rumblings of larger creatures
+* Long rest. Meriel sleeps through watch. Wake up to large crashing sounds in forest. Hear trees moving
+* El and Meriel are caught by Ents
 
 **1/4/2016** - “Obo and Jibu” - The Cycle-bound heroes venture into the dark forest from which doom will spill in mere days. Apart from an eerie silence, little is found in the Wisterwood until an argument between two Myconid Clerics of extraordinarily varying sizes is discovered. The adventurers give their opinions on sacrifice and decide on the actions to take when innocent blood is threatened. A new ally in tow, our heroes head toward the center of the wood, where a forest god preaching the coming prosperity is rumored to reside. Even more surprising, the party suddenly encounters a Harbinger.
 
