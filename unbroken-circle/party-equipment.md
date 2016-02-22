@@ -29,10 +29,9 @@ Pizza:
 - Joanne 
 
 Firehouse
-
-•	Joanne: Hook and Ladder salad
-•	Evan: Engineer with Lettuce and Onion (Wheat, dry....only lettuce, mushroom and onion) Pickles on the side
-•	Lukas: Medium Club on a Sub, “fully involved” except mustard and onions
-•	Matt: Hero on wheat, fully involved. Pickles on the side
-•	Sam: Salad to specify at later date
+- Joanne: Hook and Ladder salad
+- Evan: Engineer with Lettuce and Onion (Wheat, dry....only lettuce, mushroom and onion) Pickles on the side
+- Lukas: Medium Club on a Sub, “fully involved” except mustard and onions
+- Matt: Hero on wheat, fully involved. Pickles on the side
+- Sam: Salad to specify at later date
 
