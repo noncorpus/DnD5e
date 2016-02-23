@@ -1,4 +1,16 @@
 # The Unbroken Circle
+**2/22/2016**
+
+*Additional Notes*
+* Speaking with Agrat (who puts us down)
+* Whister has plans for the forest. Agrat speaks of lights. 
+* We move forward towards the center
+* Ella sees strange plant formation
+* Vines are on fire and coming towards us. Spiny bushes also come towards us. 
+* 
+
+
+
 **2/8/2016** -“BRUDKIN!” - Faced with the ballgown-bedecked Harbinger, the adventurers learn more about the Expectant and their knowledge of what is fated (while frightening one of their companions in the process). Yet little is more frightening than a deadly battle with a Gnoll hunting party, which requires all the party’s martial might to survive. The rewards, however, are surprising, if one can call raw Gnoll flesh and blood ale a reward. Further into the forest, the mysteries deepen. Who is the deadly hunter hiding in the woods? What became of the party’s rescued Druid? And why do treants patrol the woods, searching for trespassers like our heroes?
 
 *Additional Notes*
