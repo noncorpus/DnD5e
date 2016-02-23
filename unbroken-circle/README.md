@@ -7,9 +7,16 @@
 * We move forward towards the center
 * Ella sees strange plant formation
 * Vines are on fire and coming towards us. Spiny bushes also come towards us. 
-* 
-
-
+* Kill 4 shrubs, 1 vine
+* We see light blue lights in the trees
+* We see a beautiful elvish-man (Talloak) and Starleaf
+* Bring us into Bloomhollow (24 creatures). Deweaver Oracle is the leader
+* Dewweaver screams, suggests evil has come
+* Butterbark asks us to leave
+* They shimmer and theyre bestest friends with El and Nolan and we leave.
+* We long rest, and awaken during 2nd watch
+* We see lilac light in distance. Light comes over us and we feel tingley. We hear the music from the end of the last cycle. 
+* Don't see anything but we feel something has arrived. 
 
 **2/8/2016** -“BRUDKIN!” - Faced with the ballgown-bedecked Harbinger, the adventurers learn more about the Expectant and their knowledge of what is fated (while frightening one of their companions in the process). Yet little is more frightening than a deadly battle with a Gnoll hunting party, which requires all the party’s martial might to survive. The rewards, however, are surprising, if one can call raw Gnoll flesh and blood ale a reward. Further into the forest, the mysteries deepen. Who is the deadly hunter hiding in the woods? What became of the party’s rescued Druid? And why do treants patrol the woods, searching for trespassers like our heroes?
 
