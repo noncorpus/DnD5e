@@ -27,7 +27,6 @@ Pizza:
 - Evan  
 - Sam <----
 - Lukas  
-- Geoff 
 - Joanne 
 
 Firehouse
