@@ -19,6 +19,8 @@ X   | Torches
 1   | Goodberry bough (1d8 goodberries a day) - 4 goodberries
 1   | Healing Frond (1 healing potion)
 1   | The Hunter's Blade (1d4, advantage on tracking creatures we've injured. Ella)
+1   | Gooseberry Perfume
+20  | Silver Needles
 
 Pizza:
 - Matt 
