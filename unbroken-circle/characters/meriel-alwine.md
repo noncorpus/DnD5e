@@ -18,9 +18,9 @@
 | Raw  |  11 |  16  |  12  |  11  |  16  |  11
 | Mod  |   0 |  +3  |  +1  |   0  |  +3  |  0
 
-Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice
-----------: | --: | ---------: | ----: | -----: | -------:
-         +2 |  16 |         3  | 30    |     9  | 1d8
+Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki
+----------: | --: | ---------: | ----: | -----: | -------: | --:
+         +2 |  16 |         3  | 35    |     15 | 1d8      | 2
 
 #### Proficiencies (pg. 77)
 * Armor: none
