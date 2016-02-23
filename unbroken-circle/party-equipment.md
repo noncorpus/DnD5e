@@ -7,7 +7,7 @@
 1   | Book of Sick (2 charge)
 3   | Jars of Honey
 1   | Tinder Box
-6   | Molotov Cocktails
+5   | Molotov Cocktails
 10  | Lamp Oil Bombs
 X   | Torches
 4ft | Bandages (Medical Check)
