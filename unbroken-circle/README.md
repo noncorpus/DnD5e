@@ -1,5 +1,5 @@
 # The Unbroken Circle
-**2/22/2016**
+**2/22/2016** - "Operation: Molotov" - A massive treant corners the party, warning them of the dangers of entering the forest. They enter the forest. The party witnesses a strange clump of threatening plants. They throw a molotov at it. The adventurers encounter a village of beautiful aberrations with ridiculous names. They make the village leader, an Oracle, scream in terror, then throw a molotov at them as well. Each and every day the forest's heart grows closer, but our heroes can already feel the clarion call to dance echoing from within.
 
 *Additional Notes*
 * Speaking with Agrat (who puts us down)
