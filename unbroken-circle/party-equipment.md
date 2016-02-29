@@ -25,13 +25,13 @@ X   | Torches
 Pizza:
 - Matt 
 - Evan  
-- Sam <----
-- Lukas  
+- Sam 
+- Lukas <---- 
 - Joanne 
 
 Firehouse
 - Joanne: Hook and Ladder salad
-- Evan: Engineer with Lettuce and Onion (Wheat, dry....only lettuce, mushroom and onion) Pickles on the side
+- Evan: Engineer with Lettuce and Onion (Wheat, dry....only lettuce, mushroom and onion) Pickles on the side. Small Sandwich.
 - Lukas: Medium Club on a Sub, “fully involved” except mustard and onions
 - Matt: Hero on wheat, fully involved. Pickles on the side
 - Sam: House Chopped Salad, Grilled Chicken (No Kalamata Olives)
