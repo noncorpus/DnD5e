@@ -1,10 +1,10 @@
 # Meriel Alwine
 
-* **Class :: Level** Monk :: 2nd
+* **Class :: Level** Monk :: 3rd 
 * **Race** Human - Mulan - Way of the Sun Soul
 * **Alignment** Neutral
 * **Player** Joanne
-* **Experience Points** 450
+* **Experience Points** 1050
 * Ki: 1
 * Lucky: 2
 * HP: 12
