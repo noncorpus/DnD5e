@@ -16,7 +16,7 @@ X   | Torches
 4   | Sleeping things
 4   | Provisions for two days
 1   | Bottle Repore Spores
-1   | Goodberry bough (1d8 goodberries a day) - 4 goodberries
+1   | Goodberry bough (1d8 goodberries a day) 
 1   | Healing Frond (1 healing potion)
 1   | The Hunter's Blade (1d4, advantage on tracking creatures we've injured. Ella)
 1   | Gooseberry Perfume
