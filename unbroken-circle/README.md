@@ -1,5 +1,5 @@
 # The Unbroken Circle
-**2/22/2016**
+**2/29/2016** - “Dance of the Damned” - The party follows the mysterious pulse of light as its echo ripples through them. Skin quaking, they enter a crystalline forest with skewed stars and a strangely familiar satellite in the heavens. In the shining, phosphorescent woods, the dancing shadows of their enemies are easy to see, and they find that the monsters that once killed them now fall beneath their blades. Yet it is the dark sapling at the heart of the forest that vexes them as it pulls fell beasts out of the rift from which it grows. Despite a valiant battle, the heroes fall and rise anew at the start of the cycle. But is it truly the same dawn that they’ve seen before?
 
 *Additional Notes*
 * 2 miles from source of purple light
