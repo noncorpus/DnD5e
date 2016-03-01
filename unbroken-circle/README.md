@@ -1,4 +1,25 @@
 # The Unbroken Circle
+**2/22/2016**
+
+*Additional Notes*
+* 2 miles from source of purple light
+* 500 ft, we hit a border and we see the forest is glowing. Area is otherwordly 
+* We know each star in the sky is a different plane of existence
+* we kill 5 children 
+* We find ivory cookries
+* The children have a seed inside them
+* El takes one of the seed
+* light becomes more intense as we proceed. ground is shifting under our feet as we run. we come to a clearing in the woods
+* in the center of the depression is a glowing black tree
+* Nolan approaches the tree. he feels warmth from the rift
+* Black tree grows over things that touch it. 
+* Nolan lights up after touching it
+* Ella is glowing from her mouth and eyes
+* Rift opens and 2D trees and grass becomes 3D
+* Blobs become creatues
+* We see 2 pretty humanoids with grass for hair and no mouths, 2 teeth women
+* 1 goat cloved creature with 8 spider legs and dragonfly wings
+
 **2/22/2016** - "Operation: Molotov" - A massive treant corners the party, warning them of the dangers of entering the forest. They enter the forest. The party witnesses a strange clump of threatening plants. They throw a molotov at it. The adventurers encounter a village of beautiful aberrations with ridiculous names. They make the village leader, an Oracle, scream in terror, then throw a molotov at them as well. Each and every day the forest's heart grows closer, but our heroes can already feel the clarion call to dance echoing from within.
 
 *Additional Notes*
