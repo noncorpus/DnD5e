@@ -5,6 +5,9 @@
 * **Alignment** Neutral
 * **Player** Joanne
 * **Experience Points** 450
+* Ki: 1
+* Lucky: 2
+* HP: 12
 
 ### Features
 * Expertise: Profeciency is doubled for Acrobatics and Thieves Tools
