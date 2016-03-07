@@ -26,8 +26,8 @@ Pizza:
 - Matt 
 - Evan  
 - Sam 
-- Lukas <---- 
-- Joanne 
+- Lukas  
+- Joanne <----
 
 Firehouse
 - Joanne: Hook and Ladder salad
