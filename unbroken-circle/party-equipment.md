@@ -21,7 +21,7 @@ X   | Torches
 1   | The Hunter's Blade (1d4, advantage on tracking creatures we've injured. Ella)
 1   | Gooseberry Perfume
 20  | Silver Needles
-
+2   | Bottles of Poison
 Pizza:
 - Matt 
 - Evan  
