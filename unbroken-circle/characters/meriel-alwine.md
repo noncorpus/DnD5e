@@ -5,9 +5,6 @@
 * **Alignment** Neutral
 * **Player** Joanne
 * **Experience Points** 1050
-* Ki: 1
-* Lucky: 2
-* HP: 12
 
 ### Features
 * Expertise: Profeciency is doubled for Acrobatics and Thieves Tools
@@ -23,7 +20,7 @@
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki
 ----------: | --: | ---------: | ----: | -----: | -------: | --:
-         +2 |  16 |         3  | 35    |     15 | 1d8      | 2
+         +2 |  16 |         3  | 35    |     15 | 1d8      | 3
 
 #### Proficiencies (pg. 77)
 * Armor: none
@@ -71,8 +68,8 @@ Common, Elvish
 
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
-Short Sword    |     +5    | d6 + 5(s)  |         | Light, finesse
-
+Quarter Staff  |     +5    | d8 + 5(s)  |         | Light, finesse
+               |     +5    | d6 + 5(s)  |         | Light, finesse
 Radiant Sun Bolt
 30 Ft. Proficient. Add (+3)Dex to attack and damage rolls
 Damage, d4 (changes as I gain levels)
