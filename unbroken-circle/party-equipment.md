@@ -22,7 +22,7 @@ X    | Torches
 1    | Gooseberry Perfume
 20   | Silver Needles
 2    | Bottles of Poison
-
+1    | Out of shape horse shoes, metal shavings, nails  (bag of metal shrapnel)
 Pizza:
 - Matt 
 - Evan  
