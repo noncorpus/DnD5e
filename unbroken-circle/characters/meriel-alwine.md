@@ -73,6 +73,14 @@ Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
 Short Sword    |     +5    | d6 + 5(s)  |         | Light, finesse
 
+Radiant Sun Bolt
+30 Ft. Proficient. Add (+3)Dex to attack and damage rolls
+Damage, d4 (changes as I gain levels)
+
+Defelct Missiles
+Use reaction to reduce attack by 1d10+ (+3)Dex + (3)monk level
+Can use Ki to throw it back
+
 ## Background
 
 Age | Height | Weight  | 
