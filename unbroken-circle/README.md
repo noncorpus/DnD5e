@@ -1,4 +1,21 @@
 # The Unbroken Circle
+**3/7/2016** - 
+
+*Additional Notes*
+* We all wake up back in our homes and have memories
+* we've befriended the michinids and agrad (and whister's closer guard, the triaads)
+* We don't see Chronicler
+* We decide to find Harbringer and go to Captain Tamerous for horses
+* Get map of Wister wood, village of Ip. Places we can call agrad. 
+* We meet Agrad where Harbringer was 
+* We take Harbringer's blood. 
+* Wister has been intereste in defending the wood and elevating the wood. 
+* We stay with Harbringer
+* Two humanoids come towards us
+* One has thorns retracting into his legs. We see ipthar with a druid staff and branch
+* Haptai business. ehadra is hunting reth (who we know as ipthar)
+* Reth makes 8 wolves made of vines. Reth becomes a 6 legged large feline
+
 **2/29/2016** - “Dance of the Damned” - The party follows the mysterious pulse of light as its echo ripples through them. Skin quaking, they enter a crystalline forest with skewed stars and a strangely familiar satellite in the heavens. In the shining, phosphorescent woods, the dancing shadows of their enemies are easy to see, and they find that the monsters that once killed them now fall beneath their blades. Yet it is the dark sapling at the heart of the forest that vexes them as it pulls fell beasts out of the rift from which it grows. Despite a valiant battle, the heroes fall and rise anew at the start of the cycle. But is it truly the same dawn that they’ve seen before?
 
 *Additional Notes*
