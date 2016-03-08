@@ -1,27 +1,28 @@
 
 # Party Equipment
 
-\#  | Item
---: | ---------
-25  | GP
-1   | Book of Sick (2 charge)
-3   | Jars of Honey
-1   | Tinder Box
-4   | Molotov Cocktails
-10  | Lamp Oil Bombs
-X   | Torches
-4ft | Bandages (Medical Check)
-2   | Bottles
-1   | Lantern
-4   | Sleeping things
-4   | Provisions for two days
-1   | Bottle Repore Spores
-1   | Goodberry bough (1d8 goodberries a day) 
-1   | Healing Frond (1 healing potion)
-1   | The Hunter's Blade (1d4, advantage on tracking creatures we've injured. Ella)
-1   | Gooseberry Perfume
-20  | Silver Needles
-2   | Bottles of Poison
+\#   | Item
+--:  | ---------
+25   | GP
+1    | Book of Sick (2 charge)
+3    | Jars of Goodberry Honey
+1    | Tinder Box
+4    | Molotov Cocktails
+10   | Lamp Oil Bombs
+X    | Torches
+40ft | Bandages (Medical Check)
+2    | Bottles
+1    | Lantern
+4    | Sleeping things
+4    | Provisions for two days
+1    | Bottle Repore Spores
+1    | Goodberry bough (1d8 goodberries a day) 
+1    | Healing Frond (1 healing potion)
+1    | The Hunter's Blade (1d4, advantage on tracking creatures we've injured. Ella)
+1    | Gooseberry Perfume
+20   | Silver Needles
+2    | Bottles of Poison
+
 Pizza:
 - Matt 
 - Evan  
