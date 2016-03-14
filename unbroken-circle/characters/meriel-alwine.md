@@ -4,7 +4,7 @@
 * **Race** Human - Mulan - Way of the Sun Soul
 * **Alignment** Neutral
 * **Player** Joanne
-* **Experience Points** 1050
+* **Experience Points** 1200
 
 ### Features
 * Expertise: Profeciency is doubled for Acrobatics and Thieves Tools
