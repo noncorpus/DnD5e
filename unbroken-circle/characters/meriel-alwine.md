@@ -20,7 +20,7 @@
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki
 ----------: | --: | ---------: | ----: | -----: | -------: | --:
-         +2 |  16 |         3  | 35    |     15 | 1d8      | 3
+         +2 |  16 |         3  | 35    |     24 | 1d8      | 3
 
 #### Proficiencies (pg. 77)
 * Armor: none
