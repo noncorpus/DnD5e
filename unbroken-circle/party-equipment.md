@@ -22,6 +22,7 @@ X    | Torches
 20   | Silver Needles
 2    | Bottles of Poison
 1    | Out of shape horse shoes, metal shavings, nails  (bag of metal shrapnel)
+10ft | Rope
 Pizza:
 - Matt 
 - Evan  <----
