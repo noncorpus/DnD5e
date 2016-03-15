@@ -23,8 +23,8 @@ X    | Torches
 2    | Bottles of Poison
 1    | Out of shape horse shoes, metal shavings, nails  (bag of metal shrapnel)
 Pizza:
-- Matt <----
-- Evan  
+- Matt 
+- Evan  <----
 - Sam 
 - Lukas  
 - Joanne 
