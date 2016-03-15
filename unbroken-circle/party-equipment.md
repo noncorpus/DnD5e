@@ -3,7 +3,7 @@
 
 \#   | Item
 --:  | ---------
-75   | GP
+125   | GP
 1    | Book of Sick (2 charge)
 3    | Jars of Goodberry Honey
 1    | Tinder Box
