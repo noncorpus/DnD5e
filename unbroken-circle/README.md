@@ -1,4 +1,23 @@
 # The Unbroken Circle
+**3/7/2016** - 
+
+*Additional Notes*
+* We kill all but two wolves and the cat creature
+* Harbringer walks away into the forest
+* Another creature comes by (Dark Expectant)
+* Tamerus gives us studded leather armor
+* We see rope from our traps
+* We see Harbringer again (they are called the Expectant)
+* Lingerer (basks after the change occur)
+* Drank Harbringer Blood, Agrat visited us (Agrat is currently tasked to watch the borders)
+* Agrat will seek an audience with Wister, listing the things we'd seen from previous cycles.  
+* We set up camp to find Ehadra
+* Nolan sees her and we call out to her, referencing the Hapati and Reth
+* Reth is a kreivore (greatest of druids could take its shape to protect the lands)
+* Reth is going to call the "wild hunt" - Fey legion of cleansing 
+* Reth dimentional doors away
+* Ehadra didnt realize he was this powerful. Cathavis died for nothing. 
+
 **3/7/2016** - “The Awaited Event” - Our heroes awaken to find their timelines merging; sets of memories intertwine to form a single thread through which the Second Cycle spins. With their knowledge of the events of the days to come and their visions of the lives that fate forged for them, they head into the forest once more, armed with the favors of Captain Temerous. While Chronicler has vanished, Harbinger awaits them in the forest, still seeking that coming “event.” With the Expectant’s blood upon their lips, the party waits until two elves converge on the fated ground. Soon they discover that this ground shall be an arena where Ehadra of the Hapati challenges Reth-Who-Was-Ipthar while the adventurers stand in the crossfire.
 
 *Additional Notes*
