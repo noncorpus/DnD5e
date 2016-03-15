@@ -1,5 +1,5 @@
 # The Unbroken Circle
-**3/7/2016** - 
+**3/7/2016** - “The Fate of Those Who Fight” - The sounds of battle ring out in the Wisterwood, pitting a vicious beast of a far-distant land against the hunter of the elf the beast once was. Caught in the fight, witnesses to Reth’s violence, the party struggles to survive, but are dragged to the beginning of the cycle once more as their blood-drenched eyes see another Expectant arrive. When the first dawn comes again, they head back to the forest, seeking to stop the deadly conflict before it begins. With their knowledge of what is to come, they contact Ehadra, the hunter, and convince her to hear them. Her death delayed, Ehadra tells some of her own story, revealing more of the past that led to the ever-encroaching future.
 
 *Additional Notes*
 * We kill all but two wolves and the cat creature
