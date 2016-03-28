@@ -25,8 +25,8 @@ X    | Torches
 10ft | Rope
 Pizza:
 - Matt 
-- Evan  <----
-- Sam 
+- Evan  
+- Sam <----
 - Lukas  
 - Joanne 
 
