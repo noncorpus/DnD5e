@@ -1,4 +1,21 @@
 # The Unbroken Circle
+**3/7/2016** -
+
+*Additional Notes*
+* Ehadra and Cathavis were part of the Hapati (as was Reth)
+* Cathavis met Tamerous when they saved Tamerous' group from ravenous beasts
+* Reth's plan was to start the evil by the Cathavis loved. 
+* Speak to Ehadra of the Wild Hunt and Reth.
+* She came from Nastrad in the South. 
+* Fey are vulnerable to cold iron (mine in Nastrad)
+* Ritual for the Wild Hunt needs to be done in a specific place and a time
+* When we found Reth 1st, we saw a branch. The second time, we noticed it was part of the black tree in the middle. 
+* Likely in collaboration with Wister
+* Agrat arrives, we have an audience with Wister
+* Off to Bloomhollow (Dryad village). 
+* Harbinger looks pouty because the "event" didnt happen. Lingerer did not show up (he can sense these things). Lingerer shows up after the event.
+* 
+
 **3/7/2016** - “The Fate of Those Who Fight” - The sounds of battle ring out in the Wisterwood, pitting a vicious beast of a far-distant land against the hunter of the elf the beast once was. Caught in the fight, witnesses to Reth’s violence, the party struggles to survive, but are dragged to the beginning of the cycle once more as their blood-drenched eyes see another Expectant arrive. When the first dawn comes again, they head back to the forest, seeking to stop the deadly conflict before it begins. With their knowledge of what is to come, they contact Ehadra, the hunter, and convince her to hear them. Her death delayed, Ehadra tells some of her own story, revealing more of the past that led to the ever-encroaching future.
 
 *Additional Notes*
@@ -17,6 +34,7 @@
 * Reth is going to call the "wild hunt" - Fey legion of cleansing 
 * Reth dimentional doors away
 * Ehadra didnt realize he was this powerful. Cathavis died for nothing. 
+* Night 2: Cycle 3
 
 **3/7/2016** - “The Awaited Event” - Our heroes awaken to find their timelines merging; sets of memories intertwine to form a single thread through which the Second Cycle spins. With their knowledge of the events of the days to come and their visions of the lives that fate forged for them, they head into the forest once more, armed with the favors of Captain Temerous. While Chronicler has vanished, Harbinger awaits them in the forest, still seeking that coming “event.” With the Expectant’s blood upon their lips, the party waits until two elves converge on the fated ground. Soon they discover that this ground shall be an arena where Ehadra of the Hapati challenges Reth-Who-Was-Ipthar while the adventurers stand in the crossfire.
 
