@@ -31,7 +31,7 @@ Pizza:
 - Joanne 
 
 Firehouse
-- Joanne: Hook and Ladder sandwich. wheat. fully involved. large.
+- Joanne: Hook and Ladder sandwich. wheat. fully involved. Small Sandwich
 - Evan: Engineer with Lettuce and Onion (Wheat, dry....only lettuce, mushroom and onion) Pickles on the side. Small Sandwich.
 - Lukas: Medium Club on a Sub, “fully involved” except mustard and onions. white bread
 - Matt: Hero on wheat, fully involved. Pickles on the side
