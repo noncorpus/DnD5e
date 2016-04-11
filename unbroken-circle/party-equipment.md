@@ -35,5 +35,5 @@ Firehouse
 - Evan: Engineer with Lettuce and Onion (Wheat, dry....only lettuce, mushroom and onion) Pickles on the side. Small Sandwich.
 - Lukas: Medium Club on a Sub, “fully involved” except mustard and onions. white bread
 - Matt: Hero on wheat, fully involved. Pickles on the side
-- Sam: House Chopped Salad, Grilled Chicken (No Kalamata Olives)
+- Sam: Medium Italian, Wheat Bread, Fully Involved
 
