@@ -14,7 +14,19 @@
 * Agrat arrives, we have an audience with Wister
 * Off to Bloomhollow (Dryad village). 
 * Harbinger looks pouty because the "event" didnt happen. Lingerer did not show up (he can sense these things). Lingerer shows up after the event.
-* 
+* Dryads are more cautious. Agrat vouches for us
+* We recognize Dogberry and starleaf, butterbark, talloak, cedarskin, madvine.
+* Dewweaver comes with us to help convince Wister
+* Agrat seems distraught at Wister's potential betrayal
+* Powerful Fey, and dark contracter
+* North/East - we see more tree-ents and guards
+* Walk into peaty clearing 
+* Wister appears and we tell him about Reth
+* We are pulled through the earth and hit the ground (9 damage)
+* Grub appears, chewing ground
+* we're surrounded by 4 grubs and two large grubs
+* we egress to the branch. purple clouds
+* We see a nook in a branch
 
 **3/7/2016** - “The Fate of Those Who Fight” - The sounds of battle ring out in the Wisterwood, pitting a vicious beast of a far-distant land against the hunter of the elf the beast once was. Caught in the fight, witnesses to Reth’s violence, the party struggles to survive, but are dragged to the beginning of the cycle once more as their blood-drenched eyes see another Expectant arrive. When the first dawn comes again, they head back to the forest, seeking to stop the deadly conflict before it begins. With their knowledge of what is to come, they contact Ehadra, the hunter, and convince her to hear them. Her death delayed, Ehadra tells some of her own story, revealing more of the past that led to the ever-encroaching future.
 
