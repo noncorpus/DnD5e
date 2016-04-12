@@ -7,7 +7,7 @@
 * **Background**: Smuggler
 * **Alignment**: Neutral Good
 * **Player Name**: Matt
-* **Experience Points**: 100
+* **Experience Points**: 1700
 
      | Str* | Dex* | Con  | Int  | Wis  | Cha
 ---  | --:  | --:  | --:  | --:  | --:  | --:
