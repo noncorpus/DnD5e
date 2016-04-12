@@ -1,5 +1,5 @@
 # The Unbroken Circle
-**3/7/2016** -
+**4/11/2016** - “A Tale of Elves and the Wrath of Wister” - Ehadra, incredulous at her opponent’s power, allows him to retreat and tells the tale of how she came to the Wisterwood. She speaks of Cathavis, Temerous’ lost love, and the divide between her and Reth that brought him here to summon the Wyld Hunt. With the help of Agrat and the Dewweaver Oracle, the party goes to convince Wister of the evil being wrought in his domain. Instead of hearing reason, the god pulls them underground, where they find themselves crashing into a massive leaf and sparring with foul grubs. Fire comes to our heroes’ aid once more in the battle, after which they find themselves in a stranger situation than they’d thought. And, in the distance, a fae light beckons...
 
 *Additional Notes*
 * Ehadra and Cathavis were part of the Hapati (as was Reth)
@@ -29,7 +29,7 @@
 * We see a nook in a branch toward a nook in a trunk.
 * Tree is hollow. in center of tree is a green glowing vine. vine pulses. ridge a little bit up and down tree. we see another hole that goes deeper into tree trunk. We see a dancing colorful specter that looks like the Fey wild.
 
-**3/7/2016** - “The Fate of Those Who Fight” - The sounds of battle ring out in the Wisterwood, pitting a vicious beast of a far-distant land against the hunter of the elf the beast once was. Caught in the fight, witnesses to Reth’s violence, the party struggles to survive, but are dragged to the beginning of the cycle once more as their blood-drenched eyes see another Expectant arrive. When the first dawn comes again, they head back to the forest, seeking to stop the deadly conflict before it begins. With their knowledge of what is to come, they contact Ehadra, the hunter, and convince her to hear them. Her death delayed, Ehadra tells some of her own story, revealing more of the past that led to the ever-encroaching future.
+**3/14/2016** - “The Fate of Those Who Fight” - The sounds of battle ring out in the Wisterwood, pitting a vicious beast of a far-distant land against the hunter of the elf the beast once was. Caught in the fight, witnesses to Reth’s violence, the party struggles to survive, but are dragged to the beginning of the cycle once more as their blood-drenched eyes see another Expectant arrive. When the first dawn comes again, they head back to the forest, seeking to stop the deadly conflict before it begins. With their knowledge of what is to come, they contact Ehadra, the hunter, and convince her to hear them. Her death delayed, Ehadra tells some of her own story, revealing more of the past that led to the ever-encroaching future.
 
 *Additional Notes*
 * We kill all but two wolves and the cat creature
