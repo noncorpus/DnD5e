@@ -4,7 +4,7 @@
 * **Race** Human
 * **Alignment** Chaotic Neutral
 * **Player** Lukas
-* **Experience Points** 0
+* **Experience Points** 1700
 
 ### Features
 * Expertise: Proficiency is doubled for Acrobatics and Thieves' Tools
