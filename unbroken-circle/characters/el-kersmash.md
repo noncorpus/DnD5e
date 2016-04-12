@@ -7,7 +7,7 @@
 * **Background**: Retired General
 * **Alignment**: Chaotic Good
 * **Player Name**: Evan
-* **Experience Points**: 0
+* **Experience Points**: 1700
 
 
      | Str* | Dex* | Con  | Int  | Wis  | Cha
