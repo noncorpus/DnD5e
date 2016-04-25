@@ -7,7 +7,7 @@
 * **Background**: Smuggler
 * **Alignment**: Neutral Good
 * **Player Name**: Matt
-* **Experience Points**: 1700 
+* **Experience Points**: 1700
 
      | Str* | Dex* | Con  | Int  | Wis  | Cha
 ---  | --:  | --:  | --:  | --:  | --:  | --:
@@ -78,12 +78,16 @@ Shillelagh       |    +5     |  d8+3(b)  |   -     | Magical
 - Thorn Whip
 - Shillelagh
 
-### Level 1: 4/day ###
+### Level 1:  ###
 
-### Level 2: 2/day ###
+4/day
+
+### Level 2:  ###
+
+2/day
 
 ## Background
 
 Age | Height | Weight  | Eyes  | Hair
 --: | -----: | ------: | ----  | --------
- 36 | 3'2"   |  72 lbs | Hazel | Dirty Blond, Straight, Shoulder-Length
+ 36 |   3'2" |  72 lbs | Hazel | Dirty Blond, Straight, Shoulder-Length
