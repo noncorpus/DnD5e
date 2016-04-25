@@ -37,3 +37,6 @@ Firehouse
 - Matt: Hero on wheat, fully involved. Pickles on the side
 - Sam: Medium Italian, Wheat Bread, Fully Involved
 
+Crazy Wraps
+- Lukas: Santa Fe salad with grilled chicken, chips, and no avocado
+- Joanne: Caesar wrap
