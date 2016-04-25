@@ -27,8 +27,8 @@ Pizza:
 - Matt 
 - Evan  
 - Sam 
-- Lukas <----  
-- Joanne 
+- Lukas   
+- Joanne <----
 
 Firehouse
 - Joanne: Hook and Ladder sandwich. wheat. fully involved. Small Sandwich
