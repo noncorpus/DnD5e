@@ -2,7 +2,7 @@
 
 ## Stats and Specs
 
-* **Class & Level**: Level 1 Druid
+* **Class & Level**: Level 3 Druid
 * **Race**: Halfling
 * **Background**: Smuggler
 * **Alignment**: Neutral Good
@@ -17,7 +17,7 @@ Save |  +5  |  +0  |  +4  |  +2  |  +0  |  +1
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice |
 ----------: | --: | ---------: | ----: | -----: | -------: |
-         2  |  14 |         +3 |    30 |     10 |      1d8 |
+          2 |  14 |         +3 |    25 |     32 |      3d8 |
 
 ### Languages
 
@@ -31,22 +31,22 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice |
 ---| --------------- | ------- | -------:
    | Acrobatics      | Dex     | +3
    | Animal Handling | Wis     | +3
-   | Arcana          | Int     | +2
+   | Arcana          | Int     | +0
    | Athletics       | Str     | +5
-✓  | Deception       | Cha     | +1
-   | History         | Int     | +4
+✓  | Deception       | Cha     | +2
+   | History         | Int     | +1
    | Insight         | Wis     | +0
-   | Intimidation    | Cha     | +3
-   | Investigation   | Int     | +2
+   | Intimidation    | Cha     | +0
+   | Investigation   | Int     | +0
    | Medicine        | Wis     | +0
 ✓  | Nature          | Int     | +2
-✓  | Perception      | Wis     | +2
-   | Performance     | Cha     | +1
-   | Persuasion      | Cha     | +1
-   | Religion        | Int     | +4
-   | Sleight of Hand | Dex     | +0
+✓  | Perception      | Wis     | +5
+   | Performance     | Cha     | +0
+   | Persuasion      | Cha     | +0
+   | Religion        | Int     | +0
+   | Sleight of Hand | Dex     | +3
 ✓  | Stealth         | Dex     | +5
-   | Survival        | Wis     | +1
+   | Survival        | Wis     | +3
 
 ### Features and Traits
 
@@ -75,12 +75,12 @@ Shillelagh       |    +5     |  d8+3(b)  |   -     | Magical
 
 ### Cantrips ###
 
-- Druidcraft
+- Thorn Whip
 - Shillelagh
 
-### Level 1 ###
+### Level 1: 4/day ###
 
-TBD
+### Level 2: 2/day ###
 
 ## Background
 
