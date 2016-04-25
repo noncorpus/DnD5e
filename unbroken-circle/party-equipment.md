@@ -23,6 +23,9 @@ X    | Torches
 2    | Bottles of Poison
 1    | Out of shape horse shoes, metal shavings, nails  (bag of metal shrapnel)
 10ft | Rope
+1    | Fey Potpourri
+
+
 Pizza:
 - Matt 
 - Evan  
