@@ -53,7 +53,7 @@ Attacks are 1d20 + proficency (2) + dex (3)
  ✓ | Skill           | Attr | Modifier
 ---| --------------- | ---- | :-------:
 ✓✓| Acrobatics       | Dex  | +7
- | Animal Handling   | Wis  | +1
+ | Animal Handling   | Wis  | +1 *
  | Arcana            | Int  | +0
 ✓| Athletics         | Str  | +2
  | Deception         | Cha  | +3
@@ -62,14 +62,14 @@ Attacks are 1d20 + proficency (2) + dex (3)
  | Intimidation      | Cha  | +3
  | Investigation     | Int  | +0
  | Medicine          | Wis  | +1
- | Nature            | Int  | +0
+ | Nature            | Int  | +0 *
  | Perception        | Wis  | +1
  | Performance       | Cha  | +3
 ✓| Persuasion        | Cha  | +5
  | Religion          | Int  | +0
  | Sleight of Hand   | Dex  | +3
- | Stealth           | Dex  | +3
- | Survival          | Wis  | +1
+ | Stealth           | Dex  | +3 *
+ | Survival          | Wis  | +1 *
 
 
 **Languages**
@@ -90,6 +90,7 @@ Count  | Item
 Armor | AC
 ----- | -----
 Studded Leather armor  | 12
+Scale of the Forest Dragon | *Adv on Survival, Stealth, Nature, Animal Handling
 
 ### Poisons
 
@@ -118,6 +119,4 @@ I'm trying to pay off an old debt I owe to a generous benefactor.
 ### Flaw
 When I see something I want, I take it.
 
-## Last Encounter
-Left at 10 HP
 
