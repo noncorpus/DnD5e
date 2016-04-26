@@ -23,12 +23,15 @@ X    | Torches
 2    | Bottles of Poison
 1    | Out of shape horse shoes, metal shavings, nails  (bag of metal shrapnel)
 10ft | Rope
+1    | Fey Potpourri
+
+
 Pizza:
 - Matt 
 - Evan  
 - Sam 
-- Lukas <----  
-- Joanne 
+- Lukas   
+- Joanne <----
 
 Firehouse
 - Joanne: Hook and Ladder sandwich. wheat. fully involved. Small Sandwich
@@ -37,3 +40,6 @@ Firehouse
 - Matt: Hero on wheat, fully involved. Pickles on the side
 - Sam: Medium Italian, Wheat Bread, Fully Involved
 
+Crazy Wraps
+- Lukas: Santa Fe salad with grilled chicken, chips, and no avocado
+- Joanne: Caesar wrap

@@ -1,4 +1,17 @@
 # The Unbroken Circle
+**4/25/2016** - "Realm of the Forest God" - Our heroes explore the great tree in which they find themselves, discovering wonders both natural and unnatural alike. The many knots and folds of the massive plant teem with life, but none so fair and strange as the fae flowers whose petals birth warriors. In searching the tree, the adventurers briefly ally with a great dragon, who informs them that they travel within the body of Wister and helps them defeat one of the corrupting fae seeds. Now only four flowers remain, but so too does a wall of fae crystal, a barrier that keeps our heroes from reaching the apex of the plane, the top of the tree's living heart.
+
+*Additional Notes*
+* We fight a petal off the blue fey flower
+* We find a vine dragon
+* El convinces the dragon that Wister is in danger
+* Nolan attunes to the scale of the forest dragon
+* We go throughout the tree and check out each nook. 
+* We see large bugs, large grasshoppers
+* Nolan sees the winged creature he'd seen before (Moth) 80% up
+* There is a flower on the moth's back
+* We get to the top and hit a wall of crystals. 
+
 **4/11/2016** - “A Tale of Elves and the Wrath of Wister” - Ehadra, incredulous at her opponent’s power, allows him to retreat and tells the tale of how she came to the Wisterwood. She speaks of Cathavis, Temerous’ lost love, and the divide between her and Reth that brought him here to summon the Wyld Hunt. With the help of Agrat and the Dewweaver Oracle, the party goes to convince Wister of the evil being wrought in his domain. Instead of hearing reason, the god pulls them underground, where they find themselves crashing into a massive leaf and sparring with foul grubs. Fire comes to our heroes’ aid once more in the battle, after which they find themselves in a stranger situation than they’d thought. And, in the distance, a fae light beckons...
 
 *Additional Notes*
