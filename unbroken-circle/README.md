@@ -1,5 +1,5 @@
 # The Unbroken Circle
-**4/25/2016** -
+**4/25/2016** - "Realm of the Forest God" - Our heroes explore the great tree in which they find themselves, discovering wonders both natural and unnatural alike. The many knots and folds of the massive plant teem with life, but none so fair and strange as the fae flowers whose petals birth warriors. In searching the tree, the adventurers briefly ally with a great dragon, who informs them that they travel within the body of Wister and helps them defeat one of the corrupting fae seeds. Now only four flowers remain, but so too does a wall of fae crystal, a barrier that keeps our heroes from reaching the apex of the plane, the top of the tree's living heart.
 
 *Additional Notes*
 * We fight a petal off the blue fey flower
