@@ -34,11 +34,10 @@ Pizza:
 - Joanne <---- 
 
 Firehouse
-- Joanne: Hook and Ladder sandwich. wheat. fully involved. Small Sandwich
-- Evan: Engineer with Lettuce and Onion (Wheat, dry....only lettuce, mushroom and onion) Pickles on the side. Small Sandwich.
-- Lukas: Medium Club on a Sub, “fully involved” except mustard and onions. white bread
-- Matt: Hero on wheat, fully involved. Pickles on the side
-- Sam: Medium Italian, Wheat Bread, Fully Involved
+- Joanne: Medium Hook and Ladder sandwich. wheat. fully involved.
+- Evan: Medium Engineer with Lettuce and Onion (Wheat, dry....only lettuce, mushroom and onion). No Pickles. 
+- Lukas: Medium Club on a Sub on white, “fully involved” except mustard and onions. No Pickles
+- Matt: Large Hero on wheat, fully involved. No Pickles
 
 Crazy Wraps
 - Lukas: Santa Fe salad with grilled chicken, chips, and no avocado
