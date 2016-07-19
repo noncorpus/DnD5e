@@ -27,11 +27,10 @@ X    | Torches
 
 
 Pizza:
-- Matt 
+- Matt <---- 
 - Evan  
-- Sam 
 - Lukas   
-- Joanne <---- 
+- Joanne 
 
 Firehouse
 - Joanne: Medium Hook and Ladder sandwich. wheat. fully involved.
