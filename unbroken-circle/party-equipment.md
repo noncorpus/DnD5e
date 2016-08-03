@@ -28,8 +28,8 @@ X    | Torches
 
 Pizza:
 - Matt  
-- Evan  <----
-- Lukas   
+- Evan  
+- Lukas <----  
 - Joanne 
 
 Firehouse
