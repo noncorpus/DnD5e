@@ -27,9 +27,9 @@ X    | Torches
 
 
 Pizza:
-- Matt  
-- Evan  
-- Lukas <----  
+- Matt  <---- (8/22)
+- Evan  <---- (8/15)
+- Lukas  
 - Joanne 
 
 Firehouse
@@ -43,7 +43,8 @@ Crazy Wraps
 - Joanne: Caesar wrap
 
 Evan's Address:
-
+15115 Appalachian Trail
+Chesterfield, MO
 
 Phone Numbers:
 Joanne - 562.458.0632
