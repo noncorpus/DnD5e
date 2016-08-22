@@ -70,6 +70,13 @@ Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
 Quarter Staff  |     +5    | d8 + 5(s)  |         | Light, finesse
                |     +5    | d6 + 5(s)  |         | Light, finesse
+
+Faelight Wand
+5 charges / 1d4 charges restore on moonrise
+1 - Dancing LIghts
+2 - Faerie Fire
+5 - Pyrotechnics (break)
+
 Radiant Sun Bolt
 30 Ft. Proficient. Add (+3)Dex to attack and damage rolls
 Damage, d4 (changes as I gain levels)
