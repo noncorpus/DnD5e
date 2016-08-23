@@ -1,8 +1,8 @@
 # The Unbroken Circle
 
-[Roll20](https://app.roll20.net/join/1611271/hkUwEQ)
+[Roll20 Campaign Link](https://app.roll20.net/join/1611271/hkUwEQ)
 
-**8/22/2016** - 
+**8/22/2016** - "Roots of Crystal" - After a long break in the action, the Fated Four find themselves once more lingering before a wall of crystal roots preventing passage to the canopy of Wister’s domain. With a single root shattered, the adventurers realize the connection between the plague of the daggerflowers within the tree and the barrier preventing them from reaching the top of the great tree. All that complicates the machinations of the party are the locations of the flowers, including one on the back of Richard the Giant Moth and another within the realm of the Esserflanze, which devours all who trespass within its domain.
 
 *Additional Notes*
 * We are in Day 4 of Cycle 3
@@ -15,7 +15,6 @@
 * We head towards the flower Richard describes at the top of the vines
 * Flowers distort grass around it
 * We engage another flower. Has 3 petals left. 
-
 
 **4/25/2016** - "Realm of the Forest God" - Our heroes explore the great tree in which they find themselves, discovering wonders both natural and unnatural alike. The many knots and folds of the massive plant teem with life, but none so fair and strange as the fae flowers whose petals birth warriors. In searching the tree, the adventurers briefly ally with a great dragon, who informs them that they travel within the body of Wister and helps them defeat one of the corrupting fae seeds. Now only four flowers remain, but so too does a wall of fae crystal, a barrier that keeps our heroes from reaching the apex of the plane, the top of the tree's living heart.
 
