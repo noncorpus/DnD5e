@@ -2,6 +2,21 @@
 
 [Roll20](https://app.roll20.net/join/1611271/hkUwEQ)
 
+**8/22/2016** - 
+
+*Additional Notes*
+* We are in Day 4 of Cycle 3
+* Goals: Get out, source of Fey menace. There is a corruption (flowers). Found 2 of 5 flowers
+* We see wall of vines that correspond to flowers
+* We investigate a room at the entrance of the cave with a flower in it with 5 flower petals
+* We defeat the flower
+* Nolan steers the moth to the cieling
+* Ella speaks to Richard (Moth) and snips away petals; which we destroy
+* We head towards the flower Richard describes at the top of the vines
+* Flowers distort grass around it
+* We engage another flower. Has 3 petals left. 
+
+
 **4/25/2016** - "Realm of the Forest God" - Our heroes explore the great tree in which they find themselves, discovering wonders both natural and unnatural alike. The many knots and folds of the massive plant teem with life, but none so fair and strange as the fae flowers whose petals birth warriors. In searching the tree, the adventurers briefly ally with a great dragon, who informs them that they travel within the body of Wister and helps them defeat one of the corrupting fae seeds. Now only four flowers remain, but so too does a wall of fae crystal, a barrier that keeps our heroes from reaching the apex of the plane, the top of the tree's living heart.
 
 *Additional Notes*
