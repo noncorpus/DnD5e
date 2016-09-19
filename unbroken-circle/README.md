@@ -2,6 +2,11 @@
 
 [Roll20 Campaign Link](https://app.roll20.net/join/1611271/hkUwEQ)
 
+**9/19/2016** -
+
+*Additional Notes*
+* 
+
 **8/22/2016** - "Roots of Crystal" - After a long break in the action, the Fated Four find themselves once more lingering before a wall of crystal roots preventing passage to the canopy of Wister’s domain. With a single root shattered, the adventurers realize the connection between the plague of the daggerflowers within the tree and the barrier preventing them from reaching the top of the great tree. All that complicates the machinations of the party are the locations of the flowers, including one on the back of Richard the Giant Moth and another within the realm of the Esserflanze, which devours all who trespass within its domain.
 
 *Additional Notes*
@@ -25,7 +30,7 @@
 * Nolan attunes to the scale of the forest dragon
 * We go throughout the tree and check out each nook. 
 * We see large bugs, large grasshoppers
-* Nolan sees the winged creature he'd seen before (Moth) 80% up
+* Nolan sees the winged creature he'd seen before (Moth - Richard) 80% up
 * There is a flower on the moth's back
 * We get to the top and hit a wall of crystals. 
 
