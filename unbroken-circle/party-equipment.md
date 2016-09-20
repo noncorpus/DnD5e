@@ -7,7 +7,7 @@
 1    | Book of Sick (2 charge)
 3    | Jars of Goodberry Honey
 1    | Tinder Box
-3    | Molotov Cocktails
+3    | Molotov Cocktails (1 used)
 10   | Lamp Oil Bombs
 X    | Torches
 40ft | Bandages (Medical Check)
@@ -27,10 +27,10 @@ X    | Torches
 
 
 Pizza:
-- Matt  
+- Matt <----
 - Evan  
 - Lukas  
-- Joanne <----
+- Joanne
 
 Firehouse
 - Joanne: Medium Hook and Ladder sandwich. wheat. fully involved.
