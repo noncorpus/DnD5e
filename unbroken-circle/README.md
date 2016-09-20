@@ -5,6 +5,11 @@
 **9/19/2016** -
 
 *Additional Notes*
+* Use 2 charges of faelight wand
+* Dagger flower removed
+* Plant thing ran away
+* 500 gold in the back
+* 3 Ruby (150 gold each)
 * 
 
 **8/22/2016** - "Roots of Crystal" - After a long break in the action, the Fated Four find themselves once more lingering before a wall of crystal roots preventing passage to the canopy of Wister’s domain. With a single root shattered, the adventurers realize the connection between the plague of the daggerflowers within the tree and the barrier preventing them from reaching the top of the great tree. All that complicates the machinations of the party are the locations of the flowers, including one on the back of Richard the Giant Moth and another within the realm of the Esserflanze, which devours all who trespass within its domain.
