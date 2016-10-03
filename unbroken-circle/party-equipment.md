@@ -39,9 +39,10 @@ Firehouse
 - Matt: Large Hero on wheat, fully involved. No Pickles
 
 Crazy Bowls & Wraps
-- Lukas: Santa Fe salad with grilled chicken, chips, and no avocado
-- Joanne: Caesar wrap
+- Lukas: Santa Fe salad with grilled chicken, chips, and no avocado, flour tortilla
+- Joanne: Caesar wrap, quinoa, chicken, tomato tortilla
 - Evan: Mediteranean wrap with tofu and quinoa, and no tomatoes
+- Matt: Thai wrap, chicken, flour tortilla, jasmine rice
 
 Evan's Address:
 15115 Appalachian Trail
