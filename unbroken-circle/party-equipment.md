@@ -38,9 +38,10 @@ Firehouse
 - Lukas: Medium Club on a Sub on white, “fully involved” except mustard and onions. No Pickles
 - Matt: Large Hero on wheat, fully involved. No Pickles
 
-Crazy Wraps
+Crazy Bowls & Wraps
 - Lukas: Santa Fe salad with grilled chicken, chips, and no avocado
 - Joanne: Caesar wrap
+- Evan: Mediteranean wrap with tofu and quinoa, and no tomatoes
 
 Evan's Address:
 15115 Appalachian Trail
