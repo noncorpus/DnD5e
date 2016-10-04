@@ -8,7 +8,7 @@
 3    | Jars of Goodberry Honey
 1    | Tinder Box
 3    | Molotov Cocktails (3 used)
-10   | Lamp Oil Bombs (3d6 Fire Damage) (3 Used)
+10   | Lamp Oil Bombs (3d6 Fire Damage) (4 Used)
 X    | Torches
 40ft | Bandages (Medical Check)
 2    | Bottles
