@@ -2,7 +2,7 @@
 
 [Roll20 Campaign Link](https://app.roll20.net/join/1611271/hkUwEQ)
 
-**10/3/2016** - With an overwhelming force of ether worms descending upon them, the Fated Four hurry to loose the Bastion Flower from its roots and send it careening from Wister’s branches. Luckily, their plan goes off with few injuries, save to the final devastated Daggerflower. With the roots cleared, our heroes step into Wister’s grand Canopy, only to find it invested with fae malevolence. The Crystalline Corruption at Wister’s very heart strikes with a fell savagery against the adventurers, only to fall to a continual assault of flames and force levied by the party. When the crystals finally shatter, they reveal four strange beings within, beings curious about just who the sudden interlopers are.
+**10/3/2016** - "Heart of the Forest" - With an overwhelming force of ether worms descending upon them, the Fated Four hurry to loose the Bastion Flower from its roots and send it careening from Wister’s branches. Luckily, their plan goes off with few injuries, save to the final devastated Daggerflower. With the roots cleared, our heroes step into Wister’s grand Canopy, only to find it invested with fae malevolence. The Crystalline Corruption at Wister’s very heart strikes with a fell savagery against the adventurers, only to fall to a continual assault of flames and force levied by the party. When the crystals finally shatter, they reveal four strange beings within, beings curious about just who the sudden interlopers are.
 
 *Additional Notes*
 * We've cut the flower's roots and destroyed the flower
