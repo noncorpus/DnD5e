@@ -10,6 +10,9 @@
 * Head back to the top of the tree with the crystaline structure
 * We defeat the Crystaline Corruption
 * We see tall young man with green suit and plant-y bowtie, toddler in a tuxedo, woman in red gown and old man. 
+* Old man asks "what were we talking about again?"
+* Woman in red dress asks "who are you?"
+* Rewards next time!!!
 
 
 **9/19/2016** - “When All You Have Are Molotovs…” - Unwilling to submit to the terrifying maw of the Esserflanze, the Fated Four stand strong and eventually drive the fearsome plant away after it takes a few bites out of some of our less-armored heroes. When they finally force it to retreat and expunge the nearby Daggerflower, they are rewarded with the remnants of others who fared less well against the floral menace. Finally our heroes trek down to the last of the Daggerflowers, but they are met with familiar invulnerable petals and crawling grubs. While fire makes breaking the line of maggots simple, will it help against the Bastion Flower?
