@@ -15,12 +15,12 @@
 
 |      |Str  | Dex  | Con  | Int  | Wis  | Cha
 | ---  | --: | --:  | --:  | --:  | --:  | --:
-| Raw  |  11 |  16  |  12  |  11  |  16  |  11
-| Mod  |   0 |  +3  |  +1  |   0  |  +3  |  0
+| Raw  |  11 |  18  |  12  |  11  |  16  |  11
+| Mod  |   0 |  +4  |  +1  |   0  |  +3  |  0
 
 Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki  | Luck
 ----------: | --: | ---------: | ----: | -----: | -------: | --: | --:
-         +2 |  16 |         3  | 35    |     24 | 1d8  (2 used)    | 3   |  3
+         +2 |  17 |         3  | 45    |     24 | 1d8    | 4   |  3
 
 #### Proficiencies (pg. 77)
 * Armor: none
@@ -33,7 +33,7 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki  | Luck
 ### Skills & Spells
  ✓ | Skill           | Attr | Modifier
 ---| --------------- | ---- | :-------:
-✓| Acrobatics        | Dex  | +5
+✓| Acrobatics        | Dex  | +6
  | Animal Handling   | Wis  | +3
  | Arcana            | Int  | +0
  | Athletics         | Str  | +0
@@ -48,8 +48,8 @@ Proficiency | AC  | Initiative | Speed | Max HP | Hit Dice | Ki  | Luck
  | Performance       | Cha  | +0
 ✓| Persuasion       | Cha  | +2
  | Religion          | Int  | +0
- | Sleight of Hand   | Dex  | +3
- | Stealth           | Dex  | +3
+ | Sleight of Hand   | Dex  | +4
+ | Stealth           | Dex  | +4
  | Survival          | Wis  | +3
 
 
@@ -69,7 +69,7 @@ Common, Elvish
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
 Quarter Staff  |     +5    | d8 + 5(s)  |         | Light, finesse
-               |     +5    | d6 + 5(s)  |         | Light, finesse
+Unarmed        |     +5    | d4 + 5(s)  |         | Martial Art
 
 Faelight Wand
 5 charges / 1d4 charges restore on moonrise
@@ -84,6 +84,20 @@ Damage, d4 (changes as I gain levels)
 Defelct Missiles
 Use reaction to reduce attack by 1d10+ (+3)Dex + (3)monk level
 Can use Ki to throw it back
+
+Slow Fall
+
+Flurry of Blows
+
+Immediately after you take the Attack action on Your Turn, you can spend 1 ki point to make two unarmed strikes as a Bonus Action.
+
+Patient Defense
+
+You can spend 1 ki point to take the Dodge action as a Bonus Action on Your Turn.
+
+Step of the Wind
+
+You can spend 1 ki point to take the Disengage or Dash action as a Bonus Action on Your Turn, and your jump distance is doubled for the turn.
 
 ## Background
 
