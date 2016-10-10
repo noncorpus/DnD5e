@@ -99,6 +99,10 @@ Step of the Wind
 
 You can spend 1 ki point to take the Disengage or Dash action as a Bonus Action on Your Turn, and your jump distance is doubled for the turn.
 
+Deflect Missiles
+
+Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon Attack. When you do so, the damage you take from the Attack is reduced by 1d 10 + your Dexterity modifier + your monk level.
+
 ## Background
 
 Age | Height | Weight  | 
