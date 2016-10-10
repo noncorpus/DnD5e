@@ -1,10 +1,10 @@
 # Meriel Alwine
 
-* **Class :: Level** Monk :: 3rd 
+* **Class :: Level** Monk :: 4th 
 * **Race** Human - Mulan - Way of the Sun Soul
 * **Alignment** Neutral
 * **Player** Joanne
-* **Experience Points** 1700
+* **Experience Points** 1700 (don't matter)
 
 ### Features
 * Expertise: Profeciency is doubled for Acrobatics and Thieves Tools
