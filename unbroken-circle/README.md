@@ -5,7 +5,11 @@
 **10/10/2016** - 
 
 *Additional Notes*
-* 
+* Meet Wister's seasonal ambassadors. Counselor Spring, Hearld Fall, Lecturer Winter, Summer.
+* Ella - Autumn - Reaping Scythe: +1 Scythe, Harvest 20 (ADV), Harvest 50 (Crit) - proficiency - once per long rest, Harvest 1/LR, ^ usable in shapechange
+* El - Winter - Bastion of Winter: +1 breastplate, as Bonus Action, activate Cold Aura (Halve Speed of creatures within 10 ft.) Zone of control. Add plus one to AC
+* Nolan - Spring - Circlet of the Dawn: Heal target in 60 ft. as an Action for 1d8+CHA HP (CHA/LR); ADV on Persuasion.
+* Meriel - Summer - Verdant Girdle: 1/SR, grants an additional Bonus Action/Reaction on chosen turn.
 
 **10/3/2016** - "Heart of the Forest" - With an overwhelming force of ether worms descending upon them, the Fated Four hurry to loose the Bastion Flower from its roots and send it careening from Wister’s branches. Luckily, their plan goes off with few injuries, save to the final devastated Daggerflower. With the roots cleared, our heroes step into Wister’s grand Canopy, only to find it invested with fae malevolence. The Crystalline Corruption at Wister’s very heart strikes with a fell savagery against the adventurers, only to fall to a continual assault of flames and force levied by the party. When the crystals finally shatter, they reveal four strange beings within, beings curious about just who the sudden interlopers are.
 
