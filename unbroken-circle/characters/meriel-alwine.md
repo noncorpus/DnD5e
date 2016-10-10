@@ -100,6 +100,12 @@ You can spend 1 ki point to take the Disengage or Dash action as a Bonus Action 
 Deflect Missiles
 Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon Attack. When you do so, the damage you take from the Attack is reduced by 1d 10 + your Dexterity modifier + your monk level.
 
+Open Hand Technique
+Starting when you choose this tradition at 3rd level, you can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
+It must succeed on a Dexterity saving throw or be knocked prone.
+It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
+It can’t take reactions until the end of your next turn.
+
 ## Background
 
 Age | Height | Weight  | 
