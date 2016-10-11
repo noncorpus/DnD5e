@@ -13,6 +13,10 @@
 * They'll be wary of any more impacts on Wister
 * Ritual was cast and not sure if he can hold them back
 * Waking up into Day 5
+* Ping to level 4
+* Harbringer is there when we are in the Woods. 
+* Another creature is there - Deliverer
+* 
 
 **10/3/2016** - "Heart of the Forest" - With an overwhelming force of ether worms descending upon them, the Fated Four hurry to loose the Bastion Flower from its roots and send it careening from Wister’s branches. Luckily, their plan goes off with few injuries, save to the final devastated Daggerflower. With the roots cleared, our heroes step into Wister’s grand Canopy, only to find it invested with fae malevolence. The Crystalline Corruption at Wister’s very heart strikes with a fell savagery against the adventurers, only to fall to a continual assault of flames and force levied by the party. When the crystals finally shatter, they reveal four strange beings within, beings curious about just who the sudden interlopers are.
 
