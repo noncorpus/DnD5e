@@ -2,7 +2,7 @@
 
 [Roll20 Campaign Link](https://app.roll20.net/join/1611271/hkUwEQ)
 
-**10/10/2016** - 
+**10/10/2016** - “The Seasonal Ambassadors” - From the core of the Crystalline Corruption, the Seasonal Ambassadors of Wister emerge to greet and question the Fated Four who have rescued them from the fae menace. Wister’s councillors vow to avoid the fae’s cursed deals in the future and present fragments of their power to the adventurers for use in the fight against the forest’s enemies. Our heroes can now count Wister as an ally, but the coming of morning brings another of the Expectant with dark tidings: the approaching doom of the Wyld Hunt. The Fated Four go to stall the tides of the faewyld, even knowing the havoc it can wreak.
 
 *Additional Notes*
 * Meet Wister's seasonal ambassadors. Counselor Spring, Hearld Fall, Lecturer Winter, Summer.
