@@ -1,4 +1,4 @@
-# Meriel Alwine
+# Meriel Alwine (Soaring Falcon-fist)
 
 * **Class :: Level** Monk :: 4th 
 * **Race** Human - Mulan - Way of the Sun Soul
