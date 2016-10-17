@@ -68,8 +68,12 @@ Common, Elvish
 
 Weapon         | Atk Bonus | Damage     | Range   | Properties
 ------         | :-------: | -----:     | :---:   | ----------
-Quarter Staff  |     +5    | d8 + 5(s)  |         | Light, finesse
+Quarter Staff  |     +6    | d8 + 5(s)  |         | Light, finesse
 Unarmed        |     +5    | d4 + 5(s)  |         | Martial Art
+
++1 quarterstaff (starsteel)
+Attunement: Once per Short Rest, may use the quarterstaff's damage die (d8) for Monk abilities (Flurry of Blows, etc.).
+
 
 Faelight Wand
 5 charges / 1d4 charges restore on moonrise
