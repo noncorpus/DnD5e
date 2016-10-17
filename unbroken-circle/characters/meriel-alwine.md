@@ -77,6 +77,8 @@ Faelight Wand
 2 - Faerie Fire
 5 - Pyrotechnics (break)
 
+Verdant Girdle: 1/SR, grants an additional Bonus Action/Reaction on chosen turn.
+
 Radiant Sun Bolt
 30 Ft. Proficient. Add (+3)Dex to attack and damage rolls
 Damage, d4 (changes as I gain levels)
