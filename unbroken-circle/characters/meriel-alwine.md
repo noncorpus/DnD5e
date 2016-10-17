@@ -74,6 +74,7 @@ Unarmed        |     +5    | d4 + 5(s)  |         | Martial Art
 +1 quarterstaff (starsteel)
 Attunement: Once per Short Rest, may use the quarterstaff's damage die (d8) for Monk abilities (Flurry of Blows, etc.).
 
+Minions: Joy-Within-Strife, Beauty-Of-Imperfection, and Clouds-Above-Silence.
 
 Faelight Wand
 5 charges / 1d4 charges restore on moonrise
