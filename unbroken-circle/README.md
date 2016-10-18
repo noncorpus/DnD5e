@@ -2,7 +2,7 @@
 
 [Roll20 Campaign Link](https://app.roll20.net/join/1611271/hkUwEQ)
 
-**10/17/2016** - 
+**10/17/2016** - “Where We Go When We Return” - The Wyld Hunt marches on Wister and the Fated Four stand in its path, doing what they can to stem the tides. Yet the fae forces are far too many, and they are overcome once again, only to be awakened at the beginning of the Third Cycle. There they find more changes than ever. Ella is a master criminal, head of an organization which spreads the bounty of Iris’. Meriel is a teacher of monastic tradition and keeper of a legendary staff of her Order. Elgath is a weaponsmaster and esteemed general with a faithful and deadly hound by his side. Nolan is the powerful protege of a deadly assassin whose skills in swordplay and poisoncraft grow stronger every day. Once again the Fated Four meet in the town square, friends from another lifetime, and encounter the Chronicler who started it all. And once again they go to end it, hoping they finally possess the power they require.
 
 *Additional Notes*
 * Die and wake up again a week later
