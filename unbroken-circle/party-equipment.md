@@ -7,8 +7,8 @@
 1    | Book of Sick (2 charge)
 3    | Jars of Goodberry Honey
 1    | Tinder Box
-3    | Molotov Cocktails (3 used)
-10   | Lamp Oil Bombs (3d6 Fire Damage) (4 Used)
+3    | Molotov Cocktails
+10   | Lamp Oil Bombs (3d6 Fire Damage)
 X    | Torches
 40ft | Bandages (Medical Check)
 2    | Bottles
