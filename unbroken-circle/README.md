@@ -2,7 +2,7 @@
 
 [Roll20 Campaign Link](https://app.roll20.net/join/1611271/hkUwEQ)
 
-**10/17/2016** - 
+**10/17/2016** - “The Broken Circle” - Wielding the power earned during many trips through Fate and the knowledge provided by their recurring histories, the Fated Four march upon the Orchid Rift, the site where Reth will attempt to call the Wyld Hunt to the plane. Extra days allow for potent preparation, but Reth nevertheless arrives with a mighty retinue and many fearsome abilities of his own. The Four struggle mightily against Reth, and even after they are brought low by wounds both deep and mortal, a final spark puts Reth’s plans to the flame. When the Four are pulled through Fate for the final time, they arrive as strangers and saviors in their former home of Seedbreeze. The festival they once saw burn is now the happy day that all anticipated, a day that arrived only because of the unknowable toils of their hidden heroes. Yet there are five who recognize their accomplishments. The Expectant are pleased with the Fated Four, and, knowing their strength, recruit them for yet another adventure…
 
 *Additional Notes*
 * We have two days to prep for Reth's appearance
