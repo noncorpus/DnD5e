@@ -28,7 +28,7 @@ X    | Torches
 
 Pizza:
 - Matt <---- 
-- Evan (skip. covered 10/14) 
+- Evan (skip. Covered 11/21/16)
 - Lukas 
 - Joanne 
 
