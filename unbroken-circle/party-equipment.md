@@ -27,9 +27,9 @@ X    | Torches
 
 
 Pizza:
-- Matt <---- 
-- Evan (skip. Covered 11/21/16)
-- Lukas 
+- Matt 
+- Evan 
+- Lukas <---
 - Joanne 
 
 Firehouse
