@@ -15,6 +15,11 @@ Roll 20: https://app.roll20.net/campaigns/details/1956160/an-umbral-zenith
 - Iipy is a "cultist"/"believer"
 - We put a 10 gold bounty on sarah
 - Iipy meets us at the tavern
+- Whistle uses his connections to locate Sarah
+- Person is concerned by being surrounded by Tengu (Sarah)
+- They take her necklace (Undead creatures)
+- We bury Sarah and interrogate the remaining Tengu cultist
+
 
 
 
