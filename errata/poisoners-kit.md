@@ -18,6 +18,8 @@ __Poisoner’s Kit__
     * Ingredients (better ingredients allow poisons to be made more easily)
         * Some ingredients may only reduce DC for certain kinds of poisons (example: Create DC -5 for a Contact Poison that deals d8 damage per round).
         * In some games, some Poison Traits may require certain ingredients (example: your DM explains that a Fire damage poison cannot be made without crushed fire beetle shells, which also give Create DC -10).
+        * Ingredients should be able to be purchased (alchemist, apothecary, etc.) or harvested (Nature checks in relevant areas as determined by DM)
+        * Ingredients will be added at the DM's discretion and will provide bonuses as determined by the DM.
     * Additional Circumstances (as ruled by your GM)
         * Poisoner's Laboratory: __Create DC -10__ (Basically a MEGA Poisoner's Kit - Costs 3000 GP to build; 60 GP to restock after 10 uses)
         * Poison Expertise: If your character is able to gain additional proficiency in a certain style of poison, your DM may allow a Create DC reduction to that type.
