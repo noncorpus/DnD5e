@@ -53,4 +53,4 @@ _Trapmaker’s Kit_
 | | | | Necrotic (+4 DC) | | | Charmed (+8 DC) | | | | | |
 | | | | Radiant (+4 DC)	| | | Petrified (+9 DC) | | | | | |
 | | | | Force (+5 DC) | | | Stunned (+10 DC) | | | | | |
-| | | | | | | | Unconscious (+12 DC) | | | | | |
+| | | | | | | Unconscious (+12 DC) | | | | | |
