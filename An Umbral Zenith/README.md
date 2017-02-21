@@ -34,6 +34,7 @@ Roll 20: https://app.roll20.net/campaigns/details/1956160/an-umbral-zenith
 - Small creature on right is downed by Chuko
 - Small on the left is downed by Alphabet
 - We make it to Korra's at daybreak. Her hovel is a thatched hut. As we ride up, there's an older halfling woman. She does not seem impressed but she lets us in
+- We're half way to third. Make note of what you want to do at 3rd level. 
 
 # Episode 1
 **1/30/2017**
