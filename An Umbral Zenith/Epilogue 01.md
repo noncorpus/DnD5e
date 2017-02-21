@@ -1,6 +1,6 @@
 # Epilogue 1
 
-A considering finger traces ovrer an obsidian ring; each circle a deliberate and careful memory of a lifetime long past.
+A considering finger traces over an obsidian ring; each circle a deliberate and careful memory of a lifetime long past.
 
 He sits in a high-backed chair, itself placed before a hearth that crackles not with the warmth of flame, but with an enervating draw that seems to bring small comfort to the creature.
 
