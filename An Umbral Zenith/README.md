@@ -14,7 +14,26 @@ Roll 20: https://app.roll20.net/campaigns/details/1956160/an-umbral-zenith
 - Sentient undead - death knight; skeletal mage (probably not a lich)
 - Cult of the Shrouded is one of the oldest. Usually not in trouble legally, but accost travelers. They think that if they steal enough of things, they'll achieve sentience. 
 - Believe that the people they accost are more than what they appear to be (shapeshifters? something else?) A key, letter opener....random shit. They're hyper competitive. 
-- Rock - alabaster color (or a polished granite), kind of looked like a human heart. kinda looks like it had a valve. Could be used for enchancements. Abderation, divination? Enchanted for a purpose, but not sure what?
+- Rock - alabaster color (or a polished granite), kind of looked like a human heart. kinda looks like it had a valve. Could be used for enchancements. Abderation, divination? Enchanted for a purpose, but not sure what? Could be a lich's vessel.
+- Tengu - as far as people know, all the birds are in cults. gather in groups
+- We are taken to the precinct and speak with Inspector Sulfur
+- As we are being interrogated, but we are suddenly moving very slowly 
+- There is suddenly another presence (figure: woman in short robe over mythrll armor, blonde hair, half-elf -Sirrus) in the room with us. She is moving at normal speed. 
+- Sarah was actually named Alta and was also a half-elf. They had an agreement with the cult, but they had become more aggressive. 
+- What is going on?
+- What are the three things she's terrified of?
+- Pushing us towards Korra (Southwest coast (just off the coast) we'll know how to find her)
+- We reverse-dream-remember country witch in Briar Hurst where Korra lives
+- Sun is setting. We remember a horse farm where we can get mounts
+- Two small creatures on the left. Small and slightly larger (medium, dwarf like) on the right (non humanoid)
+- Sounds like someone is mixing leaves together. Leaves dont match movements
+- Small ones try to start flanking us. 
+- Small creature is down and not moving
+- Creature looks like a large tree stump (medium) with mouth that extends 5 feet
+- Sappling has a viney slingshot (small creature)
+- Small creature on right is downed by Chuko
+- Small on the left is downed by Alphabet
+- We make it to Korra's at daybreak. Her hovel is a thatched hut. As we ride up, there's an older halfling woman. She does not seem impressed but she lets us in
 
 # Episode 1
 **1/30/2017**
