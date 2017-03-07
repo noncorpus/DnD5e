@@ -1,8 +1,8 @@
 Pizza:
 - Matt 
 - Evan 
-- Lukas <---
-- Joanne 
+- Lukas 
+- Joanne <---
 
 Firehouse
 - Joanne: Medium Meatball Sub on White. 
