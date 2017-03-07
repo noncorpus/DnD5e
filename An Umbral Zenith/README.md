@@ -2,6 +2,22 @@
 
 Roll 20: https://app.roll20.net/campaigns/details/1956160/an-umbral-zenith
 
+# Episode 3
+**3/06/2017**
+- Korra remembers a dream with Alta
+- Korra (human, streaks of grey in her dark brown hair)
+- She's an apothecary for the locals
+- Korra seems bothered by mention of Sirrus but perks up at Alta's name
+- Korra is in shock after hearing of Alta (we fill her into the details)
+- What is Sirrus? Apagean - they seem facscinated by our world, like tourists
+- Her work was mostly observance
+- Korra is terrified by the mention of the loss of the alabaster heart
+- There is another realm that is the opposite of where the Apageans are from
+- Apageans are timeless, the Sallowlands are eternal - everything is dead, not decaying. Just dead.
+- The Encara Core is the alabaster heart. It's a perfect vessel. To live one's dreams or live forever. 
+- If a lich puts itself in the Encara Core, it will live forever
+- 
+
 # Episode 2
 **2/20/2017**
 - We awaken the Tengu and interrogate
