@@ -16,7 +16,15 @@ Roll 20: https://app.roll20.net/campaigns/details/1956160/an-umbral-zenith
 - Apageans are timeless, the Sallowlands are eternal - everything is dead, not decaying. Just dead.
 - The Encara Core is the alabaster heart. It's a perfect vessel. To live one's dreams or live forever. 
 - If a lich puts itself in the Encara Core, it will live forever
-- 
+- Options: potion healing, climbing, firebreath, resistance, hill giant strength, water breathing, oil of slipperiness, dimunition, gaseous form, 
+- 28 total. 
+- 4 potions of water breathing
+- healing, 3 resistance, gaseous form, 2 hill giant strength
+- 3 healing, climbing, gaseous form, fire breath, one hill giant strength
+- immovable rod
+- drift globe - emminates light
+- grey bag of tricks - fuzzy animal d8
+- deck of many things
 
 # Episode 2
 **2/20/2017**
