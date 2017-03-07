@@ -38,6 +38,8 @@ Roll 20: https://app.roll20.net/campaigns/details/1956160/an-umbral-zenith
 - Nothing worth noting are the mountains in the distance.
 - No stars, no idea if there are clouds. Don't know if the sun is out. (twilight or daybreak - very dim)
 - Everything is supressed (no mechanical effect)
+- Three batlike creatures appear
+
 
 
 # Episode 2
