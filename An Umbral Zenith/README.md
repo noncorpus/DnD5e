@@ -21,10 +21,24 @@ Roll 20: https://app.roll20.net/campaigns/details/1956160/an-umbral-zenith
 - 4 potions of water breathing
 - healing, 3 resistance, gaseous form, 2 hill giant strength
 - 3 healing, climbing, gaseous form, fire breath, one hill giant strength
-- immovable rod
-- drift globe - emminates light
-- grey bag of tricks - fuzzy animal d8
-- deck of many things
+- immovable rod (Sam)
+- drift globe - emminates light (Joanne)
+- grey bag of tricks - fuzzy animal d8 (Evan)
+- deck of many things (Lukas)
+- We're at sea for three days to go to the other side of the island. We're now heading due south
+- Korra gives us potions of waterbreathing
+- We're to look for a large fissure in which the light does not work correctly around it. 
+- Is a safe point of transit from here to there. 
+- We enter the fissure and we see rocky outcroppings
+- As we enter the fissure, there's a moment of intense buzzing. 
+- we are no longer swimming, the ground is dark and cracked. Mountains in the distance. 
+- Everything is still and slightly cold.
+- Sound of wind, we can hear it, but not feel it.
+- On the ground is scrub grass; colors muted.
+- Nothing worth noting are the mountains in the distance.
+- No stars, no idea if there are clouds. Don't know if the sun is out. (twilight or daybreak - very dim)
+- Everything is supressed (no mechanical effect)
+
 
 # Episode 2
 **2/20/2017**
